@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-01T18:25:50.065644Z",
-  "total": 10931,
+  "generated_at": "2026-09-07T03:33:47.334331Z",
+  "total": 10927,
   "browser_limit": 600,
   "priorities": {
     "15": 81,
-    "20": 10850
+    "20": 10846
   },
   "review_reasons": {
-    "candidate credential identity needs verification": 10850,
+    "candidate credential identity needs verification": 10846,
     "free-price signal needs credential-level promotion review": 81
   },
   "records": [
@@ -1239,7 +1239,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=88",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1254,7 +1254,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=65",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1269,7 +1269,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=93",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1284,7 +1284,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=25",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1299,7 +1299,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=38",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1314,7 +1314,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=71",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1329,7 +1329,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=72",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1344,7 +1344,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=26",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1359,7 +1359,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc1/courses.jsp?type=109",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1374,7 +1374,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/courses.jsp?type=40",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1389,7 +1389,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/cso-part/rus/partners/training/cso/timetable?country=&id=90",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1404,7 +1404,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/texts/ekz_1c_spec.htm",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1419,7 +1419,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=27",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1434,7 +1434,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/expert.htm",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1449,7 +1449,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=719",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1464,7 +1464,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=84",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1479,7 +1479,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses_web.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1494,7 +1494,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc1/course.jsp?id=791",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1509,7 +1509,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=540",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1524,7 +1524,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=83",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1539,7 +1539,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=67",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1554,7 +1554,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/newslist.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1569,7 +1569,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=79",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1584,7 +1584,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/default.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1599,7 +1599,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/hotels.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1614,7 +1614,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/corporate.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1629,7 +1629,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/default.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1644,7 +1644,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/default.jsp",
       "source_page": "https://1c.ru/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1659,7 +1659,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc3/default.jsp",
       "source_page": "https://1c.ru/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1674,7 +1674,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses_diving.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1689,7 +1689,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=2",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1704,7 +1704,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/default.jsp",
       "source_page": "https://1c.ru/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1719,7 +1719,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc1/course.jsp?id=765",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1734,7 +1734,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/newslist.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1749,7 +1749,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/default.jsp",
       "source_page": "https://1c.ru/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1764,7 +1764,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/cso-part/rus/partners/training/cso/",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1779,7 +1779,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses_online.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1794,7 +1794,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=436",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1809,7 +1809,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=78",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1824,7 +1824,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=322",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1839,7 +1839,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc1/course.jsp?id=1070",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1854,7 +1854,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=89",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1869,7 +1869,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=80",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1884,7 +1884,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=82",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1899,7 +1899,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=459",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1914,7 +1914,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/teachers.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1929,7 +1929,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/cso-part/rus/partners/training/cso/teachers_learning.htm",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1944,7 +1944,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=675",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1959,7 +1959,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=214",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1974,7 +1974,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=161",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -1989,7 +1989,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=340",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2004,7 +2004,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/default.jsp",
       "source_page": "https://1c.ru/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2019,7 +2019,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/cso-part/rus/partners/training/cso/timetable.jsp?f=1&country=00",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2034,7 +2034,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/cso-part/rus/partners/training/cso/timetable.jsp?f=1&city=Москва",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2049,7 +2049,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/cso-part/rus/partners/training/cso/timetable.jsp?f=1&city=Санкт-Петербург",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2064,7 +2064,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/timetable.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2079,7 +2079,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/timetable.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2094,7 +2094,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/edu-info.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2109,7 +2109,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/courses.jsp?type=81",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2124,7 +2124,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/cso-part/rus/partners/training/cso/courses.jsp",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2139,7 +2139,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/cso-part/rus/partners/training/cso/cso-list.jsp",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2154,7 +2154,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=717",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2169,7 +2169,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/contacts.jsp",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2184,7 +2184,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/course_sheme.htm",
       "source_page": "https://1c.ru/rus/partners/training/uc3/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2199,7 +2199,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://1c.ru/rus/partners/training/uc3/",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2214,7 +2214,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://1c.ru/rus/partners/training/uc1/course.jsp?id=616",
       "source_page": "https://1c.ru/rus/partners/training/default.jsp",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2229,7 +2229,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2244,7 +2244,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer-advanced",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2259,7 +2259,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer-component-library-management",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2274,7 +2274,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer-design-rules-constraint-manager",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2289,7 +2289,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer/essentials",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2304,7 +2304,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer/on-demand-essentials",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2319,7 +2319,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer-harness",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2334,7 +2334,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer-pcb-fundamentals-private-instruction",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2349,7 +2349,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer-schematic-design-private-instruction",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2364,7 +2364,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2379,7 +2379,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2394,7 +2394,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2409,7 +2409,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2424,7 +2424,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2439,7 +2439,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2454,7 +2454,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2469,7 +2469,37 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/365#setup-and-use",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
+      "current_priority": ""
+    },
+    {
+      "queue_priority": 20,
+      "review_reason": "candidate credential identity needs verification",
+      "id": "CAND-3CAEE6D8E86DEB",
+      "organization": "Altium",
+      "name": "Altium Workspace Admin Training",
+      "record_type": "credential-candidate",
+      "category": "Unclassified",
+      "price_status": "⚪ unknown",
+      "evidence_status": "official-page-extraction",
+      "official_url": "https://www.altium.com/training/altium-workspace-admin",
+      "source_page": "https://www.altium.com/training",
+      "last_reviewed": "2026-09-07",
+      "current_priority": ""
+    },
+    {
+      "queue_priority": 20,
+      "review_reason": "candidate credential identity needs verification",
+      "id": "CAND-957AE72645A4CD",
+      "organization": "Altium",
+      "name": "Altium Workspace Admin Training",
+      "record_type": "credential-candidate",
+      "category": "Unclassified",
+      "price_status": "⚪ unknown",
+      "evidence_status": "official-page-extraction",
+      "official_url": "https://www.altium.com/training",
+      "source_page": "https://www.altium.com/training",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2484,7 +2514,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/365#library-management",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2499,7 +2529,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2514,7 +2544,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/365",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2529,7 +2559,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/365#end-user",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2544,7 +2574,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/scholarships",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2559,7 +2589,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2574,7 +2604,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-workspace-series?promo_name=Workshop-Training-Series-fy26q0-en&promo_position=sticky_top_html&promo_creative=altium_com&TrackingId=OM21",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2589,7 +2619,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2604,7 +2634,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "http://www.altium.com/education",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2619,7 +2649,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2634,7 +2664,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2649,7 +2679,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2664,7 +2694,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2679,7 +2709,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2694,7 +2724,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2709,7 +2739,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2724,7 +2754,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2739,7 +2769,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2754,7 +2784,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2769,7 +2799,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators/resources",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2784,7 +2814,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2799,7 +2829,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2814,7 +2844,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2829,7 +2859,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer-essentials",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2844,7 +2874,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer/on-demand-essentials",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2859,7 +2889,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/altium-designer-advanced",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2874,7 +2904,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/privacy-policy",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2889,7 +2919,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/student-licenses",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2904,7 +2934,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2919,7 +2949,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2934,7 +2964,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2949,7 +2979,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2964,7 +2994,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2979,7 +3009,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -2994,7 +3024,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3009,7 +3039,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3024,7 +3054,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3039,7 +3069,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3054,7 +3084,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3069,7 +3099,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3084,7 +3114,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3099,7 +3129,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3114,7 +3144,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3129,7 +3159,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3144,7 +3174,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3159,7 +3189,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3174,7 +3204,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/courses",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3189,7 +3219,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/courses",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3204,7 +3234,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3219,7 +3249,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/sponsorships",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3234,7 +3264,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3249,7 +3279,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3264,7 +3294,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training/courses",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3279,7 +3309,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3294,7 +3324,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3309,7 +3339,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators#main-content",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3324,7 +3354,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education#main-content",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3339,7 +3369,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students#main-content",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3354,7 +3384,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training#main-content",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3369,7 +3399,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3384,7 +3414,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3399,7 +3429,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3414,7 +3444,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3429,7 +3459,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/educators",
       "source_page": "https://www.altium.com/education/educators",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3444,7 +3474,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3459,7 +3489,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3474,7 +3504,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3489,7 +3519,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/education/students",
       "source_page": "https://www.altium.com/education/students",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3504,7 +3534,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.altium.com/training",
       "source_page": "https://www.altium.com/training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3519,7 +3549,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/ansible-collaborative/ansible-community-training",
       "source_page": "https://www.redhat.com/en/ansible-collaborative?intcmp=7015Y000003t7aWQAQ",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3534,7 +3564,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training/learning-subscription/how-to-buy",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3549,7 +3579,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training-and-certification/contact-us",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3564,7 +3594,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3579,7 +3609,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training/all-courses-exams",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3594,7 +3624,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3609,7 +3639,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training-and-certification",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3624,7 +3654,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/partners/certified-cloud-and-service-providers",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3639,7 +3669,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training/learning-subscription",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3654,7 +3684,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training/red-hat-academy",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3669,7 +3699,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training/ex294-red-hat-certified-engineer-rhce-exam-red-hat-enterprise-linux",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3684,7 +3714,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training/red-hat-certified-openshift-administrator-exam",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3699,7 +3729,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3714,7 +3744,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training/learning-subscription/trial",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3729,7 +3759,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3744,7 +3774,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3759,7 +3789,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/services/training-and-certification",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3774,7 +3804,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/technologies/management/ansible/training-and-certification",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3789,7 +3819,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
       "source_page": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3804,7 +3834,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/collections/ai-fluency",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3819,7 +3849,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/all",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3834,7 +3864,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://www.anthropic.com/",
       "source_page": "https://www.anthropic.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3849,82 +3879,82 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
       "queue_priority": 20,
       "review_reason": "candidate credential identity needs verification",
-      "id": "CAND-6EB694DB718F56",
+      "id": "CAND-0F75B754ED60BC",
       "organization": "Anthropic",
-      "name": "Claude Code Learn to build, debug, and ship with Claude Code in your terminal, IDE, and browser.",
+      "name": "Claude Code Build software with Claude. Plan, write, debug and ship wherever you code.",
       "record_type": "credential-candidate",
       "category": "Unclassified",
       "price_status": "⚪ unknown",
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/products/code",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
       "queue_priority": 20,
       "review_reason": "candidate credential identity needs verification",
-      "id": "CAND-812F3860D1DD84",
+      "id": "CAND-A51EF6F9F86166",
       "organization": "Anthropic",
-      "name": "Claude Cowork Learn to hand off whole tasks and get polished deliverables back, for yourself and your team.",
+      "name": "Claude Cowork Hand off work you can steer anywhere. Brief Claude on a task, step away, and come back to results you can trust.",
       "record_type": "credential-candidate",
       "category": "Unclassified",
       "price_status": "⚪ unknown",
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/products/cowork",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
       "queue_priority": 20,
       "review_reason": "candidate credential identity needs verification",
-      "id": "CAND-F7B3C8C5369F26",
+      "id": "CAND-2C5EC935260ACD",
       "organization": "Anthropic",
-      "name": "Claude Platform Learn to build Claude into your products with the API, Claude Console, and MCP.",
+      "name": "Claude Platform Build Claude into your products. Go from first call to production with the API, Claude Console, and MCP.",
       "record_type": "credential-candidate",
       "category": "Unclassified",
       "price_status": "⚪ unknown",
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/products/platform",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
       "queue_priority": 20,
       "review_reason": "candidate credential identity needs verification",
-      "id": "CAND-065865E53E6058",
+      "id": "CAND-3E03A057F90519",
       "organization": "Anthropic",
-      "name": "Claude Tag Learn to tag Claude into your team's channels and hand it work everyone can follow.",
+      "name": "Claude Tag For work that belongs to the team. Tag Claude in Slack, delegate in the open, and keep everyone in the loop.",
       "record_type": "credential-candidate",
       "category": "Unclassified",
       "price_status": "⚪ unknown",
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/products/tag",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
       "queue_priority": 20,
       "review_reason": "candidate credential identity needs verification",
-      "id": "CAND-027939F7A381AF",
+      "id": "CAND-2BE53521F30B5C",
       "organization": "Anthropic",
-      "name": "Claude.ai Learn to think through problems, draft documents, and analyze data in conversation with Claude.",
+      "name": "Claude.ai Your thinking partner for big ambitions: work through a problem, pressure-test a draft, or make sense of a dataset in conversation.",
       "record_type": "credential-candidate",
       "category": "Unclassified",
       "price_status": "⚪ unknown",
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/products/claude",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3939,7 +3969,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/start",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3954,7 +3984,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/collections/ai-fluency",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3969,7 +3999,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://academy.claude.com/",
       "source_page": "https://academy.claude.com/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3984,7 +4014,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/streamline-service-projects-with-jira-automation-and-integrations",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -3999,7 +4029,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/jira-automation-course",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4014,7 +4044,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/get-the-most-out-of-jira-product-discovery",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Product+Discovery",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4029,7 +4059,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/streamline-jira-administration-with-effective-governance",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4044,7 +4074,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/optimize-trello-board-management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Trello",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4059,7 +4089,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/setting-up-a-jira-project",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4074,7 +4104,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/incident-management-configuration-for-service-spaces",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4089,7 +4119,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/get-the-most-out-of-compass",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4104,7 +4134,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/get-the-most-out-of-jira",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4119,7 +4149,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/configure-jira-global-settings",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4134,7 +4164,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:15823488",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4149,7 +4179,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/streamline-software-projects-with-jira-automation-and-integrations",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4164,7 +4194,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/jira-agile-board-configuration",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4179,7 +4209,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/get-the-most-out-of-jira-service-management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4194,7 +4224,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/get-the-most-out-of-forge",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Forge",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4209,7 +4239,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/get-the-most-out-of-loom",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Loom",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4224,7 +4254,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16930074",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4239,7 +4269,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/agile-practices-in-project-management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4254,7 +4284,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/getting-the-most-out-of-confluence",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4269,7 +4299,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/itsm-principles-and-practices",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4284,7 +4314,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:15823486",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4299,7 +4329,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:15823487",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4314,7 +4344,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/transition-from-discovery-to-delivery-with-jira-product-discovery",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Product+Discovery",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4329,7 +4359,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/get-the-most-out-of-trello",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Trello",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4344,7 +4374,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/administer-confluence-to-improve-the-user-experience",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4359,7 +4389,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/get-the-most-out-of-rovo",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4374,7 +4404,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16115973",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4389,7 +4419,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/manage-confluence-spaces-to-organize-your-teams-work",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4404,7 +4434,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16115976",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4419,7 +4449,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/setting-up-jira-service-management-spaces",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4434,7 +4464,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/use-confluence-analytics-to-monitor-spaces",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4449,7 +4479,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/rovo-for-program-and-project-managers",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4464,7 +4494,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/rovo-for-software-developers",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4479,7 +4509,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/rovo-for-product-owners",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4494,7 +4524,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/how-to-use-trello",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Trello",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4509,7 +4539,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/configure-jira-board-filters-and-settings",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4524,7 +4554,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/get-started-with-jira",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4539,7 +4569,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/explore-advanced-jira-service-management-capabilities-as-an-agent",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4554,7 +4584,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/make-ai-a-part-of-the-team",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4569,7 +4599,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16905685",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4584,7 +4614,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/support-your-flow-state-atlassian-tools-and-practices-for-developers",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4599,7 +4629,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16592101",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4614,7 +4644,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16905678",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4629,7 +4659,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/get-started-with-forge-quickly",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Forge",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4644,7 +4674,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/jira-product-discovery-training",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Product+Discovery",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4659,7 +4689,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/organize-and-prioritize-ideas-effectively-in-jira-product-discovery",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Product+Discovery",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4674,7 +4704,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/get-started-quickly-with-loom",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Loom",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4689,7 +4719,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/create-and-enhance-content-with-rovo",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4704,7 +4734,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/explore-apps-for-teamwork",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4719,7 +4749,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/rovo-for-scrum-masters",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4734,7 +4764,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/manage-content-in-confluence",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4749,7 +4779,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/build-and-deploy-your-first-forge-app",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Forge",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4764,7 +4794,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/expand-your-forge-skills",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Forge",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4779,7 +4809,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/manage-your-loom-videos-and-account",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Loom",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4794,7 +4824,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/explore-apps-for-service",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4809,7 +4839,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/explore-apps-for-strategy",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4824,7 +4854,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/work-with-rovo-agents-and-build-your-own",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4839,7 +4869,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/explore-jira-shared-configuration",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4854,7 +4884,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16905671",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4869,7 +4899,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/jira-service-management-for-customer-support",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4884,7 +4914,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/enhance-edit-and-view-videos-in-loom",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Loom",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4899,7 +4929,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/explore-solutions-available-across-atlassian-cloud-apps",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Forge",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4914,7 +4944,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/configure-a-trello-workspace",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Trello",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4929,7 +4959,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/organize-and-maintain-confluence-space-content",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4944,7 +4974,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/use-atlassian-guard-to-enforce-security",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4959,7 +4989,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/track-your-work-effectively-in-jira",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4974,7 +5004,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/make-life-easier-with-automation",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -4989,7 +5019,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/track-your-work-with-trello-boards",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Trello",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5004,7 +5034,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/configure-jsm-for-itsm",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5019,7 +5049,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16905673",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5034,7 +5064,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/configure-software-projects-to-support-team-efficiency",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5049,7 +5079,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16905661",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5064,7 +5094,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16905683",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5079,7 +5109,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/explore-itsm-jsm",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5094,7 +5124,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/manage-customer-requests-in-jira-service-management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5109,7 +5139,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/course/explore-jira-administration",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5124,7 +5154,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16905677",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5139,7 +5169,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:15697690",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5154,7 +5184,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16905675",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5169,7 +5199,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16905668",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5184,7 +5214,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:16838110",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5199,7 +5229,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/configure-jira-for-developers",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5214,7 +5244,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/team-training/course:14452477",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5229,7 +5259,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5244,7 +5274,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/resources-and-support/atlassian-certified-designations",
       "source_page": "https://community.atlassian.com/learning/hub/resources-and-support",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5259,7 +5289,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5274,7 +5304,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/resources-and-support/certification-and-credential-policies",
       "source_page": "https://community.atlassian.com/learning/hub/resources-and-support",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5289,7 +5319,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/confluence-admin-certification",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5304,7 +5334,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/confluence-essentials",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5319,7 +5349,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/atlassian-cloud-fundamentals",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5334,7 +5364,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/jira-software-essentials-certification",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5349,7 +5379,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/managing-jira-projects-for-cloud-certification",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5364,7 +5394,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/jira-service-management-certification",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5379,7 +5409,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/managing-jira-service-projects-for-cloud",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5394,7 +5424,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/loom-fundamentals",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Loom",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5409,7 +5439,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/jira-administration-for-cloud",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5424,7 +5454,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/jira-service-management-with-AI-fundamentals",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5439,7 +5469,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/rovo-fundamentals",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5454,7 +5484,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/collection/certification-prep/confluence-administrator-for-cloud-prep",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5469,7 +5499,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/collection/certification-prep/confluence-essentials-prep",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5484,7 +5514,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/collection/topic/jira-cloud-space-admin-training",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5499,7 +5529,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/collection/certification-prep/jira-software-essentials-prep",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5514,7 +5544,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/collection/certification-prep/managing-jira-projects-for-cloud-prep",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5529,7 +5559,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/collection/certification-prep/jira-service-management-agent-essentials-prep",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5544,7 +5574,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/collection/certification-prep/managing-jira-service-projects-for-cloud-prep",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5559,7 +5589,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/collection/certification-prep/jira-administration-for-cloud-prep",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5574,7 +5604,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/collection/certification-prep/atlassian-cloud-organization-admin-prep",
       "source_page": "https://community.atlassian.com/learning/catalog?type=Collection",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5589,7 +5619,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/adoption/confluence-cloud",
       "source_page": "https://community.atlassian.com/learning/adoption/confluence-cloud",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5604,7 +5634,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5619,7 +5649,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/confluence-essentials",
       "source_page": "https://community.atlassian.com/learning/adoption/confluence-cloud",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5634,7 +5664,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Confluence",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5649,7 +5679,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5664,7 +5694,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Confluence",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5679,7 +5709,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications/loom-fundamentals",
       "source_page": "https://community.atlassian.com/learning/adoption/loom",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5694,7 +5724,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5709,7 +5739,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5724,7 +5754,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5739,7 +5769,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5754,7 +5784,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5769,7 +5799,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5784,7 +5814,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5799,7 +5829,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Rovo",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5814,7 +5844,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5829,7 +5859,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5844,7 +5874,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/adoption/loom",
       "source_page": "https://community.atlassian.com/learning/adoption/loom",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5859,7 +5889,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Loom",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Loom",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5874,7 +5904,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5889,7 +5919,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5904,7 +5934,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5919,7 +5949,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5934,7 +5964,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5949,7 +5979,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Rovo",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Rovo",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5964,7 +5994,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5979,7 +6009,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/certifications",
       "source_page": "https://community.atlassian.com/learning",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -5994,7 +6024,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning",
       "source_page": "https://community.atlassian.com/learning",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6009,7 +6039,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning",
       "source_page": "https://community.atlassian.com/learning",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6024,7 +6054,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/resources-and-support/maintain-your-certification",
       "source_page": "https://community.atlassian.com/learning/hub/resources-and-support",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6039,7 +6069,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?type=Team+training",
       "source_page": "https://community.atlassian.com/learning/catalog?type=Team+training",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6054,7 +6084,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6069,7 +6099,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/get-the-most-out-of-rovo/course/best-practices-for-using-rovo/lesson/best-practices-for-writing-ai-prompts",
       "source_page": "https://community.atlassian.com/learning/path/get-the-most-out-of-rovo/course/best-practices-for-using-rovo/lesson/best-practices-for-writing-ai-prompts",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6084,7 +6114,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6099,7 +6129,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?type=Collection",
       "source_page": "https://community.atlassian.com/learning/catalog?type=Collection",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6114,7 +6144,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6129,7 +6159,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6144,7 +6174,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Confluence",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6159,7 +6189,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?type=Collection",
       "source_page": "https://community.atlassian.com/learning/catalog?type=Collection",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6174,7 +6204,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6189,7 +6219,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6204,7 +6234,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?type=Collection",
       "source_page": "https://community.atlassian.com/learning/catalog?type=Collection",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6219,7 +6249,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Confluence",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Confluence",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6234,7 +6264,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6249,7 +6279,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6264,7 +6294,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?type=Collection",
       "source_page": "https://community.atlassian.com/learning/catalog?type=Collection",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6279,7 +6309,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6294,7 +6324,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6309,7 +6339,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6324,7 +6354,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6339,7 +6369,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6354,7 +6384,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6369,7 +6399,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?type=Collection",
       "source_page": "https://community.atlassian.com/learning/catalog?type=Collection",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6384,7 +6414,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6399,7 +6429,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6414,7 +6444,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6429,7 +6459,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?type=Collection",
       "source_page": "https://community.atlassian.com/learning/catalog?type=Collection",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6444,7 +6474,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6459,7 +6489,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6474,7 +6504,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6489,7 +6519,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6504,7 +6534,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?type=Collection",
       "source_page": "https://community.atlassian.com/learning/catalog?type=Collection",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6519,7 +6549,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
       "source_page": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6534,7 +6564,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?type=Collection",
       "source_page": "https://community.atlassian.com/learning/catalog?type=Collection",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6549,7 +6579,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
       "source_page": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6564,7 +6594,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog",
       "source_page": "https://community.atlassian.com/learning/catalog",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6579,7 +6609,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/path/get-the-most-out-of-rovo/course/best-practices-for-using-rovo/lesson/best-practices-for-writing-ai-prompts",
       "source_page": "https://community.atlassian.com/learning",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6594,7 +6624,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://community.atlassian.com/learning/catalog?type=Team+training",
       "source_page": "https://community.atlassian.com/learning",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6609,7 +6639,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6624,7 +6654,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6639,7 +6669,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6654,7 +6684,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6669,7 +6699,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/aai/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6684,7 +6714,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certification-prep/",
       "source_page": "https://aws.amazon.com/certification/certification-prep/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6699,7 +6729,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/ai/?la=sec&sec=solution",
       "source_page": "https://aws.amazon.com/training/learn-about/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6714,7 +6744,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/architect/?la=sec&sec=role",
       "source_page": "https://aws.amazon.com/training/learn-about/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6729,7 +6759,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/awsacademy/",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6744,7 +6774,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6759,7 +6789,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6774,7 +6804,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certification-digital-badges/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6789,7 +6819,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
       "source_page": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6804,7 +6834,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc1=f_cc",
       "source_page": "https://aws.amazon.com/training/?nc1=f_cc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6819,7 +6849,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certification-prep/",
       "source_page": "https://aws.amazon.com/certification/certification-prep/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6834,7 +6864,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6849,7 +6879,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certification-prep/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6864,7 +6894,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/faqs/",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6879,7 +6909,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6894,7 +6924,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-advanced-networking-specialty/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6909,7 +6939,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6924,7 +6954,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-ai-business-strategist/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6939,7 +6969,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6954,7 +6984,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-ai-practitioner/",
       "source_page": "https://aws.amazon.com/training/aai/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6969,7 +6999,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6984,7 +7014,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-ai-practitioner/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -6999,7 +7029,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7014,7 +7044,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7029,7 +7059,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7044,7 +7074,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-cloudops-engineer-associate/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7059,7 +7089,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7074,7 +7104,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-data-engineer-associate/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7089,7 +7119,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7104,7 +7134,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-developer-associate/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7119,7 +7149,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7134,7 +7164,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7149,7 +7179,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7164,7 +7194,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-security-specialty/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7179,7 +7209,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
       "source_page": "https://aws.amazon.com/training/aai/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7194,7 +7224,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7209,7 +7239,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7224,7 +7254,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certification-prep/",
       "source_page": "https://aws.amazon.com/certification/certification-prep/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7239,7 +7269,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/classroom/",
       "source_page": "https://aws.amazon.com/training/classroom/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7254,7 +7284,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/aws-cloud-institute/",
       "source_page": "https://aws.amazon.com/training/learn-about/ai/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7269,7 +7299,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/traincert-customer-testimonials/",
       "source_page": "https://aws.amazon.com/training/teams/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7284,7 +7314,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/digital/",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7299,7 +7329,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/awseducate/",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7314,7 +7344,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7329,7 +7359,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7344,7 +7374,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/marketplace/solutions/public-sector/education/",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7359,7 +7389,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/partners/training/",
       "source_page": "https://aws.amazon.com/partners/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7374,7 +7404,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/events/",
       "source_page": "https://aws.amazon.com/partners/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7388,8 +7418,8 @@
       "price_status": "⚪ unknown",
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/partners/training/",
-      "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "source_page": "https://aws.amazon.com/partners/training/",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7404,7 +7434,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/teams/",
       "source_page": "https://aws.amazon.com/training/teams/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7419,7 +7449,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/partners/training/",
       "source_page": "https://aws.amazon.com/partners/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7434,7 +7464,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/partners/training/",
       "source_page": "https://aws.amazon.com/partners/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7449,7 +7479,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/ramp-up-guides/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7464,7 +7494,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/digital/",
       "source_page": "https://aws.amazon.com/training/digital/immersive-learning/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7479,7 +7509,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
       "source_page": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7494,7 +7524,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7509,7 +7539,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7524,7 +7554,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc1=f_cc",
       "source_page": "https://aws.amazon.com/training/?nc1=f_cc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7539,7 +7569,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/partners/training/",
       "source_page": "https://aws.amazon.com/partners/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7554,7 +7584,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/blogs/training-and-certification/",
       "source_page": "https://aws.amazon.com/partners/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7569,7 +7599,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/",
       "source_page": "https://aws.amazon.com/training/learn-about/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7584,7 +7614,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/digital/",
       "source_page": "https://aws.amazon.com/training/digital/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7599,7 +7629,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certification-prep/",
       "source_page": "https://aws.amazon.com/certification/certification-prep/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7614,7 +7644,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/twitch/",
       "source_page": "https://aws.amazon.com/certification/certification-prep/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7629,7 +7659,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7644,7 +7674,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7659,7 +7689,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/digital/",
       "source_page": "https://aws.amazon.com/training/digital/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7674,7 +7704,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/",
       "source_page": "https://aws.amazon.com/training/learn-about/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7689,7 +7719,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/partners/aws-training-partners/",
       "source_page": "https://aws.amazon.com/training/aai/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7704,7 +7734,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/partners/aws-training-partners/",
       "source_page": "https://aws.amazon.com/training/aai/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7719,7 +7749,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/aws-authorized-instructor-program/",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7734,7 +7764,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7749,7 +7779,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc1=f_cc",
       "source_page": "https://aws.amazon.com/training/?nc1=f_cc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7764,7 +7794,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
       "source_page": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7779,7 +7809,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7794,7 +7824,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/blogs/training-and-certification/how-an-infrastructure-developer-leverages-ai-certification-to-drive-innovation/",
       "source_page": "https://aws.amazon.com/training/learn-about/ai/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7809,7 +7839,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7824,7 +7854,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/classroom/?ladev=sec&sec=ct",
       "source_page": "https://aws.amazon.com/training/learn-about/security/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7839,7 +7869,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/partner-solutions/",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7854,7 +7884,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/marketplace/solutions/public-sector/education/",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7869,7 +7899,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7884,7 +7914,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7899,7 +7929,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7914,7 +7944,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certification-prep/",
       "source_page": "https://aws.amazon.com/certification/certification-prep/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7929,7 +7959,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7944,7 +7974,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
       "source_page": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7959,7 +7989,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc1=f_cc",
       "source_page": "https://aws.amazon.com/training/?nc1=f_cc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7974,7 +8004,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -7989,7 +8019,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc1=f_cc",
       "source_page": "https://aws.amazon.com/training/?nc1=f_cc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8004,7 +8034,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/classroom/",
       "source_page": "https://aws.amazon.com/training/classroom/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8019,7 +8049,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
       "source_page": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8034,7 +8064,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/teams/",
       "source_page": "https://aws.amazon.com/training/teams/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8049,7 +8079,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8064,7 +8094,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8079,7 +8109,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9#classroom-training--1y1s5ix",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8094,7 +8124,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/classroom/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8109,7 +8139,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/classroom/",
       "source_page": "https://aws.amazon.com/training/classroom/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8124,7 +8154,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8139,7 +8169,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/blogs/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8154,7 +8184,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/teams/",
       "source_page": "https://aws.amazon.com/training/teams/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8169,7 +8199,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/government-education/contact/",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8184,7 +8214,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/government-education/contact/",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8199,7 +8229,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/government-education/contact/",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8214,7 +8244,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/",
       "source_page": "https://aws.amazon.com/training/learn-about/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8229,7 +8259,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8244,7 +8274,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8259,7 +8289,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/digital/immersive-learning/",
       "source_page": "https://aws.amazon.com/training/digital/immersive-learning/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8274,7 +8304,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/classroom/",
       "source_page": "https://aws.amazon.com/training/classroom/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8289,7 +8319,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8304,7 +8334,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certification-prep/",
       "source_page": "https://aws.amazon.com/certification/certification-prep/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8319,7 +8349,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8334,7 +8364,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/awseducate/",
       "source_page": "https://aws.amazon.com/education/awseducate/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8349,7 +8379,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/aai/",
       "source_page": "https://aws.amazon.com/training/aai/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8364,7 +8394,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc1=f_cc",
       "source_page": "https://aws.amazon.com/training/?nc1=f_cc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8379,7 +8409,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/digital/",
       "source_page": "https://aws.amazon.com/training/digital/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8394,7 +8424,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/ai/",
       "source_page": "https://aws.amazon.com/training/learn-about/ai/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8409,7 +8439,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/teams/",
       "source_page": "https://aws.amazon.com/training/teams/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8424,7 +8454,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/events/",
       "source_page": "https://aws.amazon.com/training/events/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8439,7 +8469,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/ramp-up-guides/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/ramp-up-guides/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8454,7 +8484,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/partners/training/",
       "source_page": "https://aws.amazon.com/partners/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8469,7 +8499,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
       "source_page": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8484,7 +8514,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/security/",
       "source_page": "https://aws.amazon.com/training/learn-about/security/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8499,7 +8529,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/data-analytics/?la=sec&sec=solution",
       "source_page": "https://aws.amazon.com/training/learn-about/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8514,7 +8544,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/databases/?la=sec&sec=solution",
       "source_page": "https://aws.amazon.com/training/learn-about/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8529,7 +8559,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/teams/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8544,7 +8574,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/teams/",
       "source_page": "https://aws.amazon.com/training/teams/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8559,7 +8589,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/developer/?la=sec&sec=role",
       "source_page": "https://aws.amazon.com/training/learn-about/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8574,7 +8604,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/devops/?la=sec&sec=role",
       "source_page": "https://aws.amazon.com/training/learn-about/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8589,7 +8619,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8604,7 +8634,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/teams/",
       "source_page": "https://aws.amazon.com/training/teams/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8619,7 +8649,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
       "source_page": "https://aws.amazon.com/training/?nc2=h_rsc_lrn_tc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8634,7 +8664,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8649,7 +8679,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/?nc1=f_cc",
       "source_page": "https://aws.amazon.com/training/?nc1=f_cc",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8664,7 +8694,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/digital/",
       "source_page": "https://aws.amazon.com/training/aai/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8679,7 +8709,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9#digital-training--1y1s5ix",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8694,7 +8724,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/digital/immersive-learning/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8709,7 +8739,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/ai/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8724,7 +8754,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/marketplace/solutions/public-sector/education/",
       "source_page": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8739,7 +8769,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/learn-about/",
       "source_page": "https://aws.amazon.com/training/digital/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8754,7 +8784,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8769,7 +8799,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8784,7 +8814,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8799,7 +8829,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8814,7 +8844,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
       "source_page": "https://aws.amazon.com/training/faqs/?p=train&c=tc&z=9",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8829,7 +8859,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/teams/",
       "source_page": "https://aws.amazon.com/training/teams/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8844,7 +8874,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8859,7 +8889,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8874,7 +8904,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/certification-prep/",
       "source_page": "https://aws.amazon.com/certification/certification-prep/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8889,7 +8919,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8904,7 +8934,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8919,7 +8949,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/benefits/",
       "source_page": "https://aws.amazon.com/certification/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8934,22 +8964,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/certification/",
       "source_page": "https://aws.amazon.com/training/teams/",
-      "last_reviewed": "2026-09-01",
-      "current_priority": ""
-    },
-    {
-      "queue_priority": 20,
-      "review_reason": "candidate credential identity needs verification",
-      "id": "CAND-513DF28B07D1DA",
-      "organization": "AWS",
-      "name": "Explore AWS Digital Classroom",
-      "record_type": "credential-candidate",
-      "category": "Unclassified",
-      "price_status": "⚪ unknown",
-      "evidence_status": "official-page-extraction",
-      "official_url": "https://aws.amazon.com/training/digital/immersive-learning/",
-      "source_page": "https://aws.amazon.com/partners/training/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8964,7 +8979,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/partners/training/certification/",
       "source_page": "https://aws.amazon.com/training/teams/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8979,7 +8994,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/events/",
       "source_page": "https://aws.amazon.com/training/events/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     },
     {
@@ -8994,22 +9009,7 @@
       "evidence_status": "official-page-extraction",
       "official_url": "https://aws.amazon.com/training/digital/",
       "source_page": "https://aws.amazon.com/training/",
-      "last_reviewed": "2026-09-01",
-      "current_priority": ""
-    },
-    {
-      "queue_priority": 20,
-      "review_reason": "candidate credential identity needs verification",
-      "id": "CAND-D5E2EB5C1E45FD",
-      "organization": "AWS",
-      "name": "Explore featured digital training",
-      "record_type": "credential-candidate",
-      "category": "Unclassified",
-      "price_status": "⚪ unknown",
-      "evidence_status": "official-page-extraction",
-      "official_url": "https://aws.amazon.com/training/digital/",
-      "source_page": "https://aws.amazon.com/training/digital/",
-      "last_reviewed": "2026-09-01",
+      "last_reviewed": "2026-09-07",
       "current_priority": ""
     }
   ]
