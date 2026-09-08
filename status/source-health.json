@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-07T03:53:33.632572Z",
+  "generated_at": "2026-09-08T03:53:28.461987Z",
   "total": 210,
   "states": {
     "http-error": 20,
@@ -16,7 +16,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://1c.ru/",
-      "latency_ms": 1749,
+      "latency_ms": 1472,
       "error": ""
     },
     {
@@ -26,7 +26,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.3gpp.org/",
-      "latency_ms": 656,
+      "latency_ms": 1497,
       "error": ""
     },
     {
@@ -36,7 +36,7 @@
       "state": "unreachable",
       "http_status": null,
       "final_url": "https://new.abb.com/service/training",
-      "latency_ms": 18091,
+      "latency_ms": 18260,
       "error": "The read operation timed out"
     },
     {
@@ -46,7 +46,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.akamai.com/learn",
-      "latency_ms": 53,
+      "latency_ms": 95,
       "error": "Forbidden"
     },
     {
@@ -56,7 +56,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://community.alteryx.com/",
-      "latency_ms": 109,
+      "latency_ms": 148,
       "error": "Forbidden"
     },
     {
@@ -66,7 +66,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.altium.com/education",
-      "latency_ms": 132,
+      "latency_ms": 331,
       "error": ""
     },
     {
@@ -76,7 +76,7 @@
       "state": "unreachable",
       "http_status": null,
       "final_url": "https://www.analog.com/en/education.html",
-      "latency_ms": 18060,
+      "latency_ms": 18120,
       "error": "The read operation timed out"
     },
     {
@@ -86,7 +86,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.redhat.com/en/ansible-collaborative?intcmp=7015Y000003t7aWQAQ",
-      "latency_ms": 127,
+      "latency_ms": 267,
       "error": ""
     },
     {
@@ -96,7 +96,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://ansys.synopsys.com/academic/educator-resources",
-      "latency_ms": 753,
+      "latency_ms": 671,
       "error": "Not Found"
     },
     {
@@ -106,7 +106,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.anthropic.com/",
-      "latency_ms": 59,
+      "latency_ms": 99,
       "error": ""
     },
     {
@@ -116,7 +116,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://airflow.apache.org/",
-      "latency_ms": 195,
+      "latency_ms": 65,
       "error": ""
     },
     {
@@ -126,7 +126,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://kafka.apache.org/",
-      "latency_ms": 17,
+      "latency_ms": 67,
       "error": ""
     },
     {
@@ -136,7 +136,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.apache.org/",
-      "latency_ms": 87,
+      "latency_ms": 71,
       "error": ""
     },
     {
@@ -146,7 +146,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.apache.org/",
-      "latency_ms": 13,
+      "latency_ms": 25,
       "error": ""
     },
     {
@@ -156,7 +156,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://spark.apache.org/",
-      "latency_ms": 46,
+      "latency_ms": 66,
       "error": ""
     },
     {
@@ -166,7 +166,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://docs.arduino.cc/",
-      "latency_ms": 125,
+      "latency_ms": 413,
       "error": ""
     },
     {
@@ -176,7 +176,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://learn.arm.com/",
-      "latency_ms": 251,
+      "latency_ms": 359,
       "error": ""
     },
     {
@@ -186,7 +186,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://asq.org/training",
-      "latency_ms": 142,
+      "latency_ms": 236,
       "error": "Forbidden"
     },
     {
@@ -196,7 +196,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://community.atlassian.com/learning",
-      "latency_ms": 209,
+      "latency_ms": 299,
       "error": ""
     },
     {
@@ -206,7 +206,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.autodesk.com/certification/overview",
-      "latency_ms": 110,
+      "latency_ms": 90,
       "error": "Forbidden"
     },
     {
@@ -216,7 +216,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://autoware.org/",
-      "latency_ms": 1780,
+      "latency_ms": 2144,
       "error": ""
     },
     {
@@ -226,7 +226,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://aws.amazon.com/training/",
-      "latency_ms": 291,
+      "latency_ms": 217,
       "error": ""
     },
     {
@@ -236,7 +236,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.beckhoff.com/en-us/company/education/",
-      "latency_ms": 487,
+      "latency_ms": 986,
       "error": "Not Found"
     },
     {
@@ -246,7 +246,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.boschrexroth.com/web/194cadee-0e16-498d-8e97-b165dc63d207",
-      "latency_ms": 1330,
+      "latency_ms": 2160,
       "error": ""
     },
     {
@@ -256,7 +256,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.broadcom.com/support/training",
-      "latency_ms": 719,
+      "latency_ms": 453,
       "error": "Not Found"
     },
     {
@@ -266,7 +266,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.broadcom.com/support/education/vmware",
-      "latency_ms": 89,
+      "latency_ms": 184,
       "error": ""
     },
     {
@@ -276,7 +276,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.bsigroup.com/",
-      "latency_ms": 279,
+      "latency_ms": 423,
       "error": ""
     },
     {
@@ -286,7 +286,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.cadence.com/",
-      "latency_ms": 24,
+      "latency_ms": 127,
       "error": "Forbidden"
     },
     {
@@ -296,7 +296,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://docs.chain.link/",
-      "latency_ms": 192,
+      "latency_ms": 176,
       "error": ""
     },
     {
@@ -306,7 +306,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.checkpoint.com/services/training-and-certification/",
-      "latency_ms": 843,
+      "latency_ms": 888,
       "error": "Not Found"
     },
     {
@@ -316,7 +316,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.netacad.com/",
-      "latency_ms": 346,
+      "latency_ms": 319,
       "error": ""
     },
     {
@@ -326,7 +326,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.classcentral.com/",
-      "latency_ms": 217,
+      "latency_ms": 251,
       "error": ""
     },
     {
@@ -336,7 +336,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.cncf.io/training/",
-      "latency_ms": 37,
+      "latency_ms": 30,
       "error": ""
     },
     {
@@ -346,7 +346,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://cloudsecurityalliance.org/education",
-      "latency_ms": 252,
+      "latency_ms": 472,
       "error": ""
     },
     {
@@ -356,7 +356,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.cloudflare.com/learning/",
-      "latency_ms": 18,
+      "latency_ms": 60,
       "error": "Forbidden"
     },
     {
@@ -366,7 +366,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.cncf.io/training/",
-      "latency_ms": 561,
+      "latency_ms": 803,
       "error": ""
     },
     {
@@ -376,7 +376,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.comptia.org/en-us/certifications/",
-      "latency_ms": 57,
+      "latency_ms": 324,
       "error": ""
     },
     {
@@ -386,7 +386,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.comsol.com/support/learning-center",
-      "latency_ms": 435,
+      "latency_ms": 1023,
       "error": ""
     },
     {
@@ -396,7 +396,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://developer.confluent.io/",
-      "latency_ms": 132,
+      "latency_ms": 284,
       "error": ""
     },
     {
@@ -406,7 +406,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.coursera.org/",
-      "latency_ms": 361,
+      "latency_ms": 413,
       "error": ""
     },
     {
@@ -416,7 +416,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.crowdstrike.com/services/education/",
-      "latency_ms": 82,
+      "latency_ms": 316,
       "error": "Not Found"
     },
     {
@@ -426,7 +426,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.dassault-aviation.com/en/",
-      "latency_ms": 740,
+      "latency_ms": 1204,
       "error": ""
     },
     {
@@ -436,7 +436,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.3ds.com/industries/cities-public-services/education",
-      "latency_ms": 606,
+      "latency_ms": 913,
       "error": ""
     },
     {
@@ -446,7 +446,7 @@
       "state": "unreachable",
       "http_status": null,
       "final_url": "https://datacarpentries.org/",
-      "latency_ms": 125,
+      "latency_ms": 174,
       "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
@@ -456,7 +456,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.databricks.com/learn",
-      "latency_ms": 118,
+      "latency_ms": 157,
       "error": ""
     },
     {
@@ -466,7 +466,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://learn.datadoghq.com/",
-      "latency_ms": 193,
+      "latency_ms": 112,
       "error": "Forbidden"
     },
     {
@@ -476,7 +476,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.deeplearning.ai/",
-      "latency_ms": 25,
+      "latency_ms": 46,
       "error": "Forbidden"
     },
     {
@@ -486,7 +486,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.digitalocean.com/community",
-      "latency_ms": 55,
+      "latency_ms": 114,
       "error": ""
     },
     {
@@ -496,7 +496,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.docker.com/education/",
-      "latency_ms": 152,
+      "latency_ms": 926,
       "error": "Not Found"
     },
     {
@@ -506,7 +506,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.eccouncil.org/train-certify/",
-      "latency_ms": 197,
+      "latency_ms": 436,
       "error": ""
     },
     {
@@ -516,7 +516,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.eclipse.org/collaborations/",
-      "latency_ms": 864,
+      "latency_ms": 1258,
       "error": ""
     },
     {
@@ -526,7 +526,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.edx.org/",
-      "latency_ms": 277,
+      "latency_ms": 407,
       "error": ""
     },
     {
@@ -536,7 +536,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.climate-kic.org/",
-      "latency_ms": 442,
+      "latency_ms": 681,
       "error": ""
     },
     {
@@ -546,7 +546,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://28digital.eu/",
-      "latency_ms": 1536,
+      "latency_ms": 2085,
       "error": ""
     },
     {
@@ -556,7 +556,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://eithealth.eu/",
-      "latency_ms": 310,
+      "latency_ms": 445,
       "error": ""
     },
     {
@@ -566,7 +566,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.eit.europa.eu/",
-      "latency_ms": 1130,
+      "latency_ms": 1036,
       "error": ""
     },
     {
@@ -576,7 +576,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.elastic.co/training/",
-      "latency_ms": 556,
+      "latency_ms": 560,
       "error": ""
     },
     {
@@ -586,7 +586,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://dev.epicgames.com/community/",
-      "latency_ms": 84,
+      "latency_ms": 135,
       "error": "Forbidden"
     },
     {
@@ -596,7 +596,7 @@
       "state": "unreachable",
       "http_status": null,
       "final_url": "https://learningzone.esa.int/",
-      "latency_ms": 255,
+      "latency_ms": 396,
       "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
@@ -606,7 +606,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.espressif.com/en/training",
-      "latency_ms": 559,
+      "latency_ms": 768,
       "error": "Not Found"
     },
     {
@@ -616,7 +616,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.esri.com/en-us/training",
-      "latency_ms": 80,
+      "latency_ms": 214,
       "error": ""
     },
     {
@@ -626,7 +626,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.etsi.org/learn/",
-      "latency_ms": 4267,
+      "latency_ms": 4734,
       "error": ""
     },
     {
@@ -636,7 +636,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://academy.europa.eu/",
-      "latency_ms": 3155,
+      "latency_ms": 3260,
       "error": ""
     },
     {
@@ -646,7 +646,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://elearning.fao.org/",
-      "latency_ms": 835,
+      "latency_ms": 815,
       "error": ""
     },
     {
@@ -656,7 +656,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://course.fast.ai/",
-      "latency_ms": 54,
+      "latency_ms": 161,
       "error": ""
     },
     {
@@ -666,7 +666,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.festo.com/us/en/e/academy/",
-      "latency_ms": 33,
+      "latency_ms": 144,
       "error": "Forbidden"
     },
     {
@@ -676,7 +676,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.firstinspires.org/",
-      "latency_ms": 230,
+      "latency_ms": 253,
       "error": ""
     },
     {
@@ -686,7 +686,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.fortinet.com/training-certification",
-      "latency_ms": 664,
+      "latency_ms": 388,
       "error": ""
     },
     {
@@ -696,7 +696,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.futurelearn.com/",
-      "latency_ms": 777,
+      "latency_ms": 852,
       "error": ""
     },
     {
@@ -706,7 +706,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://learn.github.com/certifications",
-      "latency_ms": 233,
+      "latency_ms": 391,
       "error": ""
     },
     {
@@ -716,7 +716,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://skills.github.com/",
-      "latency_ms": 85,
+      "latency_ms": 83,
       "error": ""
     },
     {
@@ -726,7 +726,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://about.gitlab.com/learn/",
-      "latency_ms": 59,
+      "latency_ms": 94,
       "error": "Not Found"
     },
     {
@@ -736,7 +736,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://about.gitlab.com/learn/",
-      "latency_ms": 23,
+      "latency_ms": 54,
       "error": "Not Found"
     },
     {
@@ -746,7 +746,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.skills.google/",
-      "latency_ms": 2144,
+      "latency_ms": 2640,
       "error": ""
     },
     {
@@ -756,7 +756,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://developers.google.com/profile/badges",
-      "latency_ms": 446,
+      "latency_ms": 462,
       "error": ""
     },
     {
@@ -766,7 +766,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://grafana.com/workshops/",
-      "latency_ms": 677,
+      "latency_ms": 765,
       "error": ""
     },
     {
@@ -776,7 +776,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.gsma.com/",
-      "latency_ms": 112,
+      "latency_ms": 173,
       "error": ""
     },
     {
@@ -786,7 +786,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://academy.hackthebox.com/",
-      "latency_ms": 120,
+      "latency_ms": 289,
       "error": ""
     },
     {
@@ -796,7 +796,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://developer.hashicorp.com/certifications",
-      "latency_ms": 441,
+      "latency_ms": 171,
       "error": ""
     },
     {
@@ -806,7 +806,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://devcenter.heroku.com/",
-      "latency_ms": 82,
+      "latency_ms": 397,
       "error": ""
     },
     {
@@ -816,7 +816,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://academy.hubspot.com/",
-      "latency_ms": 179,
+      "latency_ms": 169,
       "error": ""
     },
     {
@@ -826,7 +826,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://huggingface.co/learn",
-      "latency_ms": 90,
+      "latency_ms": 168,
       "error": ""
     },
     {
@@ -836,7 +836,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.lfdecentralizedtrust.org/learn",
-      "latency_ms": 1307,
+      "latency_ms": 1759,
       "error": "Not Found"
     },
     {
@@ -846,7 +846,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://skillsbuild.org/learning-catalog",
-      "latency_ms": 300,
+      "latency_ms": 536,
       "error": ""
     },
     {
@@ -856,7 +856,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.iec.ch/",
-      "latency_ms": 31,
+      "latency_ms": 447,
       "error": "Forbidden"
     },
     {
@@ -866,7 +866,7 @@
       "state": "reachable",
       "http_status": 202,
       "final_url": "https://www.ieee.org/education/",
-      "latency_ms": 123,
+      "latency_ms": 138,
       "error": ""
     },
     {
@@ -876,7 +876,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.ietf.org/education/",
-      "latency_ms": 332,
+      "latency_ms": 464,
       "error": "Not Found"
     },
     {
@@ -886,7 +886,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.infineon.com/cms/en/training/",
-      "latency_ms": 330,
+      "latency_ms": 921,
       "error": "Not Found"
     },
     {
@@ -896,7 +896,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://training.ipc.org/",
-      "latency_ms": 1334,
+      "latency_ms": 1318,
       "error": "Forbidden"
     },
     {
@@ -906,7 +906,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.isaca.org/credentialing",
-      "latency_ms": 392,
+      "latency_ms": 509,
       "error": ""
     },
     {
@@ -916,7 +916,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.isc2.org/certifications",
-      "latency_ms": 418,
+      "latency_ms": 686,
       "error": ""
     },
     {
@@ -926,7 +926,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.isc2.org/training",
-      "latency_ms": 296,
+      "latency_ms": 692,
       "error": ""
     },
     {
@@ -936,7 +936,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.iso.org/training.html",
-      "latency_ms": 26,
+      "latency_ms": 205,
       "error": "Forbidden"
     },
     {
@@ -946,7 +946,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://academy.itu.int/",
-      "latency_ms": 497,
+      "latency_ms": 1882,
       "error": ""
     },
     {
@@ -956,7 +956,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.jetbrains.com/academy/",
-      "latency_ms": 164,
+      "latency_ms": 89,
       "error": ""
     },
     {
@@ -966,7 +966,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://academy.jfrog.com/",
-      "latency_ms": 860,
+      "latency_ms": 1016,
       "error": ""
     },
     {
@@ -976,7 +976,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://academy.jfrog.com/",
-      "latency_ms": 730,
+      "latency_ms": 1394,
       "error": ""
     },
     {
@@ -986,7 +986,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://community.atlassian.com/learning",
-      "latency_ms": 151,
+      "latency_ms": 290,
       "error": ""
     },
     {
@@ -996,7 +996,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=14346",
-      "latency_ms": 2966,
+      "latency_ms": 4322,
       "error": ""
     },
     {
@@ -1006,7 +1006,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://jupyter.org/",
-      "latency_ms": 135,
+      "latency_ms": 306,
       "error": ""
     },
     {
@@ -1016,7 +1016,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.kaggle.com/learn",
-      "latency_ms": 44,
+      "latency_ms": 235,
       "error": ""
     },
     {
@@ -1026,7 +1026,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://certification.kaspersky.com/",
-      "latency_ms": 3453,
+      "latency_ms": 1950,
       "error": ""
     },
     {
@@ -1036,7 +1036,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.keysight.com/us/en/learn.html",
-      "latency_ms": 28,
+      "latency_ms": 155,
       "error": "Forbidden"
     },
     {
@@ -1046,7 +1046,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.khanacademy.org/",
-      "latency_ms": 112,
+      "latency_ms": 221,
       "error": ""
     },
     {
@@ -1056,7 +1056,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.knime.com/learning",
-      "latency_ms": 232,
+      "latency_ms": 357,
       "error": ""
     },
     {
@@ -1066,7 +1066,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://kubernetes.io/training/",
-      "latency_ms": 261,
+      "latency_ms": 212,
       "error": ""
     },
     {
@@ -1076,7 +1076,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.latticesemi.com/Support",
-      "latency_ms": 342,
+      "latency_ms": 905,
       "error": ""
     },
     {
@@ -1086,7 +1086,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://training.linuxfoundation.org/",
-      "latency_ms": 460,
+      "latency_ms": 504,
       "error": ""
     },
     {
@@ -1096,7 +1096,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://training.linuxfoundation.org/",
-      "latency_ms": 39,
+      "latency_ms": 77,
       "error": ""
     },
     {
@@ -1106,7 +1106,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.lpi.org/",
-      "latency_ms": 339,
+      "latency_ms": 447,
       "error": ""
     },
     {
@@ -1116,7 +1116,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://docs.cloud.google.com/looker/docs",
-      "latency_ms": 752,
+      "latency_ms": 2490,
       "error": ""
     },
     {
@@ -1126,7 +1126,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.marvell.com/",
-      "latency_ms": 394,
+      "latency_ms": 169,
       "error": ""
     },
     {
@@ -1136,7 +1136,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.mathworks.com/learn/training.html",
-      "latency_ms": 164,
+      "latency_ms": 196,
       "error": "Forbidden"
     },
     {
@@ -1146,7 +1146,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.mediatek.com/",
-      "latency_ms": 1371,
+      "latency_ms": 1197,
       "error": ""
     },
     {
@@ -1156,7 +1156,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.microchip.com/en-us/training",
-      "latency_ms": 143,
+      "latency_ms": 133,
       "error": "Forbidden"
     },
     {
@@ -1166,7 +1166,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://learn.microsoft.com/en-us/credentials/",
-      "latency_ms": 357,
+      "latency_ms": 251,
       "error": ""
     },
     {
@@ -1176,7 +1176,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://ocw.mit.edu/",
-      "latency_ms": 84,
+      "latency_ms": 57,
       "error": ""
     },
     {
@@ -1186,7 +1186,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://us.mitsubishielectric.com/fa/en/404/?item=%2flearn%2f&user=extranet%5cAnonymous&site=meau",
-      "latency_ms": 181,
+      "latency_ms": 434,
       "error": "Not Found"
     },
     {
@@ -1196,7 +1196,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://learn.mongodb.com/",
-      "latency_ms": 359,
+      "latency_ms": 779,
       "error": ""
     },
     {
@@ -1206,7 +1206,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.nasa.gov/learning-resources/",
-      "latency_ms": 25,
+      "latency_ms": 115,
       "error": ""
     },
     {
@@ -1216,7 +1216,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.npl.co.uk/education-training",
-      "latency_ms": 875,
+      "latency_ms": 1259,
       "error": "Not Found"
     },
     {
@@ -1226,7 +1226,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://graphacademy.neo4j.com/",
-      "latency_ms": 147,
+      "latency_ms": 414,
       "error": ""
     },
     {
@@ -1236,7 +1236,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.netlify.com/learn/",
-      "latency_ms": 83,
+      "latency_ms": 315,
       "error": "Not Found"
     },
     {
@@ -1246,7 +1246,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://learn.newrelic.com/",
-      "latency_ms": 132,
+      "latency_ms": 147,
       "error": "Forbidden"
     },
     {
@@ -1256,7 +1256,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.ni.com/en/shop/services/education-services.html",
-      "latency_ms": 351,
+      "latency_ms": 1239,
       "error": ""
     },
     {
@@ -1266,7 +1266,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.nist.gov/",
-      "latency_ms": 83,
+      "latency_ms": 66,
       "error": ""
     },
     {
@@ -1276,7 +1276,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.noaa.gov/education",
-      "latency_ms": 114,
+      "latency_ms": 139,
       "error": "Forbidden"
     },
     {
@@ -1286,7 +1286,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.nordicsemi.com/Products/Development-tools/nRF-Connect-SDK",
-      "latency_ms": 54,
+      "latency_ms": 121,
       "error": "Forbidden"
     },
     {
@@ -1296,7 +1296,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://numpy.org/",
-      "latency_ms": 211,
+      "latency_ms": 307,
       "error": ""
     },
     {
@@ -1306,7 +1306,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.nvidia.com/en-us/training/",
-      "latency_ms": 75,
+      "latency_ms": 167,
       "error": ""
     },
     {
@@ -1316,7 +1316,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.nxp.com/design/training:TRAINING",
-      "latency_ms": 428,
+      "latency_ms": 664,
       "error": "Not Found"
     },
     {
@@ -1326,7 +1326,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.omron.com/global/en/technology/training/",
-      "latency_ms": 98,
+      "latency_ms": 151,
       "error": "Forbidden"
     },
     {
@@ -1336,7 +1336,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://academy.openai.com/",
-      "latency_ms": 570,
+      "latency_ms": 359,
       "error": ""
     },
     {
@@ -1344,9 +1344,9 @@
       "country": "Global",
       "url": "https://openedx.org/",
       "state": "reachable",
-      "http_status": 202,
+      "http_status": 200,
       "final_url": "https://openedx.org/",
-      "latency_ms": 198,
+      "latency_ms": 511,
       "error": ""
     },
     {
@@ -1356,7 +1356,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.open.edu/openlearn/",
-      "latency_ms": 192,
+      "latency_ms": 175,
       "error": "Forbidden"
     },
     {
@@ -1366,7 +1366,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://openssf.org/",
-      "latency_ms": 938,
+      "latency_ms": 410,
       "error": ""
     },
     {
@@ -1376,7 +1376,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://scorecard.dev/",
-      "latency_ms": 169,
+      "latency_ms": 248,
       "error": ""
     },
     {
@@ -1386,7 +1386,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://opentelemetry.io/",
-      "latency_ms": 30,
+      "latency_ms": 384,
       "error": ""
     },
     {
@@ -1396,7 +1396,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://opentofu.org/",
-      "latency_ms": 60,
+      "latency_ms": 267,
       "error": ""
     },
     {
@@ -1406,7 +1406,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://openwho.org/",
-      "latency_ms": 444,
+      "latency_ms": 1256,
       "error": ""
     },
     {
@@ -1416,7 +1416,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.oracle.com/education/certification/",
-      "latency_ms": 64,
+      "latency_ms": 108,
       "error": ""
     },
     {
@@ -1426,7 +1426,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://owasp.org/",
-      "latency_ms": 158,
+      "latency_ms": 368,
       "error": ""
     },
     {
@@ -1436,7 +1436,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://owasp.org/",
-      "latency_ms": 57,
+      "latency_ms": 74,
       "error": ""
     },
     {
@@ -1446,7 +1446,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.pagerduty.com/resources/",
-      "latency_ms": 117,
+      "latency_ms": 160,
       "error": ""
     },
     {
@@ -1456,7 +1456,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.paloaltonetworks.com/services/education",
-      "latency_ms": 309,
+      "latency_ms": 249,
       "error": ""
     },
     {
@@ -1466,7 +1466,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://pandas.pydata.org/",
-      "latency_ms": 203,
+      "latency_ms": 300,
       "error": ""
     },
     {
@@ -1476,7 +1476,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://pecb.com/en/",
-      "latency_ms": 101,
+      "latency_ms": 523,
       "error": ""
     },
     {
@@ -1486,7 +1486,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.phoenixcontact.com/en-pc/training",
-      "latency_ms": 151,
+      "latency_ms": 191,
       "error": "Forbidden"
     },
     {
@@ -1496,7 +1496,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.pmi.org/learning",
-      "latency_ms": 142,
+      "latency_ms": 213,
       "error": "Forbidden"
     },
     {
@@ -1506,7 +1506,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://portswigger.net/web-security",
-      "latency_ms": 324,
+      "latency_ms": 548,
       "error": ""
     },
     {
@@ -1516,7 +1516,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://edu.ptsecurity.com/",
-      "latency_ms": 657,
+      "latency_ms": 884,
       "error": ""
     },
     {
@@ -1526,7 +1526,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.postgresql.org/",
-      "latency_ms": 264,
+      "latency_ms": 238,
       "error": ""
     },
     {
@@ -1536,7 +1536,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://academy.postman.com/",
-      "latency_ms": 195,
+      "latency_ms": 185,
       "error": "Forbidden"
     },
     {
@@ -1546,7 +1546,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi",
-      "latency_ms": 269,
+      "latency_ms": 493,
       "error": ""
     },
     {
@@ -1556,7 +1556,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://prometheus.io/",
-      "latency_ms": 142,
+      "latency_ms": 278,
       "error": ""
     },
     {
@@ -1566,7 +1566,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.ptc.com/en/education/free-software",
-      "latency_ms": 355,
+      "latency_ms": 1351,
       "error": ""
     },
     {
@@ -1576,7 +1576,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://pythoninstitute.org/",
-      "latency_ms": 343,
+      "latency_ms": 669,
       "error": ""
     },
     {
@@ -1586,7 +1586,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://pytorch.org/",
-      "latency_ms": 129,
+      "latency_ms": 1188,
       "error": ""
     },
     {
@@ -1596,7 +1596,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.qgis.org/",
-      "latency_ms": 978,
+      "latency_ms": 1287,
       "error": ""
     },
     {
@@ -1606,7 +1606,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://learning.qlik.com/student/catalog",
-      "latency_ms": 395,
+      "latency_ms": 1086,
       "error": ""
     },
     {
@@ -1616,7 +1616,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.qualcomm.com/developer",
-      "latency_ms": 170,
+      "latency_ms": 323,
       "error": ""
     },
     {
@@ -1626,7 +1626,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://training-hub.raspberrypi.org/en/courses",
-      "latency_ms": 873,
+      "latency_ms": 1281,
       "error": ""
     },
     {
@@ -1636,7 +1636,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.redhat.com/en/services/training-and-certification",
-      "latency_ms": 218,
+      "latency_ms": 246,
       "error": ""
     },
     {
@@ -1646,7 +1646,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://university.redis.io/",
-      "latency_ms": 305,
+      "latency_ms": 516,
       "error": ""
     },
     {
@@ -1656,7 +1656,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.renesas.com/en/design-resources/training",
-      "latency_ms": 606,
+      "latency_ms": 656,
       "error": "Not Found"
     },
     {
@@ -1666,7 +1666,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://riscv.org/community/training/",
-      "latency_ms": 1534,
+      "latency_ms": 2410,
       "error": ""
     },
     {
@@ -1676,7 +1676,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.rockwellautomation.com/en-us/services/training.html",
-      "latency_ms": 86,
+      "latency_ms": 413,
       "error": "Not Found"
     },
     {
@@ -1686,7 +1686,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.rohde-schwarz.com/us/home_48230.html",
-      "latency_ms": 1179,
+      "latency_ms": 1711,
       "error": ""
     },
     {
@@ -1696,7 +1696,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.ros.org/",
-      "latency_ms": 398,
+      "latency_ms": 279,
       "error": ""
     },
     {
@@ -1706,7 +1706,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.roscosmos.ru/",
-      "latency_ms": 889,
+      "latency_ms": 1180,
       "error": "Forbidden"
     },
     {
@@ -1716,7 +1716,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://posit.co/learn/",
-      "latency_ms": 830,
+      "latency_ms": 1149,
       "error": "Not Found"
     },
     {
@@ -1726,7 +1726,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://education.red-soft.ru/",
-      "latency_ms": 1316,
+      "latency_ms": 1675,
       "error": ""
     },
     {
@@ -1736,7 +1736,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.sae.org/learn",
-      "latency_ms": 190,
+      "latency_ms": 274,
       "error": ""
     },
     {
@@ -1746,7 +1746,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://trailhead.salesforce.com/",
-      "latency_ms": 134,
+      "latency_ms": 403,
       "error": ""
     },
     {
@@ -1756,7 +1756,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.sans.org/",
-      "latency_ms": 330,
+      "latency_ms": 710,
       "error": ""
     },
     {
@@ -1766,7 +1766,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://learning.sap.com/",
-      "latency_ms": 155,
+      "latency_ms": 200,
       "error": ""
     },
     {
@@ -1776,7 +1776,7 @@
       "state": "http-error",
       "http_status": 404,
       "final_url": "https://www.se.com/ww/en/work/solutions/training/",
-      "latency_ms": 1101,
+      "latency_ms": 2243,
       "error": "Not Found"
     },
     {
@@ -1786,7 +1786,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://scikit-learn.org/",
-      "latency_ms": 270,
+      "latency_ms": 420,
       "error": ""
     },
     {
@@ -1796,7 +1796,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.scrumalliance.org/get-certified",
-      "latency_ms": 1255,
+      "latency_ms": 1780,
       "error": ""
     },
     {
@@ -1806,7 +1806,7 @@
       "state": "reachable-restricted",
       "http_status": 403,
       "final_url": "https://www.scrum.org/professional-training",
-      "latency_ms": 251,
+      "latency_ms": 85,
       "error": "Forbidden"
     },
     {
@@ -1816,7 +1816,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://sentry.io/resources/",
-      "latency_ms": 168,
+      "latency_ms": 280,
       "error": ""
     },
     {
@@ -1826,7 +1826,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.siemens.com/en-us/products/industrial-lifecycle-training-services/",
-      "latency_ms": 852,
+      "latency_ms": 2196,
       "error": ""
     },
     {
@@ -1836,7 +1836,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://training.plm.automation.siemens.com/",
-      "latency_ms": 366,
+      "latency_ms": 788,
       "error": ""
     },
     {
@@ -1846,7 +1846,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.sifive.com/",
-      "latency_ms": 59,
+      "latency_ms": 320,
       "error": ""
     },
     {
@@ -1856,7 +1856,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.silabs.com/support/training",
-      "latency_ms": 414,
+      "latency_ms": 450,
       "error": ""
     },
     {
@@ -1866,7 +1866,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://slsa.dev/",
-      "latency_ms": 189,
+      "latency_ms": 336,
       "error": ""
     },
     {
@@ -1876,7 +1876,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://learn.snowflake.com/en/",
-      "latency_ms": 236,
+      "latency_ms": 200,
       "error": ""
     },
     {
@@ -1886,7 +1886,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://software-carpentry.org/",
-      "latency_ms": 220,
+      "latency_ms": 417,
       "error": ""
     },
     {
@@ -1896,7 +1896,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.splunk.com/en_us/training.html",
-      "latency_ms": 115,
+      "latency_ms": 169,
       "error": ""
     },
     {
@@ -1906,7 +1906,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://stepik.org/",
-      "latency_ms": 776,
+      "latency_ms": 1156,
       "error": ""
     },
     {
@@ -1916,7 +1916,7 @@
       "state": "unreachable",
       "http_status": null,
       "final_url": "https://www.st.com/content/st_com/en/about/training.html",
-      "latency_ms": 19448,
+      "latency_ms": 18136,
       "error": "The read operation timed out"
     },
     {
@@ -1926,7 +1926,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.synopsys.com/",
-      "latency_ms": 248,
+      "latency_ms": 286,
       "error": ""
     },
     {
@@ -1936,7 +1936,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.tableau.com/learn",
-      "latency_ms": 645,
+      "latency_ms": 432,
       "error": ""
     },
     {
@@ -1946,7 +1946,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.tek.com/en/support/learning-center",
-      "latency_ms": 1454,
+      "latency_ms": 658,
       "error": ""
     },
     {
@@ -1956,7 +1956,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.tensorflow.org/certificate",
-      "latency_ms": 813,
+      "latency_ms": 555,
       "error": ""
     },
     {
@@ -1966,7 +1966,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.ti.com/video/library.html",
-      "latency_ms": 535,
+      "latency_ms": 437,
       "error": ""
     },
     {
@@ -1976,7 +1976,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://carpentries.org/workshops/",
-      "latency_ms": 173,
+      "latency_ms": 363,
       "error": ""
     },
     {
@@ -1986,7 +1986,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://tryhackme.com/",
-      "latency_ms": 136,
+      "latency_ms": 360,
       "error": ""
     },
     {
@@ -1996,7 +1996,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://unccelearn.org/",
-      "latency_ms": 531,
+      "latency_ms": 824,
       "error": ""
     },
     {
@@ -2006,7 +2006,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.informea.org/en",
-      "latency_ms": 602,
+      "latency_ms": 945,
       "error": ""
     },
     {
@@ -2016,7 +2016,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://learn.unity.com/",
-      "latency_ms": 227,
+      "latency_ms": 1137,
       "error": ""
     },
     {
@@ -2026,7 +2026,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.usgs.gov/educational-resources",
-      "latency_ms": 2650,
+      "latency_ms": 1493,
       "error": ""
     },
     {
@@ -2036,7 +2036,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://vercel.com/academy",
-      "latency_ms": 52,
+      "latency_ms": 102,
       "error": ""
     },
     {
@@ -2046,7 +2046,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://web3.foundation/",
-      "latency_ms": 143,
+      "latency_ms": 652,
       "error": ""
     },
     {
@@ -2056,7 +2056,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://www.who.int/about/who-academy",
-      "latency_ms": 134,
+      "latency_ms": 228,
       "error": ""
     },
     {
@@ -2066,7 +2066,7 @@
       "state": "unreachable",
       "http_status": null,
       "final_url": "https://www.amd.com/en/corporate/university-programs.html",
-      "latency_ms": 18030,
+      "latency_ms": 18091,
       "error": "The read operation timed out"
     },
     {
@@ -2076,7 +2076,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://astra.ru/training/",
-      "latency_ms": 1080,
+      "latency_ms": 1131,
       "error": ""
     },
     {
@@ -2086,7 +2086,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://netology.ru/",
-      "latency_ms": 740,
+      "latency_ms": 961,
       "error": ""
     },
     {
@@ -2096,7 +2096,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://openedu.ru/",
-      "latency_ms": 906,
+      "latency_ms": 1262,
       "error": ""
     },
     {
@@ -2106,7 +2106,7 @@
       "state": "reachable",
       "http_status": 200,
       "final_url": "https://education.tbank.ru/",
-      "latency_ms": 1028,
+      "latency_ms": 1104,
       "error": ""
     }
   ]
