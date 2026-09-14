@@ -1,13 +1,13 @@
 # Promotion preview
 
-- candidate records reviewed: 10846
-- deterministic review candidates (score ≥ 6): 3234
-- high-confidence review candidates (score ≥ 8): 590
-- likely credential identities: 1458
-- learning-content signals: 7670
-- issuer/provider groups: 109 (top 100 shown)
+- candidate records reviewed: 10916
+- deterministic review candidates (score ≥ 6): 3242
+- high-confidence review candidates (score ≥ 8): 589
+- likely credential identities: 1475
+- learning-content signals: 7723
+- issuer/provider groups: 110 (top 100 shown)
 - rows shown: 500
-- catalog SHA-256: `391e98b6d1cc8272c1c5f72f2c0d18e5d8c20fb278cf0f47445e9a97e9dd6ae5`
+- catalog SHA-256: `83f17d989ffee5ad2b59f642fadfce0dd330eb1eafbd8d59276ee745065fa264`
 
 This report is advisory only. It never changes catalog records, Evidence Status, or free status.
 Credential-language and learning-content heuristics affect triage only; they are not proof of credential identity.
@@ -29,12 +29,12 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | Atlassian | community.atlassian.com | 175 | 89 | 61 | 73 | 99 | 3 |
 | Jira Service Management | community.atlassian.com | 175 | 89 | 61 | 73 | 99 | 3 |
 | edX | www.edx.org | 116 | 79 | 4 | 14 | 92 | 10 |
-| Cloud Native Computing Foundation | www.cncf.io | 292 | 78 | 1 | 111 | 180 | 1 |
-| CNCF | www.cncf.io | 292 | 78 | 1 | 111 | 180 | 1 |
+| Cloud Native Computing Foundation | www.cncf.io | 313 | 78 | 1 | 111 | 201 | 1 |
+| CNCF | www.cncf.io | 313 | 78 | 1 | 111 | 201 | 1 |
 | PECB | pecb.com | 82 | 70 | 3 | 12 | 12 | 58 |
-| EIT Health | eithealth.eu | 76 | 67 | 22 | 26 | 18 | 32 |
+| Coursera | www.coursera.org | 94 | 68 | 19 | 55 | 35 | 4 |
 | Scrum Alliance | www.scrumalliance.org | 90 | 67 | 0 | 21 | 36 | 33 |
-| Coursera | www.coursera.org | 90 | 56 | 19 | 43 | 43 | 4 |
+| EIT Health | eithealth.eu | 75 | 66 | 22 | 25 | 18 | 32 |
 | RЭД СОФТ | education.red-soft.ru | 116 | 55 | 0 | 0 | 61 | 55 |
 | Т-Банк Education | education.tbank.ru | 55 | 55 | 0 | 0 | 0 | 55 |
 | Splunk | www.splunk.com | 281 | 54 | 0 | 68 | 198 | 15 |
@@ -42,50 +42,49 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | Fortinet | www.fortinet.com | 330 | 51 | 2 | 23 | 280 | 27 |
 | Tektronix | www.tek.com | 53 | 50 | 8 | 0 | 1 | 52 |
 | Palo Alto Networks | www.paloaltonetworks.com | 59 | 50 | 5 | 7 | 17 | 35 |
-| ITU Academy | academy.itu.int | 141 | 50 | 0 | 1 | 90 | 50 |
+| ITU Academy | academy.itu.int | 142 | 50 | 0 | 1 | 91 | 50 |
 | ISACA | www.isaca.org | 84 | 44 | 3 | 31 | 49 | 4 |
 | EC-Council | www.eccouncil.org | 47 | 43 | 7 | 32 | 5 | 10 |
 | Altium | www.altium.com | 88 | 43 | 4 | 2 | 47 | 39 |
-| NVIDIA | www.nvidia.com | 260 | 42 | 0 | 59 | 194 | 7 |
+| NVIDIA | www.nvidia.com | 253 | 42 | 0 | 59 | 187 | 7 |
 | Dassault Systèmes | www.3ds.com | 41 | 38 | 14 | 2 | 3 | 36 |
 | ETSI | www.etsi.org | 54 | 38 | 0 | 2 | 16 | 36 |
-| Class Central | www.classcentral.com | 112 | 34 | 13 | 5 | 79 | 28 |
-| PagerDuty | www.pagerduty.com | 48 | 32 | 14 | 8 | 20 | 20 |
-| OpenAI Academy | academy.openai.com | 44 | 32 | 0 | 0 | 11 | 33 |
+| Class Central | www.classcentral.com | 115 | 34 | 14 | 3 | 83 | 29 |
+| PagerDuty | www.pagerduty.com | 47 | 32 | 14 | 8 | 19 | 20 |
+| OpenAI Academy | academy.openai.com | 42 | 32 | 0 | 0 | 8 | 34 |
 | Snowflake | learn.snowflake.com | 206 | 31 | 15 | 20 | 185 | 1 |
 | Python Institute | pythoninstitute.org | 32 | 31 | 13 | 31 | 1 | 0 |
 | Red Hat | www.redhat.com | 256 | 31 | 0 | 43 | 204 | 9 |
 | USGS | www.usgs.gov | 30 | 30 | 4 | 0 | 0 | 30 |
 | NI | www.ni.com | 43 | 28 | 2 | 4 | 21 | 18 |
 | ISC2 | www.isc2.org | 27 | 27 | 16 | 26 | 0 | 1 |
-| JFrog | academy.jfrog.com | 62 | 25 | 0 | 3 | 36 | 23 |
-| JFrog Academy | academy.jfrog.com | 62 | 25 | 0 | 3 | 36 | 23 |
+| JFrog | academy.jfrog.com | 65 | 26 | 0 | 3 | 38 | 24 |
+| JFrog Academy | academy.jfrog.com | 65 | 26 | 0 | 3 | 38 | 24 |
 | Kubernetes | kubernetes.io | 58 | 25 | 0 | 25 | 33 | 0 |
 | FutureLearn | www.futurelearn.com | 156 | 24 | 2 | 5 | 143 | 8 |
 | Cloudflare | www.cloudflare.com | 22 | 22 | 7 | 22 | 0 | 0 |
 | Raspberry Pi Foundation | training-hub.raspberrypi.org | 104 | 22 | 0 | 23 | 81 | 0 |
 | JetBrains Academy | www.jetbrains.com | 25 | 20 | 2 | 0 | 12 | 13 |
 | FAO eLearning Academy | elearning.fao.org | 101 | 19 | 4 | 10 | 89 | 2 |
-| MIT OpenCourseWare | ocw.mit.edu | 115 | 19 | 1 | 0 | 96 | 19 |
+| MIT OpenCourseWare | ocw.mit.edu | 125 | 19 | 1 | 9 | 97 | 19 |
 | Hugging Face | huggingface.co | 278 | 17 | 0 | 13 | 263 | 2 |
 | Linux Professional Institute | www.lpi.org | 18 | 16 | 4 | 13 | 2 | 3 |
 | Tableau | www.tableau.com | 50 | 16 | 1 | 13 | 35 | 2 |
-| SANS Institute | www.sans.org | 40 | 13 | 1 | 0 | 36 | 4 |
-| UN CC:Learn | unccelearn.org | 283 | 13 | 0 | 12 | 270 | 1 |
+| SANS Institute | www.sans.org | 40 | 13 | 1 | 0 | 35 | 5 |
+| UN CC:Learn | unccelearn.org | 277 | 13 | 0 | 12 | 264 | 1 |
 | WHO Academy | www.who.int | 19 | 13 | 0 | 0 | 11 | 8 |
 | BSI | www.bsigroup.com | 25 | 12 | 1 | 8 | 13 | 4 |
-| Esri | www.esri.com | 89 | 11 | 0 | 15 | 73 | 1 |
 | ISC2 Learning | www.isc2.org | 89 | 11 | 0 | 14 | 74 | 1 |
+| Esri | www.esri.com | 88 | 11 | 0 | 15 | 72 | 1 |
 | Juniper Networks | learningportal.juniper.net | 13 | 10 | 6 | 7 | 3 | 3 |
-| EIT Manufacturing | www.eit.europa.eu | 11 | 10 | 3 | 2 | 2 | 7 |
 | Databricks | www.databricks.com | 71 | 10 | 2 | 14 | 57 | 0 |
 | Anthropic | academy.claude.com | 11 | 10 | 0 | 0 | 2 | 9 |
+| EIT Manufacturing | www.eit.europa.eu | 9 | 9 | 3 | 2 | 0 | 7 |
 | Neo4j | graphacademy.neo4j.com | 74 | 8 | 3 | 8 | 66 | 0 |
 | EIT Climate-KIC | www.climate-kic.org | 11 | 8 | 0 | 0 | 4 | 7 |
 | Rohde & Schwarz | www.rohde-schwarz.com | 8 | 7 | 0 | 0 | 1 | 7 |
 | QGIS | www.qgis.org | 6 | 6 | 4 | 5 | 1 | 0 |
-| OpenEDX | openedx.org | 6 | 6 | 2 | 0 | 0 | 6 |
-| Siemens | www.siemens.com | 6 | 6 | 0 | 0 | 1 | 5 |
+| Siemens | www.siemens.com | 6 | 6 | 0 | 0 | 0 | 6 |
 | Ansible | www.redhat.com | 19 | 5 | 4 | 3 | 14 | 2 |
 | Power BI / Microsoft | learn.microsoft.com | 65 | 5 | 3 | 5 | 60 | 0 |
 | Confluent | developer.confluent.io | 63 | 5 | 1 | 2 | 61 | 0 |
@@ -99,25 +98,26 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | Нетология | netology.ru | 3 | 3 | 0 | 0 | 0 | 3 |
 | HashiCorp | developer.hashicorp.com | 2 | 2 | 2 | 2 | 0 | 0 |
 | Unity | learn.unity.com | 31 | 2 | 1 | 0 | 30 | 1 |
-| Cadence | www.cadence.com | 646 | 2 | 0 | 16 | 630 | 0 |
+| Cadence | www.cadence.com | 686 | 2 | 0 | 15 | 671 | 0 |
 | Linux Foundation | training.linuxfoundation.org | 301 | 2 | 0 | 13 | 288 | 0 |
 | Linux Foundation Training | training.linuxfoundation.org | 301 | 2 | 0 | 13 | 288 | 0 |
 | Looker / Google | docs.cloud.google.com | 140 | 2 | 0 | 2 | 138 | 0 |
 | Silicon Labs | www.silabs.com | 59 | 2 | 0 | 0 | 57 | 2 |
 | OpenTelemetry | opentelemetry.io | 9 | 2 | 0 | 2 | 6 | 1 |
 | FAO eLearning Academy | openknowledge.fao.org | 4 | 2 | 0 | 0 | 4 | 0 |
+| NASA | www.nasa.gov | 3 | 2 | 0 | 0 | 2 | 1 |
 | Qlik | learning.qlik.com | 3 | 2 | 0 | 2 | 1 | 0 |
 | PyTorch | pytorch.org | 2 | 2 | 0 | 1 | 1 | 0 |
 | COMSOL | www.comsol.com | 311 | 1 | 0 | 0 | 310 | 1 |
 | Salesforce Trailhead | trailhead.salesforce.com | 31 | 1 | 0 | 31 | 0 | 0 |
 | OpenSSF | openssf.org | 13 | 1 | 0 | 0 | 13 | 0 |
+| DigitalOcean | www.digitalocean.com | 2 | 1 | 0 | 0 | 2 | 0 |
 | Anthropic | www.anthropic.com | 1 | 1 | 0 | 0 | 1 | 0 |
 | EIT Digital | 28digital.eu | 1 | 1 | 0 | 0 | 1 | 0 |
 | Google Cloud | www.skills.google | 1 | 1 | 0 | 1 | 0 | 0 |
 | Lattice Semiconductor | www.latticesemi.com | 1 | 1 | 0 | 0 | 1 | 0 |
-| NASA | www.nasa.gov | 1 | 1 | 0 | 0 | 0 | 1 |
 | Texas Instruments | www.ti.com | 1 | 1 | 0 | 0 | 1 | 0 |
-| Открытое образование | openedu.ru | 250 | 0 | 0 | 0 | 250 | 0 |
+| Открытое образование | openedu.ru | 235 | 0 | 0 | 0 | 235 | 0 |
 | Группа Астра | astra.ru | 67 | 0 | 0 | 0 | 67 | 0 |
 
 ## Candidate records
@@ -216,7 +216,6 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 9 | high-confidence review candidate | likely credential identity | AWS | Prepare for AWS Certification with AWS Skill Builder | official-page-extraction | heading | https://aws.amazon.com/certification/certification-prep/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | AWS | The latest in AWS Certification | official-page-extraction | heading | https://aws.amazon.com/certification/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | AWS | Why get AWS Certified? | official-page-extraction | heading | https://aws.amazon.com/certification/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Class Central | Banning Telegram Can’t Stop Paper Leaks: Inside India’s NEET Exam Scandal | official-page-extraction | heading | https://www.classcentral.com/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Certificate of Cloud Auditing Knowledge | official-page-extraction | heading | https://cloudsecurityalliance.org/education/schedule | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Certificate of Cloud Security Knowledge | official-page-extraction | heading | https://cloudsecurityalliance.org/education/schedule | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Certificate of Cloud Security Knowledge | official-page-extraction | heading | https://cloudsecurityalliance.org/education/partner | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
@@ -516,6 +515,7 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 8 | high-confidence review candidate | learning-content signal | AWS | AWS Training and Certification | official-page-extraction | heading | https://aws.amazon.com/education/?nc2=h_sol_ind_edu | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | AWS | AWS Training and Certification on Twitch | official-page-extraction | heading | https://aws.amazon.com/certification/certification-prep/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | AWS | The value of AWS Training and Certification | official-page-extraction | heading | https://aws.amazon.com/certification/certification-prep/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
+| 8 | high-confidence review candidate | learning-content signal | Class Central | Certified Trainer Course | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Class Central | Education & Teaching Courses and Certifications | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Cloud Security Alliance | Certificate of Cloud Security Knowledge - Plus Course | official-page-extraction | heading | https://cloudsecurityalliance.org/education/ccsk-plus | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Cloud Security Alliance | Certificate of Competence in Zero Trust (CCZT) Training | official-page-extraction | heading | https://cloudsecurityalliance.org/education/schedule | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
@@ -529,8 +529,8 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 8 | high-confidence review candidate | learning-content signal | Coursera | Is a Coursera certificate worth it? | official-page-extraction | heading | https://www.coursera.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Databricks | Dive in and explore a world of Databricks resources — at your fingertips. You’ll find training and certification, upcoming events, helpful documentation and more. | official-page-extraction | heading | https://www.databricks.com/learn | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | EC-Council | What cybersecurity certification programs should beginners consider? | official-page-extraction | heading | https://www.eccouncil.org/train-certify/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
-| 8 | high-confidence review candidate | learning-content signal | edX | CPSCAI - Certified Professional in Supply Chain AI International Supply Chain Education Alliance Professional Certificate 3 Courses | official-page-extraction | anchor | https://www.edx.org/certificates/professional-certificate/iscea-cpscai-certified-professional-in-supply-chain-ai | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
-| 8 | high-confidence review candidate | learning-content signal | edX | Professional Cloud Architect Renewal Exam Google Cloud Professional Certificate 4 Courses | official-page-extraction | anchor | https://www.edx.org/certificates/professional-certificate/googlecloud-professional-cloud-architect-renewal-exam | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
+| 8 | high-confidence review candidate | learning-content signal | edX | CPSCAI - Certified Professional in Supply Chain AI International Supply Chain Education Alliance Professional Certificate 3 courses | official-page-extraction | anchor | https://www.edx.org/certificates/professional-certificate/iscea-cpscai-certified-professional-in-supply-chain-ai | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
+| 8 | high-confidence review candidate | learning-content signal | edX | Professional Cloud Architect Renewal Exam Google Cloud Professional Certificate 4 courses | official-page-extraction | anchor | https://www.edx.org/certificates/professional-certificate/googlecloud-professional-cloud-architect-renewal-exam | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Jira Service Management | Earn the Atlassian Cloud Fundamentals certificate | official-page-extraction | heading | https://community.atlassian.com/learning/catalog | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Jira Service Management | Earn the Jira Service Management with AI Fundamentals certificate | official-page-extraction | heading | https://community.atlassian.com/learning/catalog?product=Rovo | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Jira Service Management | Earn the Jira Service Management with AI Fundamentals certificate | official-page-extraction | heading | https://community.atlassian.com/learning/catalog?product=Jira+Service+Management | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |

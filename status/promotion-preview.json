@@ -1,12 +1,12 @@
 {
   "schema_version": "1.3",
-  "catalog_sha256": "391e98b6d1cc8272c1c5f72f2c0d18e5d8c20fb278cf0f47445e9a97e9dd6ae5",
-  "candidate_records": 10846,
-  "reviewable": 3234,
-  "high_confidence": 590,
-  "likely_credential_identity": 1458,
-  "learning_content_signals": 7670,
-  "provider_count": 109,
+  "catalog_sha256": "83f17d989ffee5ad2b59f642fadfce0dd330eb1eafbd8d59276ee745065fa264",
+  "candidate_records": 10916,
+  "reviewable": 3242,
+  "high_confidence": 589,
+  "likely_credential_identity": 1475,
+  "learning_content_signals": 7723,
+  "provider_count": 110,
   "providers_shown": 100,
   "rows_shown": 500,
   "advisory_only": true,
@@ -115,21 +115,21 @@
     {
       "organization": "Cloud Native Computing Foundation",
       "host": "www.cncf.io",
-      "candidate_records": 292,
+      "candidate_records": 313,
       "reviewable": 78,
       "high_confidence": 1,
       "likely_credential_identity": 111,
-      "learning_content_signals": 180,
+      "learning_content_signals": 201,
       "uncertain_credential_identity": 1
     },
     {
       "organization": "CNCF",
       "host": "www.cncf.io",
-      "candidate_records": 292,
+      "candidate_records": 313,
       "reviewable": 78,
       "high_confidence": 1,
       "likely_credential_identity": 111,
-      "learning_content_signals": 180,
+      "learning_content_signals": 201,
       "uncertain_credential_identity": 1
     },
     {
@@ -143,14 +143,14 @@
       "uncertain_credential_identity": 58
     },
     {
-      "organization": "EIT Health",
-      "host": "eithealth.eu",
-      "candidate_records": 76,
-      "reviewable": 67,
-      "high_confidence": 22,
-      "likely_credential_identity": 26,
-      "learning_content_signals": 18,
-      "uncertain_credential_identity": 32
+      "organization": "Coursera",
+      "host": "www.coursera.org",
+      "candidate_records": 94,
+      "reviewable": 68,
+      "high_confidence": 19,
+      "likely_credential_identity": 55,
+      "learning_content_signals": 35,
+      "uncertain_credential_identity": 4
     },
     {
       "organization": "Scrum Alliance",
@@ -163,14 +163,14 @@
       "uncertain_credential_identity": 33
     },
     {
-      "organization": "Coursera",
-      "host": "www.coursera.org",
-      "candidate_records": 90,
-      "reviewable": 56,
-      "high_confidence": 19,
-      "likely_credential_identity": 43,
-      "learning_content_signals": 43,
-      "uncertain_credential_identity": 4
+      "organization": "EIT Health",
+      "host": "eithealth.eu",
+      "candidate_records": 75,
+      "reviewable": 66,
+      "high_confidence": 22,
+      "likely_credential_identity": 25,
+      "learning_content_signals": 18,
+      "uncertain_credential_identity": 32
     },
     {
       "organization": "RЭД СОФТ",
@@ -245,11 +245,11 @@
     {
       "organization": "ITU Academy",
       "host": "academy.itu.int",
-      "candidate_records": 141,
+      "candidate_records": 142,
       "reviewable": 50,
       "high_confidence": 0,
       "likely_credential_identity": 1,
-      "learning_content_signals": 90,
+      "learning_content_signals": 91,
       "uncertain_credential_identity": 50
     },
     {
@@ -285,11 +285,11 @@
     {
       "organization": "NVIDIA",
       "host": "www.nvidia.com",
-      "candidate_records": 260,
+      "candidate_records": 253,
       "reviewable": 42,
       "high_confidence": 0,
       "likely_credential_identity": 59,
-      "learning_content_signals": 194,
+      "learning_content_signals": 187,
       "uncertain_credential_identity": 7
     },
     {
@@ -315,32 +315,32 @@
     {
       "organization": "Class Central",
       "host": "www.classcentral.com",
-      "candidate_records": 112,
+      "candidate_records": 115,
       "reviewable": 34,
-      "high_confidence": 13,
-      "likely_credential_identity": 5,
-      "learning_content_signals": 79,
-      "uncertain_credential_identity": 28
+      "high_confidence": 14,
+      "likely_credential_identity": 3,
+      "learning_content_signals": 83,
+      "uncertain_credential_identity": 29
     },
     {
       "organization": "PagerDuty",
       "host": "www.pagerduty.com",
-      "candidate_records": 48,
+      "candidate_records": 47,
       "reviewable": 32,
       "high_confidence": 14,
       "likely_credential_identity": 8,
-      "learning_content_signals": 20,
+      "learning_content_signals": 19,
       "uncertain_credential_identity": 20
     },
     {
       "organization": "OpenAI Academy",
       "host": "academy.openai.com",
-      "candidate_records": 44,
+      "candidate_records": 42,
       "reviewable": 32,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 11,
-      "uncertain_credential_identity": 33
+      "learning_content_signals": 8,
+      "uncertain_credential_identity": 34
     },
     {
       "organization": "Snowflake",
@@ -405,22 +405,22 @@
     {
       "organization": "JFrog",
       "host": "academy.jfrog.com",
-      "candidate_records": 62,
-      "reviewable": 25,
+      "candidate_records": 65,
+      "reviewable": 26,
       "high_confidence": 0,
       "likely_credential_identity": 3,
-      "learning_content_signals": 36,
-      "uncertain_credential_identity": 23
+      "learning_content_signals": 38,
+      "uncertain_credential_identity": 24
     },
     {
       "organization": "JFrog Academy",
       "host": "academy.jfrog.com",
-      "candidate_records": 62,
-      "reviewable": 25,
+      "candidate_records": 65,
+      "reviewable": 26,
       "high_confidence": 0,
       "likely_credential_identity": 3,
-      "learning_content_signals": 36,
-      "uncertain_credential_identity": 23
+      "learning_content_signals": 38,
+      "uncertain_credential_identity": 24
     },
     {
       "organization": "Kubernetes",
@@ -485,11 +485,11 @@
     {
       "organization": "MIT OpenCourseWare",
       "host": "ocw.mit.edu",
-      "candidate_records": 115,
+      "candidate_records": 125,
       "reviewable": 19,
       "high_confidence": 1,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 96,
+      "likely_credential_identity": 9,
+      "learning_content_signals": 97,
       "uncertain_credential_identity": 19
     },
     {
@@ -529,17 +529,17 @@
       "reviewable": 13,
       "high_confidence": 1,
       "likely_credential_identity": 0,
-      "learning_content_signals": 36,
-      "uncertain_credential_identity": 4
+      "learning_content_signals": 35,
+      "uncertain_credential_identity": 5
     },
     {
       "organization": "UN CC:Learn",
       "host": "unccelearn.org",
-      "candidate_records": 283,
+      "candidate_records": 277,
       "reviewable": 13,
       "high_confidence": 0,
       "likely_credential_identity": 12,
-      "learning_content_signals": 270,
+      "learning_content_signals": 264,
       "uncertain_credential_identity": 1
     },
     {
@@ -563,16 +563,6 @@
       "uncertain_credential_identity": 4
     },
     {
-      "organization": "Esri",
-      "host": "www.esri.com",
-      "candidate_records": 89,
-      "reviewable": 11,
-      "high_confidence": 0,
-      "likely_credential_identity": 15,
-      "learning_content_signals": 73,
-      "uncertain_credential_identity": 1
-    },
-    {
       "organization": "ISC2 Learning",
       "host": "www.isc2.org",
       "candidate_records": 89,
@@ -580,6 +570,16 @@
       "high_confidence": 0,
       "likely_credential_identity": 14,
       "learning_content_signals": 74,
+      "uncertain_credential_identity": 1
+    },
+    {
+      "organization": "Esri",
+      "host": "www.esri.com",
+      "candidate_records": 88,
+      "reviewable": 11,
+      "high_confidence": 0,
+      "likely_credential_identity": 15,
+      "learning_content_signals": 72,
       "uncertain_credential_identity": 1
     },
     {
@@ -591,16 +591,6 @@
       "likely_credential_identity": 7,
       "learning_content_signals": 3,
       "uncertain_credential_identity": 3
-    },
-    {
-      "organization": "EIT Manufacturing",
-      "host": "www.eit.europa.eu",
-      "candidate_records": 11,
-      "reviewable": 10,
-      "high_confidence": 3,
-      "likely_credential_identity": 2,
-      "learning_content_signals": 2,
-      "uncertain_credential_identity": 7
     },
     {
       "organization": "Databricks",
@@ -621,6 +611,16 @@
       "likely_credential_identity": 0,
       "learning_content_signals": 2,
       "uncertain_credential_identity": 9
+    },
+    {
+      "organization": "EIT Manufacturing",
+      "host": "www.eit.europa.eu",
+      "candidate_records": 9,
+      "reviewable": 9,
+      "high_confidence": 3,
+      "likely_credential_identity": 2,
+      "learning_content_signals": 0,
+      "uncertain_credential_identity": 7
     },
     {
       "organization": "Neo4j",
@@ -663,24 +663,14 @@
       "uncertain_credential_identity": 0
     },
     {
-      "organization": "OpenEDX",
-      "host": "openedx.org",
-      "candidate_records": 6,
-      "reviewable": 6,
-      "high_confidence": 2,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 0,
-      "uncertain_credential_identity": 6
-    },
-    {
       "organization": "Siemens",
       "host": "www.siemens.com",
       "candidate_records": 6,
       "reviewable": 6,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 1,
-      "uncertain_credential_identity": 5
+      "learning_content_signals": 0,
+      "uncertain_credential_identity": 6
     },
     {
       "organization": "Ansible",
@@ -815,11 +805,11 @@
     {
       "organization": "Cadence",
       "host": "www.cadence.com",
-      "candidate_records": 646,
+      "candidate_records": 686,
       "reviewable": 2,
       "high_confidence": 0,
-      "likely_credential_identity": 16,
-      "learning_content_signals": 630,
+      "likely_credential_identity": 15,
+      "learning_content_signals": 671,
       "uncertain_credential_identity": 0
     },
     {
@@ -883,6 +873,16 @@
       "uncertain_credential_identity": 0
     },
     {
+      "organization": "NASA",
+      "host": "www.nasa.gov",
+      "candidate_records": 3,
+      "reviewable": 2,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 2,
+      "uncertain_credential_identity": 1
+    },
+    {
       "organization": "Qlik",
       "host": "learning.qlik.com",
       "candidate_records": 3,
@@ -933,6 +933,16 @@
       "uncertain_credential_identity": 0
     },
     {
+      "organization": "DigitalOcean",
+      "host": "www.digitalocean.com",
+      "candidate_records": 2,
+      "reviewable": 1,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 2,
+      "uncertain_credential_identity": 0
+    },
+    {
       "organization": "Anthropic",
       "host": "www.anthropic.com",
       "candidate_records": 1,
@@ -973,16 +983,6 @@
       "uncertain_credential_identity": 0
     },
     {
-      "organization": "NASA",
-      "host": "www.nasa.gov",
-      "candidate_records": 1,
-      "reviewable": 1,
-      "high_confidence": 0,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 0,
-      "uncertain_credential_identity": 1
-    },
-    {
       "organization": "Texas Instruments",
       "host": "www.ti.com",
       "candidate_records": 1,
@@ -995,11 +995,11 @@
     {
       "organization": "Открытое образование",
       "host": "openedu.ru",
-      "candidate_records": 250,
+      "candidate_records": 235,
       "reviewable": 0,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 250,
+      "learning_content_signals": 235,
       "uncertain_credential_identity": 0
     },
     {
@@ -2753,25 +2753,6 @@
       "method": "heading",
       "url": "https://aws.amazon.com/certification/",
       "source": "https://aws.amazon.com/certification/",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "likely credential identity",
-      "organization": "Class Central",
-      "name": "Banning Telegram Can’t Stop Paper Leaks: Inside India’s NEET Exam Scandal",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/",
-      "source": "https://www.classcentral.com/",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
@@ -8457,6 +8438,26 @@
       "tier": "high-confidence review candidate",
       "triage": "learning-content signal",
       "organization": "Class Central",
+      "name": "Certified Trainer Course",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://www.classcentral.com/subject/education",
+      "source": "https://www.classcentral.com/subject/education",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title",
+        "learning-content language in title"
+      ]
+    },
+    {
+      "score": 8,
+      "tier": "high-confidence review candidate",
+      "triage": "learning-content signal",
+      "organization": "Class Central",
       "name": "Education & Teaching Courses and Certifications",
       "evidence": "official-page-extraction",
       "method": "heading",
@@ -8717,7 +8718,7 @@
       "tier": "high-confidence review candidate",
       "triage": "learning-content signal",
       "organization": "edX",
-      "name": "CPSCAI - Certified Professional in Supply Chain AI International Supply Chain Education Alliance Professional Certificate 3 Courses",
+      "name": "CPSCAI - Certified Professional in Supply Chain AI International Supply Chain Education Alliance Professional Certificate 3 courses",
       "evidence": "official-page-extraction",
       "method": "anchor",
       "url": "https://www.edx.org/certificates/professional-certificate/iscea-cpscai-certified-professional-in-supply-chain-ai",
@@ -8736,7 +8737,7 @@
       "tier": "high-confidence review candidate",
       "triage": "learning-content signal",
       "organization": "edX",
-      "name": "Professional Cloud Architect Renewal Exam Google Cloud Professional Certificate 4 Courses",
+      "name": "Professional Cloud Architect Renewal Exam Google Cloud Professional Certificate 4 courses",
       "evidence": "official-page-extraction",
       "method": "anchor",
       "url": "https://www.edx.org/certificates/professional-certificate/googlecloud-professional-cloud-architect-renewal-exam",
