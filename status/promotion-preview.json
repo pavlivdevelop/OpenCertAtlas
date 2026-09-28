@@ -1,17 +1,27 @@
 {
   "schema_version": "1.3",
-  "catalog_sha256": "04f10f75ce71682e8a0bccc4e8c6f50d94a55eea454c732febaaa42074aa1f5e",
-  "candidate_records": 10737,
-  "reviewable": 3205,
-  "high_confidence": 588,
-  "likely_credential_identity": 1465,
-  "learning_content_signals": 7562,
-  "provider_count": 110,
+  "catalog_sha256": "d76d49671353fe9cb0a8593022da1bf1936512c1193fd1a937cf54d15518999a",
+  "candidate_records": 10725,
+  "reviewable": 3186,
+  "high_confidence": 608,
+  "likely_credential_identity": 1485,
+  "learning_content_signals": 7570,
+  "provider_count": 109,
   "providers_shown": 100,
   "rows_shown": 500,
   "advisory_only": true,
   "auto_promotion": false,
   "providers": [
+    {
+      "organization": "Vercel",
+      "host": "vercel.com",
+      "candidate_records": 358,
+      "reviewable": 270,
+      "high_confidence": 25,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 113,
+      "uncertain_credential_identity": 245
+    },
     {
       "organization": "EU Academy",
       "host": "academy.europa.eu",
@@ -23,23 +33,13 @@
       "uncertain_credential_identity": 261
     },
     {
-      "organization": "Vercel",
-      "host": "vercel.com",
-      "candidate_records": 343,
-      "reviewable": 259,
-      "high_confidence": 23,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 109,
-      "uncertain_credential_identity": 234
-    },
-    {
       "organization": "Cloud Security Alliance",
       "host": "cloudsecurityalliance.org",
-      "candidate_records": 235,
-      "reviewable": 171,
-      "high_confidence": 55,
+      "candidate_records": 234,
+      "reviewable": 170,
+      "high_confidence": 54,
       "likely_credential_identity": 47,
-      "learning_content_signals": 94,
+      "learning_content_signals": 93,
       "uncertain_credential_identity": 94
     },
     {
@@ -65,42 +65,42 @@
     {
       "organization": "AWS",
       "host": "aws.amazon.com",
-      "candidate_records": 338,
-      "reviewable": 111,
+      "candidate_records": 344,
+      "reviewable": 112,
       "high_confidence": 46,
-      "likely_credential_identity": 68,
-      "learning_content_signals": 236,
+      "likely_credential_identity": 69,
+      "learning_content_signals": 241,
       "uncertain_credential_identity": 34
-    },
-    {
-      "organization": "Oracle",
-      "host": "www.oracle.com",
-      "candidate_records": 121,
-      "reviewable": 90,
-      "high_confidence": 19,
-      "likely_credential_identity": 33,
-      "learning_content_signals": 32,
-      "uncertain_credential_identity": 56
     },
     {
       "organization": "Atlassian",
       "host": "community.atlassian.com",
-      "candidate_records": 175,
-      "reviewable": 89,
-      "high_confidence": 61,
-      "likely_credential_identity": 73,
-      "learning_content_signals": 99,
+      "candidate_records": 193,
+      "reviewable": 99,
+      "high_confidence": 70,
+      "likely_credential_identity": 83,
+      "learning_content_signals": 107,
       "uncertain_credential_identity": 3
     },
     {
       "organization": "Jira Service Management",
       "host": "community.atlassian.com",
-      "candidate_records": 175,
-      "reviewable": 89,
-      "high_confidence": 61,
-      "likely_credential_identity": 73,
-      "learning_content_signals": 99,
+      "candidate_records": 193,
+      "reviewable": 99,
+      "high_confidence": 70,
+      "likely_credential_identity": 83,
+      "learning_content_signals": 107,
       "uncertain_credential_identity": 3
+    },
+    {
+      "organization": "Oracle",
+      "host": "www.oracle.com",
+      "candidate_records": 123,
+      "reviewable": 91,
+      "high_confidence": 19,
+      "likely_credential_identity": 33,
+      "learning_content_signals": 33,
+      "uncertain_credential_identity": 57
     },
     {
       "organization": "Cloud Native Computing Foundation",
@@ -125,32 +125,22 @@
     {
       "organization": "edX",
       "host": "www.edx.org",
-      "candidate_records": 111,
-      "reviewable": 71,
-      "high_confidence": 4,
-      "likely_credential_identity": 13,
+      "candidate_records": 115,
+      "reviewable": 75,
+      "high_confidence": 5,
+      "likely_credential_identity": 16,
       "learning_content_signals": 89,
-      "uncertain_credential_identity": 9
-    },
-    {
-      "organization": "Coursera",
-      "host": "www.coursera.org",
-      "candidate_records": 100,
-      "reviewable": 70,
-      "high_confidence": 19,
-      "likely_credential_identity": 57,
-      "learning_content_signals": 39,
-      "uncertain_credential_identity": 4
+      "uncertain_credential_identity": 10
     },
     {
       "organization": "PECB",
       "host": "pecb.com",
-      "candidate_records": 82,
-      "reviewable": 70,
+      "candidate_records": 84,
+      "reviewable": 72,
       "high_confidence": 3,
       "likely_credential_identity": 12,
       "learning_content_signals": 12,
-      "uncertain_credential_identity": 58
+      "uncertain_credential_identity": 60
     },
     {
       "organization": "Scrum Alliance",
@@ -163,14 +153,24 @@
       "uncertain_credential_identity": 33
     },
     {
+      "organization": "Coursera",
+      "host": "www.coursera.org",
+      "candidate_records": 98,
+      "reviewable": 66,
+      "high_confidence": 19,
+      "likely_credential_identity": 53,
+      "learning_content_signals": 41,
+      "uncertain_credential_identity": 4
+    },
+    {
       "organization": "EIT Health",
       "host": "eithealth.eu",
-      "candidate_records": 70,
-      "reviewable": 61,
+      "candidate_records": 64,
+      "reviewable": 57,
       "high_confidence": 19,
       "likely_credential_identity": 20,
-      "learning_content_signals": 18,
-      "uncertain_credential_identity": 32
+      "learning_content_signals": 15,
+      "uncertain_credential_identity": 29
     },
     {
       "organization": "RЭД СОФТ",
@@ -181,16 +181,6 @@
       "likely_credential_identity": 0,
       "learning_content_signals": 66,
       "uncertain_credential_identity": 56
-    },
-    {
-      "organization": "Т-Банк Education",
-      "host": "education.tbank.ru",
-      "candidate_records": 55,
-      "reviewable": 55,
-      "high_confidence": 0,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 0,
-      "uncertain_credential_identity": 55
     },
     {
       "organization": "Splunk",
@@ -245,11 +235,11 @@
     {
       "organization": "ITU Academy",
       "host": "academy.itu.int",
-      "candidate_records": 136,
+      "candidate_records": 133,
       "reviewable": 50,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 86,
+      "learning_content_signals": 83,
       "uncertain_credential_identity": 50
     },
     {
@@ -325,11 +315,11 @@
     {
       "organization": "Snowflake",
       "host": "learn.snowflake.com",
-      "candidate_records": 206,
+      "candidate_records": 209,
       "reviewable": 31,
       "high_confidence": 15,
       "likely_credential_identity": 20,
-      "learning_content_signals": 185,
+      "learning_content_signals": 188,
       "uncertain_credential_identity": 1
     },
     {
@@ -353,6 +343,16 @@
       "uncertain_credential_identity": 9
     },
     {
+      "organization": "Class Central",
+      "host": "www.classcentral.com",
+      "candidate_records": 118,
+      "reviewable": 30,
+      "high_confidence": 13,
+      "likely_credential_identity": 2,
+      "learning_content_signals": 92,
+      "uncertain_credential_identity": 24
+    },
+    {
       "organization": "USGS",
       "host": "www.usgs.gov",
       "candidate_records": 30,
@@ -361,16 +361,6 @@
       "likely_credential_identity": 0,
       "learning_content_signals": 0,
       "uncertain_credential_identity": 30
-    },
-    {
-      "organization": "Class Central",
-      "host": "www.classcentral.com",
-      "candidate_records": 113,
-      "reviewable": 29,
-      "high_confidence": 13,
-      "likely_credential_identity": 3,
-      "learning_content_signals": 86,
-      "uncertain_credential_identity": 24
     },
     {
       "organization": "NI",
@@ -383,6 +373,16 @@
       "uncertain_credential_identity": 18
     },
     {
+      "organization": "OpenAI Academy",
+      "host": "academy.openai.com",
+      "candidate_records": 41,
+      "reviewable": 28,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 11,
+      "uncertain_credential_identity": 30
+    },
+    {
       "organization": "ISC2",
       "host": "www.isc2.org",
       "candidate_records": 27,
@@ -393,33 +393,23 @@
       "uncertain_credential_identity": 1
     },
     {
-      "organization": "OpenAI Academy",
-      "host": "academy.openai.com",
-      "candidate_records": 38,
-      "reviewable": 27,
-      "high_confidence": 0,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 10,
-      "uncertain_credential_identity": 28
-    },
-    {
       "organization": "JFrog",
       "host": "academy.jfrog.com",
-      "candidate_records": 65,
+      "candidate_records": 64,
       "reviewable": 26,
       "high_confidence": 0,
       "likely_credential_identity": 3,
-      "learning_content_signals": 38,
+      "learning_content_signals": 37,
       "uncertain_credential_identity": 24
     },
     {
       "organization": "JFrog Academy",
       "host": "academy.jfrog.com",
-      "candidate_records": 65,
+      "candidate_records": 64,
       "reviewable": 26,
       "high_confidence": 0,
       "likely_credential_identity": 3,
-      "learning_content_signals": 38,
+      "learning_content_signals": 37,
       "uncertain_credential_identity": 24
     },
     {
@@ -453,6 +443,16 @@
       "uncertain_credential_identity": 0
     },
     {
+      "organization": "MIT OpenCourseWare",
+      "host": "ocw.mit.edu",
+      "candidate_records": 127,
+      "reviewable": 22,
+      "high_confidence": 1,
+      "likely_credential_identity": 9,
+      "learning_content_signals": 98,
+      "uncertain_credential_identity": 20
+    },
+    {
       "organization": "Raspberry Pi Foundation",
       "host": "training-hub.raspberrypi.org",
       "candidate_records": 104,
@@ -463,23 +463,13 @@
       "uncertain_credential_identity": 0
     },
     {
-      "organization": "MIT OpenCourseWare",
-      "host": "ocw.mit.edu",
-      "candidate_records": 126,
-      "reviewable": 20,
-      "high_confidence": 1,
-      "likely_credential_identity": 9,
-      "learning_content_signals": 98,
-      "uncertain_credential_identity": 19
-    },
-    {
       "organization": "FAO eLearning Academy",
       "host": "elearning.fao.org",
-      "candidate_records": 101,
+      "candidate_records": 85,
       "reviewable": 19,
       "high_confidence": 4,
-      "likely_credential_identity": 10,
-      "learning_content_signals": 89,
+      "likely_credential_identity": 9,
+      "learning_content_signals": 74,
       "uncertain_credential_identity": 2
     },
     {
@@ -535,11 +525,11 @@
     {
       "organization": "WHO Academy",
       "host": "www.who.int",
-      "candidate_records": 20,
+      "candidate_records": 21,
       "reviewable": 13,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 11,
+      "learning_content_signals": 12,
       "uncertain_credential_identity": 9
     },
     {
@@ -595,11 +585,11 @@
     {
       "organization": "Neo4j",
       "host": "graphacademy.neo4j.com",
-      "candidate_records": 31,
+      "candidate_records": 29,
       "reviewable": 9,
       "high_confidence": 4,
       "likely_credential_identity": 9,
-      "learning_content_signals": 22,
+      "learning_content_signals": 20,
       "uncertain_credential_identity": 0
     },
     {
@@ -745,11 +735,11 @@
     {
       "organization": "Elastic",
       "host": "www.elastic.co",
-      "candidate_records": 93,
+      "candidate_records": 98,
       "reviewable": 4,
       "high_confidence": 0,
       "likely_credential_identity": 9,
-      "learning_content_signals": 84,
+      "learning_content_signals": 89,
       "uncertain_credential_identity": 0
     },
     {
@@ -770,6 +760,16 @@
       "high_confidence": 1,
       "likely_credential_identity": 3,
       "learning_content_signals": 10,
+      "uncertain_credential_identity": 0
+    },
+    {
+      "organization": "PyTorch",
+      "host": "pytorch.org",
+      "candidate_records": 3,
+      "reviewable": 3,
+      "high_confidence": 0,
+      "likely_credential_identity": 1,
+      "learning_content_signals": 2,
       "uncertain_credential_identity": 0
     },
     {
@@ -815,31 +815,31 @@
     {
       "organization": "Cadence",
       "host": "www.cadence.com",
-      "candidate_records": 690,
+      "candidate_records": 692,
       "reviewable": 2,
       "high_confidence": 0,
-      "likely_credential_identity": 15,
+      "likely_credential_identity": 17,
       "learning_content_signals": 675,
       "uncertain_credential_identity": 0
     },
     {
       "organization": "Linux Foundation",
       "host": "training.linuxfoundation.org",
-      "candidate_records": 301,
+      "candidate_records": 302,
       "reviewable": 2,
       "high_confidence": 0,
       "likely_credential_identity": 13,
-      "learning_content_signals": 288,
+      "learning_content_signals": 289,
       "uncertain_credential_identity": 0
     },
     {
       "organization": "Linux Foundation Training",
       "host": "training.linuxfoundation.org",
-      "candidate_records": 301,
+      "candidate_records": 302,
       "reviewable": 2,
       "high_confidence": 0,
       "likely_credential_identity": 13,
-      "learning_content_signals": 288,
+      "learning_content_signals": 289,
       "uncertain_credential_identity": 0
     },
     {
@@ -855,11 +855,11 @@
     {
       "organization": "Silicon Labs",
       "host": "www.silabs.com",
-      "candidate_records": 59,
+      "candidate_records": 62,
       "reviewable": 2,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 57,
+      "learning_content_signals": 60,
       "uncertain_credential_identity": 2
     },
     {
@@ -873,14 +873,14 @@
       "uncertain_credential_identity": 1
     },
     {
-      "organization": "NASA",
-      "host": "www.nasa.gov",
-      "candidate_records": 3,
+      "organization": "FAO eLearning Academy",
+      "host": "openknowledge.fao.org",
+      "candidate_records": 4,
       "reviewable": 2,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 2,
-      "uncertain_credential_identity": 1
+      "learning_content_signals": 4,
+      "uncertain_credential_identity": 0
     },
     {
       "organization": "Qlik",
@@ -889,16 +889,6 @@
       "reviewable": 2,
       "high_confidence": 0,
       "likely_credential_identity": 2,
-      "learning_content_signals": 1,
-      "uncertain_credential_identity": 0
-    },
-    {
-      "organization": "PyTorch",
-      "host": "pytorch.org",
-      "candidate_records": 2,
-      "reviewable": 2,
-      "high_confidence": 0,
-      "likely_credential_identity": 1,
       "learning_content_signals": 1,
       "uncertain_credential_identity": 0
     },
@@ -973,6 +963,16 @@
       "uncertain_credential_identity": 0
     },
     {
+      "organization": "NASA",
+      "host": "www.nasa.gov",
+      "candidate_records": 1,
+      "reviewable": 1,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 0,
+      "uncertain_credential_identity": 1
+    },
+    {
       "organization": "Texas Instruments",
       "host": "www.ti.com",
       "candidate_records": 1,
@@ -985,11 +985,11 @@
     {
       "organization": "Открытое образование",
       "host": "openedu.ru",
-      "candidate_records": 242,
+      "candidate_records": 226,
       "reviewable": 0,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 242,
+      "learning_content_signals": 226,
       "uncertain_credential_identity": 0
     },
     {
@@ -1362,7 +1362,64 @@
       "tier": "high-confidence review candidate",
       "triage": "likely credential identity",
       "organization": "Atlassian",
+      "name": "Atlassian Certificate Holder",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Atlassian",
       "name": "Atlassian Certified Associate",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
+      "source": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Atlassian",
+      "name": "Atlassian Certified Associate",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Atlassian",
+      "name": "Atlassian Certified Professional",
       "evidence": "official-page-extraction",
       "method": "heading",
       "url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
@@ -1384,8 +1441,103 @@
       "name": "Atlassian Certified Professional",
       "evidence": "official-page-extraction",
       "method": "heading",
-      "url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "source": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Atlassian",
+      "name": "Atlassian credential portal",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Atlassian",
+      "name": "Credential FAQs",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Atlassian",
+      "name": "Credential policies",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Atlassian",
+      "name": "Credential prep resources",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Atlassian",
+      "name": "Earn a certificate",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
@@ -1671,6 +1823,25 @@
       "method": "heading",
       "url": "https://community.atlassian.com/learning/catalog",
       "source": "https://community.atlassian.com/learning/catalog",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Atlassian",
+      "name": "Earning a credential helps you:",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
@@ -4418,7 +4589,64 @@
       "tier": "high-confidence review candidate",
       "triage": "likely credential identity",
       "organization": "Jira Service Management",
+      "name": "Atlassian Certificate Holder",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Jira Service Management",
       "name": "Atlassian Certified Associate",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
+      "source": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Jira Service Management",
+      "name": "Atlassian Certified Associate",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Jira Service Management",
+      "name": "Atlassian Certified Professional",
       "evidence": "official-page-extraction",
       "method": "heading",
       "url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
@@ -4440,8 +4668,103 @@
       "name": "Atlassian Certified Professional",
       "evidence": "official-page-extraction",
       "method": "heading",
-      "url": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
-      "source": "https://community.atlassian.com/learning/hub/prepare-for-a-certification",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Jira Service Management",
+      "name": "Atlassian credential portal",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Jira Service Management",
+      "name": "Credential FAQs",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Jira Service Management",
+      "name": "Credential policies",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Jira Service Management",
+      "name": "Credential prep resources",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Jira Service Management",
+      "name": "Earn a certificate",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
@@ -4727,6 +5050,25 @@
       "method": "heading",
       "url": "https://community.atlassian.com/learning/catalog",
       "source": "https://community.atlassian.com/learning/catalog",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Jira Service Management",
+      "name": "Earning a credential helps you:",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/certifications",
+      "source": "https://community.atlassian.com/learning/certifications",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
@@ -7723,6 +8065,24 @@
       "tier": "high-confidence review candidate",
       "triage": "uncertain credential identity",
       "organization": "Vercel",
+      "name": "Build and Launch with AI",
+      "evidence": "official-page-extraction",
+      "method": "jsonld",
+      "url": "https://vercel.com/academy/build-and-launch-with-ai",
+      "source": "https://vercel.com/academy/build-and-launch-with-ai",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=jsonld",
+        "official URL present",
+        "source page present",
+        "specific credential name"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "uncertain credential identity",
+      "organization": "Vercel",
       "name": "Build Visual Workflow Plugins on Vercel",
       "evidence": "official-page-extraction",
       "method": "jsonld",
@@ -7836,6 +8196,24 @@
       "method": "jsonld",
       "url": "https://vercel.com/academy/subscription-store",
       "source": "https://vercel.com/academy/subscription-store",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=jsonld",
+        "official URL present",
+        "source page present",
+        "specific credential name"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "uncertain credential identity",
+      "organization": "Vercel",
+      "name": "Make Decisions with Jev",
+      "evidence": "official-page-extraction",
+      "method": "jsonld",
+      "url": "https://vercel.com/academy/make-decisions-with-jev",
+      "source": "https://vercel.com/academy/make-decisions-with-jev",
       "reasons": [
         "evidence=official-page-extraction",
         "method=jsonld",
@@ -8566,26 +8944,6 @@
       "method": "heading",
       "url": "https://cloudsecurityalliance.org/education/",
       "source": "https://cloudsecurityalliance.org/education/",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title",
-        "learning-content language in title"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "learning-content signal",
-      "organization": "Cloud Security Alliance",
-      "name": "Uniting Training Partners and Instructors for CCSK certification. Join us in equipping professionals with vital cloud security skills and knowledge.",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://cloudsecurityalliance.org/education/partner",
-      "source": "https://cloudsecurityalliance.org/education/partner",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
@@ -9638,6 +9996,24 @@
       "tier": "high-confidence review candidate",
       "triage": "likely credential identity",
       "organization": "edX",
+      "name": "Professional Certificate Programs",
+      "evidence": "official-page-extraction",
+      "method": "anchor",
+      "url": "https://www.edx.org/certificates/professional-certificate",
+      "source": "https://www.edx.org/",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 8,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "edX",
       "name": "Professional Certificates",
       "evidence": "official-page-extraction",
       "method": "anchor",
@@ -10093,366 +10469,6 @@
       "method": "heading",
       "url": "https://www.altium.com/education",
       "source": "https://www.altium.com/education",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Altium",
-      "name": "See What Altium Education Programs Can Do for You",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.altium.com/education",
-      "source": "https://www.altium.com/education",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Altium",
-      "name": "Thank you for enrolling in Altium’s Free Student License and Education Curriculum.",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.altium.com/education/students",
-      "source": "https://www.altium.com/education/students",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Ansible",
-      "name": "Continue your education and discover best practices",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "source": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "AWS",
-      "name": "Accelerating cloud innovation for education",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "source": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "AWS",
-      "name": "AWS Education Competency Partners",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "source": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "AWS",
-      "name": "AWS for Education",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "source": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "AWS",
-      "name": "Browse all education solutions",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "source": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "AWS",
-      "name": "Generative AI innovation in education",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "source": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "AWS",
-      "name": "Higher Education",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "source": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "AWS",
-      "name": "Primary and Secondary Education",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "source": "https://aws.amazon.com/education/?nc2=h_sol_ind_edu",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Class Central",
-      "name": "AI for Education (Basic)",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/subject/education",
-      "source": "https://www.classcentral.com/subject/education",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Class Central",
-      "name": "AI for Education (Intermediate)",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/subject/education",
-      "source": "https://www.classcentral.com/subject/education",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Class Central",
-      "name": "AI in Education: Leveraging ChatGPT for Teaching",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/subject/education",
-      "source": "https://www.classcentral.com/subject/education",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Class Central",
-      "name": "Artificial Intelligence (AI) Education for Teachers",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/subject/education",
-      "source": "https://www.classcentral.com/subject/education",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Class Central",
-      "name": "Disability Inclusion in Education: Building Systems of Support",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/subject/education",
-      "source": "https://www.classcentral.com/subject/education",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Class Central",
-      "name": "Education & Teaching topics",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/subject/education",
-      "source": "https://www.classcentral.com/subject/education",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Class Central",
-      "name": "Get the latest news and analysis in online education.",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/",
-      "source": "https://www.classcentral.com/",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Class Central",
-      "name": "Master of Education in Advanced Teaching (M.Ed.) Online Degree",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/subject/education",
-      "source": "https://www.classcentral.com/subject/education",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Class Central",
-      "name": "Severe to Profound Intellectual Disability: Circles of Care and Education",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/subject/education",
-      "source": "https://www.classcentral.com/subject/education",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Class Central",
-      "name": "Theories and Methods of Learning and Teaching in Health Professions Education",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.classcentral.com/subject/education",
-      "source": "https://www.classcentral.com/subject/education",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",

@@ -1,13 +1,13 @@
 # Promotion preview
 
-- candidate records reviewed: 10737
-- deterministic review candidates (score ≥ 6): 3205
-- high-confidence review candidates (score ≥ 8): 588
-- likely credential identities: 1465
-- learning-content signals: 7562
-- issuer/provider groups: 110 (top 100 shown)
+- candidate records reviewed: 10725
+- deterministic review candidates (score ≥ 6): 3186
+- high-confidence review candidates (score ≥ 8): 608
+- likely credential identities: 1485
+- learning-content signals: 7570
+- issuer/provider groups: 109 (top 100 shown)
 - rows shown: 500
-- catalog SHA-256: `04f10f75ce71682e8a0bccc4e8c6f50d94a55eea454c732febaaa42074aa1f5e`
+- catalog SHA-256: `d76d49671353fe9cb0a8593022da1bf1936512c1193fd1a937cf54d15518999a`
 
 This report is advisory only. It never changes catalog records, Evidence Status, or free status.
 Credential-language and learning-content heuristics affect triage only; they are not proof of credential identity.
@@ -19,30 +19,29 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 
 | Provider | Official host | Candidates | Reviewable | High-confidence | Likely credential | Learning signal | Uncertain |
 |---|---|---:|---:|---:|---:|---:|---:|
+| Vercel | vercel.com | 358 | 270 | 25 | 0 | 113 | 245 |
 | EU Academy | academy.europa.eu | 1022 | 268 | 0 | 0 | 761 | 261 |
-| Vercel | vercel.com | 343 | 259 | 23 | 0 | 109 | 234 |
-| Cloud Security Alliance | cloudsecurityalliance.org | 235 | 171 | 55 | 47 | 94 | 94 |
+| Cloud Security Alliance | cloudsecurityalliance.org | 234 | 170 | 54 | 47 | 93 | 94 |
 | Hack The Box | academy.hackthebox.com | 358 | 119 | 21 | 31 | 237 | 90 |
 | PortSwigger | portswigger.net | 124 | 118 | 67 | 103 | 8 | 13 |
-| AWS | aws.amazon.com | 338 | 111 | 46 | 68 | 236 | 34 |
-| Oracle | www.oracle.com | 121 | 90 | 19 | 33 | 32 | 56 |
-| Atlassian | community.atlassian.com | 175 | 89 | 61 | 73 | 99 | 3 |
-| Jira Service Management | community.atlassian.com | 175 | 89 | 61 | 73 | 99 | 3 |
+| AWS | aws.amazon.com | 344 | 112 | 46 | 69 | 241 | 34 |
+| Atlassian | community.atlassian.com | 193 | 99 | 70 | 83 | 107 | 3 |
+| Jira Service Management | community.atlassian.com | 193 | 99 | 70 | 83 | 107 | 3 |
+| Oracle | www.oracle.com | 123 | 91 | 19 | 33 | 33 | 57 |
 | Cloud Native Computing Foundation | www.cncf.io | 312 | 78 | 1 | 111 | 200 | 1 |
 | CNCF | www.cncf.io | 312 | 78 | 1 | 111 | 200 | 1 |
-| edX | www.edx.org | 111 | 71 | 4 | 13 | 89 | 9 |
-| Coursera | www.coursera.org | 100 | 70 | 19 | 57 | 39 | 4 |
-| PECB | pecb.com | 82 | 70 | 3 | 12 | 12 | 58 |
+| edX | www.edx.org | 115 | 75 | 5 | 16 | 89 | 10 |
+| PECB | pecb.com | 84 | 72 | 3 | 12 | 12 | 60 |
 | Scrum Alliance | www.scrumalliance.org | 90 | 67 | 0 | 21 | 36 | 33 |
-| EIT Health | eithealth.eu | 70 | 61 | 19 | 20 | 18 | 32 |
+| Coursera | www.coursera.org | 98 | 66 | 19 | 53 | 41 | 4 |
+| EIT Health | eithealth.eu | 64 | 57 | 19 | 20 | 15 | 29 |
 | RЭД СОФТ | education.red-soft.ru | 122 | 56 | 0 | 0 | 66 | 56 |
-| Т-Банк Education | education.tbank.ru | 55 | 55 | 0 | 0 | 0 | 55 |
 | Splunk | www.splunk.com | 281 | 54 | 0 | 68 | 198 | 15 |
 | PTC | www.ptc.com | 51 | 51 | 9 | 3 | 0 | 48 |
 | Fortinet | www.fortinet.com | 329 | 51 | 2 | 23 | 279 | 27 |
 | Tektronix | www.tek.com | 53 | 50 | 8 | 0 | 1 | 52 |
 | Palo Alto Networks | www.paloaltonetworks.com | 59 | 50 | 5 | 7 | 17 | 35 |
-| ITU Academy | academy.itu.int | 136 | 50 | 0 | 0 | 86 | 50 |
+| ITU Academy | academy.itu.int | 133 | 50 | 0 | 0 | 83 | 50 |
 | ISACA | www.isaca.org | 84 | 44 | 3 | 31 | 49 | 4 |
 | EC-Council | www.eccouncil.org | 47 | 43 | 7 | 32 | 5 | 10 |
 | Altium | www.altium.com | 88 | 43 | 4 | 2 | 47 | 39 |
@@ -50,34 +49,34 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | ETSI | www.etsi.org | 56 | 40 | 0 | 2 | 16 | 38 |
 | Dassault Systèmes | www.3ds.com | 41 | 38 | 14 | 2 | 3 | 36 |
 | PagerDuty | www.pagerduty.com | 47 | 32 | 14 | 8 | 19 | 20 |
-| Snowflake | learn.snowflake.com | 206 | 31 | 15 | 20 | 185 | 1 |
+| Snowflake | learn.snowflake.com | 209 | 31 | 15 | 20 | 188 | 1 |
 | Python Institute | pythoninstitute.org | 32 | 31 | 13 | 31 | 1 | 0 |
 | Red Hat | www.redhat.com | 256 | 31 | 0 | 43 | 204 | 9 |
+| Class Central | www.classcentral.com | 118 | 30 | 13 | 2 | 92 | 24 |
 | USGS | www.usgs.gov | 30 | 30 | 4 | 0 | 0 | 30 |
-| Class Central | www.classcentral.com | 113 | 29 | 13 | 3 | 86 | 24 |
 | NI | www.ni.com | 43 | 28 | 2 | 4 | 21 | 18 |
+| OpenAI Academy | academy.openai.com | 41 | 28 | 0 | 0 | 11 | 30 |
 | ISC2 | www.isc2.org | 27 | 27 | 16 | 26 | 0 | 1 |
-| OpenAI Academy | academy.openai.com | 38 | 27 | 0 | 0 | 10 | 28 |
-| JFrog | academy.jfrog.com | 65 | 26 | 0 | 3 | 38 | 24 |
-| JFrog Academy | academy.jfrog.com | 65 | 26 | 0 | 3 | 38 | 24 |
+| JFrog | academy.jfrog.com | 64 | 26 | 0 | 3 | 37 | 24 |
+| JFrog Academy | academy.jfrog.com | 64 | 26 | 0 | 3 | 37 | 24 |
 | Kubernetes | kubernetes.io | 58 | 25 | 0 | 25 | 33 | 0 |
 | JetBrains Academy | www.jetbrains.com | 31 | 24 | 4 | 0 | 14 | 17 |
 | Cloudflare | www.cloudflare.com | 22 | 22 | 7 | 22 | 0 | 0 |
+| MIT OpenCourseWare | ocw.mit.edu | 127 | 22 | 1 | 9 | 98 | 20 |
 | Raspberry Pi Foundation | training-hub.raspberrypi.org | 104 | 22 | 0 | 23 | 81 | 0 |
-| MIT OpenCourseWare | ocw.mit.edu | 126 | 20 | 1 | 9 | 98 | 19 |
-| FAO eLearning Academy | elearning.fao.org | 101 | 19 | 4 | 10 | 89 | 2 |
+| FAO eLearning Academy | elearning.fao.org | 85 | 19 | 4 | 9 | 74 | 2 |
 | Hugging Face | huggingface.co | 278 | 17 | 0 | 13 | 263 | 2 |
 | Linux Professional Institute | www.lpi.org | 18 | 16 | 4 | 13 | 2 | 3 |
 | Tableau | www.tableau.com | 50 | 16 | 1 | 13 | 35 | 2 |
 | SANS Institute | www.sans.org | 40 | 13 | 1 | 0 | 35 | 5 |
 | UN CC:Learn | unccelearn.org | 277 | 13 | 0 | 12 | 264 | 1 |
-| WHO Academy | www.who.int | 20 | 13 | 0 | 0 | 11 | 9 |
+| WHO Academy | www.who.int | 21 | 13 | 0 | 0 | 12 | 9 |
 | BSI | www.bsigroup.com | 25 | 12 | 1 | 8 | 13 | 4 |
 | ISC2 Learning | www.isc2.org | 89 | 11 | 0 | 14 | 74 | 1 |
 | Esri | www.esri.com | 88 | 11 | 0 | 15 | 72 | 1 |
 | Juniper Networks | learningportal.juniper.net | 13 | 10 | 6 | 7 | 3 | 3 |
 | Databricks | www.databricks.com | 71 | 10 | 2 | 14 | 57 | 0 |
-| Neo4j | graphacademy.neo4j.com | 31 | 9 | 4 | 9 | 22 | 0 |
+| Neo4j | graphacademy.neo4j.com | 29 | 9 | 4 | 9 | 20 | 0 |
 | Anthropic | academy.claude.com | 10 | 9 | 0 | 0 | 2 | 8 |
 | EIT Climate-KIC | www.climate-kic.org | 11 | 8 | 0 | 0 | 4 | 7 |
 | EIT Manufacturing | www.eit.europa.eu | 7 | 7 | 2 | 0 | 0 | 7 |
@@ -92,22 +91,22 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | TryHackMe | tryhackme.com | 5 | 5 | 0 | 0 | 3 | 2 |
 | KNIME | www.knime.com | 5 | 4 | 1 | 2 | 3 | 0 |
 | TensorFlow | www.tensorflow.org | 4 | 4 | 1 | 1 | 0 | 3 |
-| Elastic | www.elastic.co | 93 | 4 | 0 | 9 | 84 | 0 |
+| Elastic | www.elastic.co | 98 | 4 | 0 | 9 | 89 | 0 |
 | CompTIA | www.comptia.org | 4 | 4 | 0 | 2 | 0 | 2 |
 | Microsoft | learn.microsoft.com | 13 | 3 | 1 | 3 | 10 | 0 |
+| PyTorch | pytorch.org | 3 | 3 | 0 | 1 | 2 | 0 |
 | Нетология | netology.ru | 3 | 3 | 0 | 0 | 0 | 3 |
 | HashiCorp | developer.hashicorp.com | 2 | 2 | 2 | 2 | 0 | 0 |
 | Unity | learn.unity.com | 31 | 2 | 1 | 0 | 30 | 1 |
 | DigitalOcean | www.digitalocean.com | 4 | 2 | 1 | 1 | 3 | 0 |
-| Cadence | www.cadence.com | 690 | 2 | 0 | 15 | 675 | 0 |
-| Linux Foundation | training.linuxfoundation.org | 301 | 2 | 0 | 13 | 288 | 0 |
-| Linux Foundation Training | training.linuxfoundation.org | 301 | 2 | 0 | 13 | 288 | 0 |
+| Cadence | www.cadence.com | 692 | 2 | 0 | 17 | 675 | 0 |
+| Linux Foundation | training.linuxfoundation.org | 302 | 2 | 0 | 13 | 289 | 0 |
+| Linux Foundation Training | training.linuxfoundation.org | 302 | 2 | 0 | 13 | 289 | 0 |
 | Looker / Google | docs.cloud.google.com | 140 | 2 | 0 | 2 | 138 | 0 |
-| Silicon Labs | www.silabs.com | 59 | 2 | 0 | 0 | 57 | 2 |
+| Silicon Labs | www.silabs.com | 62 | 2 | 0 | 0 | 60 | 2 |
 | OpenTelemetry | opentelemetry.io | 9 | 2 | 0 | 2 | 6 | 1 |
-| NASA | www.nasa.gov | 3 | 2 | 0 | 0 | 2 | 1 |
+| FAO eLearning Academy | openknowledge.fao.org | 4 | 2 | 0 | 0 | 4 | 0 |
 | Qlik | learning.qlik.com | 3 | 2 | 0 | 2 | 1 | 0 |
-| PyTorch | pytorch.org | 2 | 2 | 0 | 1 | 1 | 0 |
 | COMSOL | www.comsol.com | 320 | 1 | 0 | 0 | 319 | 1 |
 | Salesforce Trailhead | trailhead.salesforce.com | 31 | 1 | 0 | 31 | 0 | 0 |
 | OpenSSF | openssf.org | 13 | 1 | 0 | 0 | 13 | 0 |
@@ -115,8 +114,9 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | EIT Digital | 28digital.eu | 1 | 1 | 0 | 0 | 1 | 0 |
 | Google Cloud | www.skills.google | 1 | 1 | 0 | 1 | 0 | 0 |
 | Lattice Semiconductor | www.latticesemi.com | 1 | 1 | 0 | 0 | 1 | 0 |
+| NASA | www.nasa.gov | 1 | 1 | 0 | 0 | 0 | 1 |
 | Texas Instruments | www.ti.com | 1 | 1 | 0 | 0 | 1 | 0 |
-| Открытое образование | openedu.ru | 242 | 0 | 0 | 0 | 242 | 0 |
+| Открытое образование | openedu.ru | 226 | 0 | 0 | 0 | 226 | 0 |
 | Группа Астра | astra.ru | 67 | 0 | 0 | 0 | 67 | 0 |
 | 1C | 1c.ru | 66 | 0 | 0 | 0 | 66 | 0 |
 
@@ -142,8 +142,16 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 10 | high-confidence review candidate | likely credential identity | TensorFlow | Find developers who have passed the exam in our Certificate Network | official-page-extraction | heading | https://www.tensorflow.org/certificate | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | learning-content signal | Snowflake | Browse Certification and Recertification Exam Guides | official-page-extraction | heading | https://learn.snowflake.com/en/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 9 | high-confidence review candidate | likely credential identity | Altium | PCB Design Curriculum & Certificate | official-page-extraction | heading | https://www.altium.com/education/students | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Atlassian | Atlassian Certificate Holder | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Atlassian Certified Associate | official-page-extraction | heading | https://community.atlassian.com/learning/hub/prepare-for-a-certification | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Atlassian | Atlassian Certified Associate | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Atlassian Certified Professional | official-page-extraction | heading | https://community.atlassian.com/learning/hub/prepare-for-a-certification | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Atlassian | Atlassian Certified Professional | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Atlassian | Atlassian credential portal | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Atlassian | Credential FAQs | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Atlassian | Credential policies | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Atlassian | Credential prep resources | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Atlassian | Earn a certificate | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Earn a certification | official-page-extraction | heading | https://community.atlassian.com/learning/adoption/confluence-cloud | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Earn the Confluence Administration for Cloud certification | official-page-extraction | heading | https://community.atlassian.com/learning/catalog?product=Confluence | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Earn the Confluence Essentials certification | official-page-extraction | heading | https://community.atlassian.com/learning/catalog?product=Confluence | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
@@ -159,6 +167,7 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Earn the Managing Jira Projects for Cloud certification | official-page-extraction | heading | https://community.atlassian.com/learning/catalog | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Earn the Managing Jira Service Projects for Cloud certification | official-page-extraction | heading | https://community.atlassian.com/learning/catalog?product=Jira+Service+Management | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Earn the Managing Jira Service Projects for Cloud certification | official-page-extraction | heading | https://community.atlassian.com/learning/catalog | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Atlassian | Earning a credential helps you: | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Get certified with Atlassian | official-page-extraction | heading | https://community.atlassian.com/learning | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Prepare for a certification | official-page-extraction | heading | https://community.atlassian.com/learning/hub/prepare-for-a-certification | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Atlassian | Prepare for the Atlassian Cloud Organization Admin certification | official-page-extraction | heading | https://community.atlassian.com/learning/hub/prepare-for-a-certification | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
@@ -303,8 +312,16 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 9 | high-confidence review candidate | likely credential identity | ISC2 | SSCP – Systems Security Certified Practitioner | official-page-extraction | heading | https://www.isc2.org/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | ISC2 | Systems Security Certified Practitioner (SSCP) | official-page-extraction | heading | https://www.isc2.org/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | ISC2 | YOUR EXAM-DAY EDGE | official-page-extraction | heading | https://www.isc2.org/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Atlassian Certificate Holder | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Atlassian Certified Associate | official-page-extraction | heading | https://community.atlassian.com/learning/hub/prepare-for-a-certification | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Atlassian Certified Associate | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Atlassian Certified Professional | official-page-extraction | heading | https://community.atlassian.com/learning/hub/prepare-for-a-certification | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Atlassian Certified Professional | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Atlassian credential portal | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Credential FAQs | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Credential policies | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Credential prep resources | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Earn a certificate | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Earn a certification | official-page-extraction | heading | https://community.atlassian.com/learning/adoption/confluence-cloud | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Earn the Confluence Administration for Cloud certification | official-page-extraction | heading | https://community.atlassian.com/learning/catalog?product=Confluence | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Earn the Confluence Essentials certification | official-page-extraction | heading | https://community.atlassian.com/learning/catalog?product=Confluence | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
@@ -320,6 +337,7 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Earn the Managing Jira Projects for Cloud certification | official-page-extraction | heading | https://community.atlassian.com/learning/catalog | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Earn the Managing Jira Service Projects for Cloud certification | official-page-extraction | heading | https://community.atlassian.com/learning/catalog?product=Jira+Service+Management | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Earn the Managing Jira Service Projects for Cloud certification | official-page-extraction | heading | https://community.atlassian.com/learning/catalog | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Earning a credential helps you: | official-page-extraction | heading | https://community.atlassian.com/learning/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Get certified with Atlassian | official-page-extraction | heading | https://community.atlassian.com/learning | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Prepare for a certification | official-page-extraction | heading | https://community.atlassian.com/learning/hub/prepare-for-a-certification | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Jira Service Management | Prepare for the Atlassian Cloud Organization Admin certification | official-page-extraction | heading | https://community.atlassian.com/learning/hub/prepare-for-a-certification | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
@@ -477,6 +495,7 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 9 | high-confidence review candidate | likely credential identity | Snowflake | SnowProÂ® Core Certification FranÃ§ais | official-page-extraction | heading | https://learn.snowflake.com/en/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Tableau | Do I need a Tableau certification? | official-page-extraction | heading | https://www.tableau.com/learn | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | uncertain credential identity | Vercel | Agent-Friendly APIs | official-page-extraction | jsonld | https://vercel.com/academy/agent-friendly-apis | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
+| 9 | high-confidence review candidate | uncertain credential identity | Vercel | Build and Launch with AI | official-page-extraction | jsonld | https://vercel.com/academy/build-and-launch-with-ai | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
 | 9 | high-confidence review candidate | uncertain credential identity | Vercel | Build Visual Workflow Plugins on Vercel | official-page-extraction | jsonld | https://vercel.com/academy/visual-workflow-builder-on-vercel | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
 | 9 | high-confidence review candidate | uncertain credential identity | Vercel | Build Your Own AI Coding Agent Harness | official-page-extraction | jsonld | https://vercel.com/academy/build-ai-agent-harness | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
 | 9 | high-confidence review candidate | uncertain credential identity | Vercel | Building Agents with eve | official-page-extraction | jsonld | https://vercel.com/academy/building-agents-with-eve | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
@@ -484,6 +503,7 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 9 | high-confidence review candidate | uncertain credential identity | Vercel | Creating an AI Summary App with Next.js | official-page-extraction | jsonld | https://vercel.com/academy/ai-summary-app-with-nextjs | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
 | 9 | high-confidence review candidate | uncertain credential identity | Vercel | Enterprise Apps and Agents | official-page-extraction | jsonld | https://vercel.com/academy/enterprise-apps-agents | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
 | 9 | high-confidence review candidate | uncertain credential identity | Vercel | Launch a Subscription Store with Vercel and Stripe | official-page-extraction | jsonld | https://vercel.com/academy/subscription-store | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
+| 9 | high-confidence review candidate | uncertain credential identity | Vercel | Make Decisions with Jev | official-page-extraction | jsonld | https://vercel.com/academy/make-decisions-with-jev | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
 | 9 | high-confidence review candidate | uncertain credential identity | Vercel | Microfrontends on Vercel | official-page-extraction | jsonld | https://vercel.com/academy/microfrontends-on-vercel | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
 | 9 | high-confidence review candidate | uncertain credential identity | Vercel | Next.js Foundations | official-page-extraction | jsonld | https://vercel.com/academy/nextjs-foundations | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
 | 9 | high-confidence review candidate | uncertain credential identity | Vercel | Nuxt on Vercel | official-page-extraction | jsonld | https://vercel.com/academy/nuxt-on-vercel | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name |
@@ -522,7 +542,6 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 8 | high-confidence review candidate | learning-content signal | Cloud Security Alliance | These supplemental Zero Trust courses offer valuable insights but are not required for or included in the CCZT exam or study materials. | official-page-extraction | heading | https://cloudsecurityalliance.org/education/cczt/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Cloud Security Alliance | Training, certificates, and educational resources based on CSA’s vendor-neutral research. | official-page-extraction | heading | https://cloudsecurityalliance.org/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Cloud Security Alliance | Training, certificates, and educational resources based on CSA’s vendor-neutral research. | official-page-extraction | heading | https://cloudsecurityalliance.org/education/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
-| 8 | high-confidence review candidate | learning-content signal | Cloud Security Alliance | Uniting Training Partners and Instructors for CCSK certification. Join us in equipping professionals with vital cloud security skills and knowledge. | official-page-extraction | heading | https://cloudsecurityalliance.org/education/partner | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Coursera | Is a Coursera certificate worth it? | official-page-extraction | heading | https://www.coursera.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | Databricks | Dive in and explore a world of Databricks resources — at your fingertips. You’ll find training and certification, upcoming events, helpful documentation and more. | official-page-extraction | heading | https://www.databricks.com/learn | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
 | 8 | high-confidence review candidate | learning-content signal | EC-Council | What cybersecurity certification programs should beginners consider? | official-page-extraction | heading | https://www.eccouncil.org/train-certify/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title; learning-content language in title |
@@ -578,6 +597,7 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 8 | high-confidence review candidate | likely credential identity | Coursera | Microsoft Project Management Professional Certificate | official-page-extraction | anchor | https://www.coursera.org/professional-certificates/microsoft-project-management | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
 | 8 | high-confidence review candidate | likely credential identity | Coursera | Microsoft Python Development Professional Certificate | official-page-extraction | anchor | https://www.coursera.org/professional-certificates/microsoft-python-developer | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
 | 8 | high-confidence review candidate | likely credential identity | Coursera | Palo Alto Networks Cybersecurity Professional Certificate | official-page-extraction | anchor | https://www.coursera.org/professional-certificates/palo-alto-networks-cybersecurity-fundamentals | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
+| 8 | high-confidence review candidate | likely credential identity | edX | Professional Certificate Programs | official-page-extraction | anchor | https://www.edx.org/certificates/professional-certificate | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
 | 8 | high-confidence review candidate | likely credential identity | edX | Professional Certificates | official-page-extraction | anchor | https://www.edx.org/certificates/professional-certificate | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
 | 8 | high-confidence review candidate | likely credential identity | FAO eLearning Academy | Certification à l’aide de badges numériques Page | official-page-extraction | anchor | https://elearning.fao.org/mod/page/view.php?id=6539 | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
 | 8 | high-confidence review candidate | likely credential identity | Hack The Box | HTB Certified Active Directory Pentesting Expert 15 Modules Exam Included Related Job Role Path Active Directory Penetration Tester Get certified for $1260 | official-page-extraction | anchor | https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
@@ -604,23 +624,3 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 8 | high-confidence review candidate | likely credential identity | Snowflake | Certification NAS-C02 SnowProÂ® Specialty: Native Apps TheÂ SnowProÂ® Specialty: Native Apps Certification Exam wi... Learn More | official-page-extraction | anchor | https://learn.snowflake.com/en/certifications/snowpro-nativeapps-c02/ | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
 | 8 | high-confidence review candidate | likely credential identity | Snowflake | Certification SPS-C01 SnowProÂ® Specialty: Snowpark TheÂ SnowProÂ® Specialty: Snowpark Certification Exam will ... Learn More | official-page-extraction | anchor | https://learn.snowflake.com/en/certifications/snowpro-snowpark/ | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
 | 8 | high-confidence review candidate | uncertain credential identity | Altium | Altium Education Programs | official-page-extraction | heading | https://www.altium.com/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Altium | See What Altium Education Programs Can Do for You | official-page-extraction | heading | https://www.altium.com/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Altium | Thank you for enrolling in Altium’s Free Student License and Education Curriculum. | official-page-extraction | heading | https://www.altium.com/education/students | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Ansible | Continue your education and discover best practices | official-page-extraction | heading | https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | AWS | Accelerating cloud innovation for education | official-page-extraction | heading | https://aws.amazon.com/education/?nc2=h_sol_ind_edu | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | AWS | AWS Education Competency Partners | official-page-extraction | heading | https://aws.amazon.com/education/?nc2=h_sol_ind_edu | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | AWS | AWS for Education | official-page-extraction | heading | https://aws.amazon.com/education/?nc2=h_sol_ind_edu | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | AWS | Browse all education solutions | official-page-extraction | heading | https://aws.amazon.com/education/?nc2=h_sol_ind_edu | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | AWS | Generative AI innovation in education | official-page-extraction | heading | https://aws.amazon.com/education/?nc2=h_sol_ind_edu | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | AWS | Higher Education | official-page-extraction | heading | https://aws.amazon.com/education/?nc2=h_sol_ind_edu | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | AWS | Primary and Secondary Education | official-page-extraction | heading | https://aws.amazon.com/education/?nc2=h_sol_ind_edu | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Class Central | AI for Education (Basic) | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Class Central | AI for Education (Intermediate) | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Class Central | AI in Education: Leveraging ChatGPT for Teaching | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Class Central | Artificial Intelligence (AI) Education for Teachers | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Class Central | Disability Inclusion in Education: Building Systems of Support | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Class Central | Education & Teaching topics | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Class Central | Get the latest news and analysis in online education. | official-page-extraction | heading | https://www.classcentral.com/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Class Central | Master of Education in Advanced Teaching (M.Ed.) Online Degree | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Class Central | Severe to Profound Intellectual Disability: Circles of Care and Education | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
-| 8 | high-confidence review candidate | uncertain credential identity | Class Central | Theories and Methods of Learning and Teaching in Health Professions Education | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
