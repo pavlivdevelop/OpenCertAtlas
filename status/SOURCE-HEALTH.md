@@ -1,6 +1,6 @@
 # Source health
 
-Generated: 2026-10-04T10:05:44.925343Z
+Generated: 2026-10-05T10:51:49.100586Z
 
 - Provider seed URLs checked: **210**
 - Reachable: **155**
