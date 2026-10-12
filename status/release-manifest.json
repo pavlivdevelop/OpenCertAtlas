@@ -1,8 +1,8 @@
 {
   "manifest_version": "1.2",
   "project": "OpenCertAtlas",
-  "generated_at_utc": "2026-10-05T10:34:20.795401+00:00",
-  "build_trigger_sha": "16e04994e131a5806d4afe64d00a0bddbcaa1692",
+  "generated_at_utc": "2026-10-12T11:00:09.125401+00:00",
+  "build_trigger_sha": "49005833124baeafb4d325af7a8fc6b906cb1643",
   "schema": {
     "catalog": "status/CATALOG-SCHEMA.json",
     "data_contract": "docs/DATA-CONTRACT.md",
@@ -23,26 +23,26 @@
     "status": "candidate-only",
     "does_not_claim_credential_teaches_node": true,
     "does_not_change_verification_or_free_status": true,
-    "csv_rows_including_header": 3135
+    "csv_rows_including_header": 3147
   },
   "catalog": {
-    "records": 10671,
+    "records": 9568,
     "free_signals": 81,
     "verified_free_core": 0,
     "conditional": 0,
-    "candidates": 10590
+    "candidates": 9487
   },
   "queue": {
-    "review_queue_rows_including_header": 10672
+    "review_queue_rows_including_header": 9569
   },
   "artifacts": {
     "data/catalog-expanded.json": {
-      "bytes": 11821886,
-      "sha256": "477c3117c02f2b196f6d699ca592c1637814f51e90b842cc659bb4b13cbde137"
+      "bytes": 10584831,
+      "sha256": "113d5350f2c40bcc0d341ac38eff5c549e13230b37ac311c8db1d18306b22faa"
     },
     "data/catalog-lite.json": {
-      "bytes": 4935670,
-      "sha256": "91436a2b247972fe10ad0d47a706495d84d92996360bd5557d41d95e6e33aa46"
+      "bytes": 4422247,
+      "sha256": "1b541b8af3db7761bbb7f571ecf50a119eccd3f99ed949754dad3a019d542699"
     },
     "data/free-core.csv": {
       "bytes": 314,
@@ -57,16 +57,16 @@
       "sha256": "ddd9f54183b2179856968036ed4c679d33452334c414d9e7d5436ad9ee53c0b9"
     },
     "data/pathway-candidates-lite.json": {
-      "bytes": 717473,
-      "sha256": "caa24a1f273a08aa5d23bebf9888a2db67e1dbf7fb58b818cc555233800ab3a2"
+      "bytes": 720288,
+      "sha256": "09354d5f6e11b5f379d0501d3d5947b4c78e4f5ee348969af446b3c556a19cc6"
     },
     "status/REVIEW-QUEUE.csv": {
-      "bytes": 3564779,
-      "sha256": "443c3e04421c36693841884b5b1ed89babe3272e41213725ee1bbf4c7d0f8266"
+      "bytes": 3181650,
+      "sha256": "4fd760dcf1824fec31cc44b47803d6e630f083aebb2f95ef7ea6f68106c546c9"
     },
     "status/CREDENTIAL-PATHWAY-CANDIDATES.csv": {
-      "bytes": 737940,
-      "sha256": "e3bd653a23adb92b0f090688c855f4d83f8a4785ec02d38046874fe471fb9d20"
+      "bytes": 741476,
+      "sha256": "0c75ce993c5a56a3ae86b8c98be9b8d2b31dcee41a91db1740048c742a99e83c"
     }
   },
   "reproducibility": {
