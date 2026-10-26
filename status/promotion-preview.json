@@ -1,12 +1,12 @@
 {
   "schema_version": "1.3",
-  "catalog_sha256": "8abf405711a133fbac436b2effe335127a0c9c13605185c8331a619479e24dc7",
-  "candidate_records": 9802,
-  "reviewable": 2936,
-  "high_confidence": 610,
-  "likely_credential_identity": 1498,
-  "learning_content_signals": 6911,
-  "provider_count": 107,
+  "catalog_sha256": "b5161e25c8882cc8ba672bc36cf2ff788a3c0897e1b695bbfd26723b7b42bee2",
+  "candidate_records": 9721,
+  "reviewable": 2907,
+  "high_confidence": 611,
+  "likely_credential_identity": 1501,
+  "learning_content_signals": 6859,
+  "provider_count": 104,
   "providers_shown": 100,
   "rows_shown": 500,
   "advisory_only": true,
@@ -55,21 +55,21 @@
     {
       "organization": "Atlassian",
       "host": "community.atlassian.com",
-      "candidate_records": 196,
-      "reviewable": 102,
+      "candidate_records": 200,
+      "reviewable": 103,
       "high_confidence": 73,
-      "likely_credential_identity": 86,
-      "learning_content_signals": 107,
+      "likely_credential_identity": 88,
+      "learning_content_signals": 109,
       "uncertain_credential_identity": 3
     },
     {
       "organization": "Jira Service Management",
       "host": "community.atlassian.com",
-      "candidate_records": 196,
-      "reviewable": 102,
+      "candidate_records": 200,
+      "reviewable": 103,
       "high_confidence": 73,
-      "likely_credential_identity": 86,
-      "learning_content_signals": 107,
+      "likely_credential_identity": 88,
+      "learning_content_signals": 109,
       "uncertain_credential_identity": 3
     },
     {
@@ -95,41 +95,41 @@
     {
       "organization": "Cloud Native Computing Foundation",
       "host": "www.cncf.io",
-      "candidate_records": 312,
+      "candidate_records": 311,
       "reviewable": 78,
       "high_confidence": 1,
       "likely_credential_identity": 111,
-      "learning_content_signals": 200,
+      "learning_content_signals": 199,
       "uncertain_credential_identity": 1
     },
     {
       "organization": "CNCF",
       "host": "www.cncf.io",
-      "candidate_records": 312,
+      "candidate_records": 311,
       "reviewable": 78,
       "high_confidence": 1,
       "likely_credential_identity": 111,
-      "learning_content_signals": 200,
+      "learning_content_signals": 199,
       "uncertain_credential_identity": 1
     },
     {
       "organization": "PECB",
       "host": "pecb.com",
-      "candidate_records": 87,
-      "reviewable": 74,
+      "candidate_records": 89,
+      "reviewable": 76,
       "high_confidence": 5,
       "likely_credential_identity": 13,
       "learning_content_signals": 14,
-      "uncertain_credential_identity": 60
+      "uncertain_credential_identity": 62
     },
     {
       "organization": "edX",
       "host": "www.edx.org",
-      "candidate_records": 119,
-      "reviewable": 73,
+      "candidate_records": 120,
+      "reviewable": 74,
       "high_confidence": 5,
       "likely_credential_identity": 16,
-      "learning_content_signals": 95,
+      "learning_content_signals": 96,
       "uncertain_credential_identity": 8
     },
     {
@@ -145,11 +145,11 @@
     {
       "organization": "Coursera",
       "host": "www.coursera.org",
-      "candidate_records": 97,
-      "reviewable": 64,
+      "candidate_records": 99,
+      "reviewable": 65,
       "high_confidence": 19,
-      "likely_credential_identity": 51,
-      "learning_content_signals": 42,
+      "likely_credential_identity": 52,
+      "learning_content_signals": 43,
       "uncertain_credential_identity": 4
     },
     {
@@ -176,11 +176,11 @@
       "organization": "Splunk",
       "host": "www.splunk.com",
       "candidate_records": 279,
-      "reviewable": 53,
+      "reviewable": 55,
       "high_confidence": 0,
-      "likely_credential_identity": 65,
+      "likely_credential_identity": 64,
       "learning_content_signals": 199,
-      "uncertain_credential_identity": 15
+      "uncertain_credential_identity": 16
     },
     {
       "organization": "PTC",
@@ -203,6 +203,16 @@
       "uncertain_credential_identity": 27
     },
     {
+      "organization": "ITU Academy",
+      "host": "academy.itu.int",
+      "candidate_records": 126,
+      "reviewable": 51,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 75,
+      "uncertain_credential_identity": 51
+    },
+    {
       "organization": "Tektronix",
       "host": "www.tek.com",
       "candidate_records": 53,
@@ -221,16 +231,6 @@
       "likely_credential_identity": 7,
       "learning_content_signals": 17,
       "uncertain_credential_identity": 35
-    },
-    {
-      "organization": "ITU Academy",
-      "host": "academy.itu.int",
-      "candidate_records": 127,
-      "reviewable": 50,
-      "high_confidence": 0,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 77,
-      "uncertain_credential_identity": 50
     },
     {
       "organization": "EC-Council",
@@ -303,16 +303,6 @@
       "uncertain_credential_identity": 12
     },
     {
-      "organization": "Class Central",
-      "host": "www.classcentral.com",
-      "candidate_records": 117,
-      "reviewable": 33,
-      "high_confidence": 12,
-      "likely_credential_identity": 3,
-      "learning_content_signals": 88,
-      "uncertain_credential_identity": 26
-    },
-    {
       "organization": "PagerDuty",
       "host": "www.pagerduty.com",
       "candidate_records": 48,
@@ -321,6 +311,16 @@
       "likely_credential_identity": 8,
       "learning_content_signals": 20,
       "uncertain_credential_identity": 20
+    },
+    {
+      "organization": "Class Central",
+      "host": "www.classcentral.com",
+      "candidate_records": 113,
+      "reviewable": 32,
+      "high_confidence": 12,
+      "likely_credential_identity": 3,
+      "learning_content_signals": 85,
+      "uncertain_credential_identity": 25
     },
     {
       "organization": "Snowflake",
@@ -383,33 +383,13 @@
       "uncertain_credential_identity": 16
     },
     {
-      "organization": "JFrog",
-      "host": "academy.jfrog.com",
-      "candidate_records": 64,
-      "reviewable": 26,
-      "high_confidence": 0,
-      "likely_credential_identity": 3,
-      "learning_content_signals": 37,
-      "uncertain_credential_identity": 24
-    },
-    {
-      "organization": "JFrog Academy",
-      "host": "academy.jfrog.com",
-      "candidate_records": 64,
-      "reviewable": 26,
-      "high_confidence": 0,
-      "likely_credential_identity": 3,
-      "learning_content_signals": 37,
-      "uncertain_credential_identity": 24
-    },
-    {
       "organization": "OpenAI Academy",
       "host": "academy.openai.com",
-      "candidate_records": 38,
+      "candidate_records": 36,
       "reviewable": 26,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 12,
+      "learning_content_signals": 10,
       "uncertain_credential_identity": 26
     },
     {
@@ -445,11 +425,11 @@
     {
       "organization": "MIT OpenCourseWare",
       "host": "ocw.mit.edu",
-      "candidate_records": 128,
+      "candidate_records": 127,
       "reviewable": 22,
       "high_confidence": 1,
       "likely_credential_identity": 9,
-      "learning_content_signals": 99,
+      "learning_content_signals": 98,
       "uncertain_credential_identity": 20
     },
     {
@@ -505,22 +485,32 @@
     {
       "organization": "WHO Academy",
       "host": "www.who.int",
-      "candidate_records": 22,
-      "reviewable": 14,
+      "candidate_records": 24,
+      "reviewable": 15,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 13,
+      "learning_content_signals": 15,
       "uncertain_credential_identity": 9
     },
     {
-      "organization": "UN CC:Learn",
-      "host": "unccelearn.org",
-      "candidate_records": 277,
+      "organization": "JFrog",
+      "host": "academy.jfrog.com",
+      "candidate_records": 31,
       "reviewable": 13,
       "high_confidence": 0,
-      "likely_credential_identity": 12,
-      "learning_content_signals": 264,
-      "uncertain_credential_identity": 1
+      "likely_credential_identity": 3,
+      "learning_content_signals": 17,
+      "uncertain_credential_identity": 11
+    },
+    {
+      "organization": "JFrog Academy",
+      "host": "academy.jfrog.com",
+      "candidate_records": 31,
+      "reviewable": 13,
+      "high_confidence": 0,
+      "likely_credential_identity": 3,
+      "learning_content_signals": 17,
+      "uncertain_credential_identity": 11
     },
     {
       "organization": "SANS Institute",
@@ -543,13 +533,23 @@
       "uncertain_credential_identity": 4
     },
     {
+      "organization": "UN CC:Learn",
+      "host": "unccelearn.org",
+      "candidate_records": 263,
+      "reviewable": 12,
+      "high_confidence": 0,
+      "likely_credential_identity": 11,
+      "learning_content_signals": 251,
+      "uncertain_credential_identity": 1
+    },
+    {
       "organization": "ISC2 Learning",
       "host": "www.isc2.org",
-      "candidate_records": 89,
+      "candidate_records": 90,
       "reviewable": 11,
       "high_confidence": 0,
       "likely_credential_identity": 14,
-      "learning_content_signals": 74,
+      "learning_content_signals": 75,
       "uncertain_credential_identity": 1
     },
     {
@@ -583,14 +583,14 @@
       "uncertain_credential_identity": 0
     },
     {
-      "organization": "Anthropic",
-      "host": "academy.claude.com",
-      "candidate_records": 10,
+      "organization": "EIT Manufacturing",
+      "host": "www.eit.europa.eu",
+      "candidate_records": 9,
       "reviewable": 9,
-      "high_confidence": 0,
+      "high_confidence": 3,
       "likely_credential_identity": 0,
-      "learning_content_signals": 2,
-      "uncertain_credential_identity": 8
+      "learning_content_signals": 0,
+      "uncertain_credential_identity": 9
     },
     {
       "organization": "EIT Climate-KIC",
@@ -600,16 +600,6 @@
       "high_confidence": 0,
       "likely_credential_identity": 0,
       "learning_content_signals": 4,
-      "uncertain_credential_identity": 7
-    },
-    {
-      "organization": "EIT Manufacturing",
-      "host": "www.eit.europa.eu",
-      "candidate_records": 7,
-      "reviewable": 7,
-      "high_confidence": 2,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 0,
       "uncertain_credential_identity": 7
     },
     {
@@ -763,16 +753,6 @@
       "uncertain_credential_identity": 0
     },
     {
-      "organization": "Нетология",
-      "host": "netology.ru",
-      "candidate_records": 3,
-      "reviewable": 3,
-      "high_confidence": 0,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 0,
-      "uncertain_credential_identity": 3
-    },
-    {
       "organization": "Unity",
       "host": "learn.unity.com",
       "candidate_records": 31,
@@ -815,11 +795,11 @@
     {
       "organization": "Cadence",
       "host": "www.cadence.com",
-      "candidate_records": 698,
+      "candidate_records": 697,
       "reviewable": 2,
       "high_confidence": 0,
       "likely_credential_identity": 17,
-      "learning_content_signals": 681,
+      "learning_content_signals": 680,
       "uncertain_credential_identity": 0
     },
     {
@@ -933,16 +913,6 @@
       "uncertain_credential_identity": 0
     },
     {
-      "organization": "Anthropic",
-      "host": "www.anthropic.com",
-      "candidate_records": 1,
-      "reviewable": 1,
-      "high_confidence": 0,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 1,
-      "uncertain_credential_identity": 0
-    },
-    {
       "organization": "Google Cloud",
       "host": "www.skills.google",
       "candidate_records": 1,
@@ -985,21 +955,11 @@
     {
       "organization": "Открытое образование",
       "host": "openedu.ru",
-      "candidate_records": 224,
+      "candidate_records": 232,
       "reviewable": 0,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 224,
-      "uncertain_credential_identity": 0
-    },
-    {
-      "organization": "Группа Астра",
-      "host": "astra.ru",
-      "candidate_records": 67,
-      "reviewable": 0,
-      "high_confidence": 0,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 67,
+      "learning_content_signals": 232,
       "uncertain_credential_identity": 0
     },
     {
@@ -1010,6 +970,46 @@
       "high_confidence": 0,
       "likely_credential_identity": 0,
       "learning_content_signals": 66,
+      "uncertain_credential_identity": 0
+    },
+    {
+      "organization": "Группа Астра",
+      "host": "astra.ru",
+      "candidate_records": 65,
+      "reviewable": 0,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 65,
+      "uncertain_credential_identity": 0
+    },
+    {
+      "organization": "fast.ai",
+      "host": "course.fast.ai",
+      "candidate_records": 56,
+      "reviewable": 0,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 56,
+      "uncertain_credential_identity": 0
+    },
+    {
+      "organization": "Eclipse Foundation",
+      "host": "www.eclipse.org",
+      "candidate_records": 39,
+      "reviewable": 0,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 39,
+      "uncertain_credential_identity": 0
+    },
+    {
+      "organization": "RISC-V International",
+      "host": "riscv.org",
+      "candidate_records": 21,
+      "reviewable": 0,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 21,
       "uncertain_credential_identity": 0
     }
   ],
@@ -1671,6 +1671,25 @@
       "method": "heading",
       "url": "https://community.atlassian.com/learning/adoption/confluence-cloud",
       "source": "https://community.atlassian.com/learning/adoption/confluence-cloud",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Atlassian",
+      "name": "Earn the Atlassian Cloud Organization Admin certification",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/catalog",
+      "source": "https://community.atlassian.com/learning/catalog",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
@@ -4988,6 +5007,25 @@
       "tier": "high-confidence review candidate",
       "triage": "likely credential identity",
       "organization": "Jira Service Management",
+      "name": "Earn the Atlassian Cloud Organization Admin certification",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://community.atlassian.com/learning/catalog",
+      "source": "https://community.atlassian.com/learning/catalog",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Jira Service Management",
       "name": "Earn the Confluence Administration for Cloud certification",
       "evidence": "official-page-extraction",
       "method": "heading",
@@ -8235,11 +8273,65 @@
       "tier": "high-confidence review candidate",
       "triage": "uncertain credential identity",
       "organization": "Vercel",
+      "name": "Build Durable Workflows",
+      "evidence": "official-page-extraction",
+      "method": "jsonld",
+      "url": "https://vercel.com/academy/workflow-foundations",
+      "source": "https://vercel.com/academy/workflow-foundations",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=jsonld",
+        "official URL present",
+        "source page present",
+        "specific credential name"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "uncertain credential identity",
+      "organization": "Vercel",
       "name": "Build Visual Workflow Plugins on Vercel",
       "evidence": "official-page-extraction",
       "method": "jsonld",
       "url": "https://vercel.com/academy/visual-workflow-builder-on-vercel",
       "source": "https://vercel.com/academy/visual-workflow-builder-on-vercel",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=jsonld",
+        "official URL present",
+        "source page present",
+        "specific credential name"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "uncertain credential identity",
+      "organization": "Vercel",
+      "name": "Build with Next.js",
+      "evidence": "official-page-extraction",
+      "method": "jsonld",
+      "url": "https://vercel.com/academy/nextjs-foundations",
+      "source": "https://vercel.com/academy/nextjs-foundations",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=jsonld",
+        "official URL present",
+        "source page present",
+        "specific credential name"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "uncertain credential identity",
+      "organization": "Vercel",
+      "name": "Build with v0",
+      "evidence": "official-page-extraction",
+      "method": "jsonld",
+      "url": "https://vercel.com/academy/v0-foundations",
+      "source": "https://vercel.com/academy/v0-foundations",
       "reasons": [
         "evidence=official-page-extraction",
         "method=jsonld",
@@ -8325,6 +8417,24 @@
       "tier": "high-confidence review candidate",
       "triage": "uncertain credential identity",
       "organization": "Vercel",
+      "name": "Deploy on Vercel",
+      "evidence": "official-page-extraction",
+      "method": "jsonld",
+      "url": "https://vercel.com/academy/vercel-foundations",
+      "source": "https://vercel.com/academy/vercel-foundations",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=jsonld",
+        "official URL present",
+        "source page present",
+        "specific credential name"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "uncertain credential identity",
+      "organization": "Vercel",
       "name": "Enterprise Apps and Agents",
       "evidence": "official-page-extraction",
       "method": "jsonld",
@@ -8384,24 +8494,6 @@
       "method": "jsonld",
       "url": "https://vercel.com/academy/microfrontends-on-vercel",
       "source": "https://vercel.com/academy/microfrontends-on-vercel",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=jsonld",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Vercel",
-      "name": "Next.js Foundations",
-      "evidence": "official-page-extraction",
-      "method": "jsonld",
-      "url": "https://vercel.com/academy/nextjs-foundations",
-      "source": "https://vercel.com/academy/nextjs-foundations",
       "reasons": [
         "evidence=official-page-extraction",
         "method=jsonld",
@@ -8559,65 +8651,11 @@
       "tier": "high-confidence review candidate",
       "triage": "uncertain credential identity",
       "organization": "Vercel",
-      "name": "v0 Foundations",
-      "evidence": "official-page-extraction",
-      "method": "jsonld",
-      "url": "https://vercel.com/academy/v0-foundations",
-      "source": "https://vercel.com/academy/v0-foundations",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=jsonld",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Vercel",
-      "name": "Vercel Foundations",
-      "evidence": "official-page-extraction",
-      "method": "jsonld",
-      "url": "https://vercel.com/academy/vercel-foundations",
-      "source": "https://vercel.com/academy/vercel-foundations",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=jsonld",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Vercel",
       "name": "Vercel Sandbox",
       "evidence": "official-page-extraction",
       "method": "jsonld",
       "url": "https://vercel.com/academy/vercel-sandbox",
       "source": "https://vercel.com/academy/vercel-sandbox",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=jsonld",
-        "official URL present",
-        "source page present",
-        "specific credential name"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "uncertain credential identity",
-      "organization": "Vercel",
-      "name": "Workflow Foundations",
-      "evidence": "official-page-extraction",
-      "method": "jsonld",
-      "url": "https://vercel.com/academy/workflow-foundations",
-      "source": "https://vercel.com/academy/workflow-foundations",
       "reasons": [
         "evidence=official-page-extraction",
         "method=jsonld",
@@ -8736,26 +8774,6 @@
       "method": "heading",
       "url": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
       "source": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title",
-        "learning-content language in title"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "learning-content signal",
-      "organization": "Atlassian",
-      "name": "Earn the Jira Service Management with AI Fundamentals certificate",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://community.atlassian.com/learning/catalog",
-      "source": "https://community.atlassian.com/learning/catalog",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
@@ -9234,26 +9252,6 @@
       "method": "heading",
       "url": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
       "source": "https://community.atlassian.com/learning/catalog?product=Jira+Service+Management",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title",
-        "learning-content language in title"
-      ]
-    },
-    {
-      "score": 8,
-      "tier": "high-confidence review candidate",
-      "triage": "learning-content signal",
-      "organization": "Jira Service Management",
-      "name": "Earn the Jira Service Management with AI Fundamentals certificate",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://community.atlassian.com/learning/catalog",
-      "source": "https://community.atlassian.com/learning/catalog",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
