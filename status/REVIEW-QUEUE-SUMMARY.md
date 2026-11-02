@@ -1,8 +1,8 @@
 # Review queue summary
 
-Generated: 2026-10-26T09:03:50.980580Z
+Generated: 2026-11-02T11:21:59.617649Z
 
-- Queue records: **9,802**
+- Queue records: **9,448**
 - Browser batch: **600**
 - Promotion: **manual only**; this artifact does not change Evidence Status.
 
@@ -12,7 +12,7 @@ Generated: 2026-10-26T09:03:50.980580Z
 | ---: | --- | ---: |
 | 10 | Candidate with free-price signal | 0 |
 | 15 | Credential free-price signal needs promotion review | 81 |
-| 20 | Candidate credential identity needs verification | 9,721 |
+| 20 | Candidate credential identity needs verification | 9,367 |
 | 30 | Credential needs issuer-level evidence review | 0 |
 
 ## Operating rule
