@@ -1,10 +1,10 @@
 # Source health
 
-Generated: 2026-11-06T11:30:46.132671Z
+Generated: 2026-11-07T10:41:36.926685Z
 
 - Provider seed URLs checked: **210**
-- Reachable: **151**
-- Reachable but restricted/rate-limited: **31**
+- Reachable: **152**
+- Reachable but restricted/rate-limited: **30**
 - HTTP errors: **19**
 - Unreachable: **9**
 
