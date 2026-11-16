@@ -1,12 +1,12 @@
 {
   "schema_version": "1.3",
-  "catalog_sha256": "5c8f7d0d9f222414f56e8925648cd4ebdbee48b98412aa2199c40221fbfe13ca",
-  "candidate_records": 9483,
-  "reviewable": 2801,
-  "high_confidence": 597,
-  "likely_credential_identity": 1496,
-  "learning_content_signals": 6725,
-  "provider_count": 102,
+  "catalog_sha256": "45198185260ead167a47f9f06bc07a29a8ed79544a846e435706cd8293cc8428",
+  "candidate_records": 8712,
+  "reviewable": 2783,
+  "high_confidence": 592,
+  "likely_credential_identity": 1469,
+  "learning_content_signals": 5987,
+  "provider_count": 100,
   "providers_shown": 100,
   "rows_shown": 500,
   "advisory_only": true,
@@ -85,11 +85,11 @@
     {
       "organization": "AWS",
       "host": "aws.amazon.com",
-      "candidate_records": 310,
+      "candidate_records": 311,
       "reviewable": 84,
       "high_confidence": 38,
       "likely_credential_identity": 69,
-      "learning_content_signals": 231,
+      "learning_content_signals": 232,
       "uncertain_credential_identity": 10
     },
     {
@@ -115,11 +115,11 @@
     {
       "organization": "PECB",
       "host": "pecb.com",
-      "candidate_records": 87,
-      "reviewable": 74,
+      "candidate_records": 88,
+      "reviewable": 75,
       "high_confidence": 4,
       "likely_credential_identity": 12,
-      "learning_content_signals": 13,
+      "learning_content_signals": 14,
       "uncertain_credential_identity": 62
     },
     {
@@ -185,11 +185,11 @@
     {
       "organization": "Fortinet",
       "host": "www.fortinet.com",
-      "candidate_records": 329,
+      "candidate_records": 326,
       "reviewable": 51,
       "high_confidence": 2,
       "likely_credential_identity": 23,
-      "learning_content_signals": 279,
+      "learning_content_signals": 276,
       "uncertain_credential_identity": 27
     },
     {
@@ -223,6 +223,16 @@
       "uncertain_credential_identity": 40
     },
     {
+      "organization": "Python Institute",
+      "host": "pythoninstitute.org",
+      "candidate_records": 44,
+      "reviewable": 43,
+      "high_confidence": 14,
+      "likely_credential_identity": 43,
+      "learning_content_signals": 1,
+      "uncertain_credential_identity": 0
+    },
+    {
       "organization": "EC-Council",
       "host": "www.eccouncil.org",
       "candidate_records": 47,
@@ -235,21 +245,21 @@
     {
       "organization": "ISACA",
       "host": "www.isaca.org",
-      "candidate_records": 81,
+      "candidate_records": 82,
       "reviewable": 41,
       "high_confidence": 2,
       "likely_credential_identity": 28,
-      "learning_content_signals": 49,
+      "learning_content_signals": 50,
       "uncertain_credential_identity": 4
     },
     {
       "organization": "NVIDIA",
       "host": "www.nvidia.com",
-      "candidate_records": 258,
+      "candidate_records": 257,
       "reviewable": 41,
       "high_confidence": 0,
       "likely_credential_identity": 57,
-      "learning_content_signals": 197,
+      "learning_content_signals": 196,
       "uncertain_credential_identity": 4
     },
     {
@@ -273,34 +283,24 @@
       "uncertain_credential_identity": 37
     },
     {
-      "organization": "Class Central",
-      "host": "www.classcentral.com",
-      "candidate_records": 112,
-      "reviewable": 33,
-      "high_confidence": 13,
-      "likely_credential_identity": 4,
-      "learning_content_signals": 82,
-      "uncertain_credential_identity": 26
-    },
-    {
       "organization": "PagerDuty",
       "host": "www.pagerduty.com",
-      "candidate_records": 47,
+      "candidate_records": 48,
       "reviewable": 32,
       "high_confidence": 14,
       "likely_credential_identity": 8,
-      "learning_content_signals": 19,
+      "learning_content_signals": 20,
       "uncertain_credential_identity": 20
     },
     {
-      "organization": "Python Institute",
-      "host": "pythoninstitute.org",
-      "candidate_records": 32,
+      "organization": "Class Central",
+      "host": "www.classcentral.com",
+      "candidate_records": 109,
       "reviewable": 31,
       "high_confidence": 13,
-      "likely_credential_identity": 31,
-      "learning_content_signals": 1,
-      "uncertain_credential_identity": 0
+      "likely_credential_identity": 4,
+      "learning_content_signals": 80,
+      "uncertain_credential_identity": 25
     },
     {
       "organization": "Red Hat",
@@ -315,11 +315,11 @@
     {
       "organization": "Snowflake",
       "host": "learn.snowflake.com",
-      "candidate_records": 209,
+      "candidate_records": 212,
       "reviewable": 30,
       "high_confidence": 14,
       "likely_credential_identity": 19,
-      "learning_content_signals": 189,
+      "learning_content_signals": 192,
       "uncertain_credential_identity": 1
     },
     {
@@ -335,22 +335,12 @@
     {
       "organization": "FutureLearn",
       "host": "www.futurelearn.com",
-      "candidate_records": 172,
+      "candidate_records": 165,
       "reviewable": 30,
-      "high_confidence": 2,
-      "likely_credential_identity": 8,
-      "learning_content_signals": 154,
+      "high_confidence": 3,
+      "likely_credential_identity": 9,
+      "learning_content_signals": 146,
       "uncertain_credential_identity": 10
-    },
-    {
-      "organization": "OpenAI Academy",
-      "host": "academy.openai.com",
-      "candidate_records": 40,
-      "reviewable": 30,
-      "high_confidence": 0,
-      "likely_credential_identity": 0,
-      "learning_content_signals": 9,
-      "uncertain_credential_identity": 31
     },
     {
       "organization": "Kubernetes",
@@ -365,10 +355,10 @@
     {
       "organization": "ISC2",
       "host": "www.isc2.org",
-      "candidate_records": 27,
-      "reviewable": 27,
-      "high_confidence": 16,
-      "likely_credential_identity": 26,
+      "candidate_records": 26,
+      "reviewable": 26,
+      "high_confidence": 15,
+      "likely_credential_identity": 25,
       "learning_content_signals": 0,
       "uncertain_credential_identity": 1
     },
@@ -393,14 +383,14 @@
       "uncertain_credential_identity": 17
     },
     {
-      "organization": "Cloudflare",
-      "host": "www.cloudflare.com",
-      "candidate_records": 22,
-      "reviewable": 22,
-      "high_confidence": 7,
-      "likely_credential_identity": 22,
-      "learning_content_signals": 0,
-      "uncertain_credential_identity": 0
+      "organization": "OpenAI Academy",
+      "host": "academy.openai.com",
+      "candidate_records": 34,
+      "reviewable": 24,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 10,
+      "uncertain_credential_identity": 24
     },
     {
       "organization": "Raspberry Pi Foundation",
@@ -475,31 +465,31 @@
     {
       "organization": "WHO Academy",
       "host": "www.who.int",
-      "candidate_records": 22,
-      "reviewable": 14,
+      "candidate_records": 23,
+      "reviewable": 15,
       "high_confidence": 0,
       "likely_credential_identity": 0,
       "learning_content_signals": 14,
-      "uncertain_credential_identity": 8
+      "uncertain_credential_identity": 9
     },
     {
       "organization": "JFrog",
       "host": "academy.jfrog.com",
-      "candidate_records": 31,
+      "candidate_records": 30,
       "reviewable": 13,
       "high_confidence": 0,
       "likely_credential_identity": 3,
-      "learning_content_signals": 17,
+      "learning_content_signals": 16,
       "uncertain_credential_identity": 11
     },
     {
       "organization": "JFrog Academy",
       "host": "academy.jfrog.com",
-      "candidate_records": 31,
+      "candidate_records": 30,
       "reviewable": 13,
       "high_confidence": 0,
       "likely_credential_identity": 3,
-      "learning_content_signals": 17,
+      "learning_content_signals": 16,
       "uncertain_credential_identity": 11
     },
     {
@@ -545,11 +535,11 @@
     {
       "organization": "Esri",
       "host": "www.esri.com",
-      "candidate_records": 88,
+      "candidate_records": 96,
       "reviewable": 11,
       "high_confidence": 0,
       "likely_credential_identity": 15,
-      "learning_content_signals": 72,
+      "learning_content_signals": 80,
       "uncertain_credential_identity": 1
     },
     {
@@ -735,11 +725,11 @@
     {
       "organization": "Neo4j",
       "host": "graphacademy.neo4j.com",
-      "candidate_records": 22,
+      "candidate_records": 21,
       "reviewable": 3,
       "high_confidence": 1,
       "likely_credential_identity": 3,
-      "learning_content_signals": 19,
+      "learning_content_signals": 18,
       "uncertain_credential_identity": 0
     },
     {
@@ -750,6 +740,16 @@
       "high_confidence": 1,
       "likely_credential_identity": 3,
       "learning_content_signals": 10,
+      "uncertain_credential_identity": 0
+    },
+    {
+      "organization": "PyTorch",
+      "host": "pytorch.org",
+      "candidate_records": 3,
+      "reviewable": 3,
+      "high_confidence": 0,
+      "likely_credential_identity": 1,
+      "learning_content_signals": 2,
       "uncertain_credential_identity": 0
     },
     {
@@ -765,12 +765,12 @@
     {
       "organization": "Unity",
       "host": "learn.unity.com",
-      "candidate_records": 31,
+      "candidate_records": 51,
       "reviewable": 2,
-      "high_confidence": 1,
+      "high_confidence": 2,
       "likely_credential_identity": 0,
-      "learning_content_signals": 30,
-      "uncertain_credential_identity": 1
+      "learning_content_signals": 49,
+      "uncertain_credential_identity": 2
     },
     {
       "organization": "Chainlink",
@@ -780,16 +780,6 @@
       "high_confidence": 1,
       "likely_credential_identity": 2,
       "learning_content_signals": 0,
-      "uncertain_credential_identity": 0
-    },
-    {
-      "organization": "Cadence",
-      "host": "www.cadence.com",
-      "candidate_records": 706,
-      "reviewable": 2,
-      "high_confidence": 0,
-      "likely_credential_identity": 17,
-      "learning_content_signals": 689,
       "uncertain_credential_identity": 0
     },
     {
@@ -863,16 +853,6 @@
       "uncertain_credential_identity": 0
     },
     {
-      "organization": "PyTorch",
-      "host": "pytorch.org",
-      "candidate_records": 2,
-      "reviewable": 2,
-      "high_confidence": 0,
-      "likely_credential_identity": 1,
-      "learning_content_signals": 1,
-      "uncertain_credential_identity": 0
-    },
-    {
       "organization": "Web3 Foundation",
       "host": "web3.foundation",
       "candidate_records": 2,
@@ -935,11 +915,11 @@
     {
       "organization": "Открытое образование",
       "host": "openedu.ru",
-      "candidate_records": 268,
+      "candidate_records": 200,
       "reviewable": 0,
       "high_confidence": 0,
       "likely_credential_identity": 0,
-      "learning_content_signals": 268,
+      "learning_content_signals": 200,
       "uncertain_credential_identity": 0
     },
     {
@@ -1005,6 +985,26 @@
     {
       "organization": "OWASP",
       "host": "owasp.org",
+      "candidate_records": 1,
+      "reviewable": 0,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 1,
+      "uncertain_credential_identity": 0
+    },
+    {
+      "organization": "OWASP Foundation",
+      "host": "owasp.org",
+      "candidate_records": 1,
+      "reviewable": 0,
+      "high_confidence": 0,
+      "likely_credential_identity": 0,
+      "learning_content_signals": 1,
+      "uncertain_credential_identity": 0
+    },
+    {
+      "organization": "Prometheus",
+      "host": "prometheus.io",
       "candidate_records": 1,
       "reviewable": 0,
       "high_confidence": 0,
@@ -1195,6 +1195,25 @@
       "method": "heading",
       "url": "https://cloudsecurityalliance.org/education/star-auditor-training",
       "source": "https://cloudsecurityalliance.org/education/star-auditor-training",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 10,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "FutureLearn",
+      "name": "AWS AI Practitioner - Foundational, Professional Certificate",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://www.futurelearn.com/",
+      "source": "https://www.futurelearn.com/",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
@@ -2994,6 +3013,25 @@
       "score": 9,
       "tier": "high-confidence review candidate",
       "triage": "likely credential identity",
+      "organization": "Class Central",
+      "name": "TESOL Certificate, Part 1: Teach English Now!",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://www.classcentral.com/subject/education",
+      "source": "https://www.classcentral.com/subject/education",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
       "organization": "Cloud Security Alliance",
       "name": "Certificate of Cloud Security Knowledge",
       "evidence": "official-page-extraction",
@@ -3418,139 +3456,6 @@
       "method": "heading",
       "url": "https://cloudsecurityalliance.org/education/taise/",
       "source": "https://cloudsecurityalliance.org/education/taise/",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "likely credential identity",
-      "organization": "Cloudflare",
-      "name": "Expired SSL certificate",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.cloudflare.com/learning/ssl/common-errors/",
-      "source": "https://www.cloudflare.com/learning/ssl/common-errors/",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "likely credential identity",
-      "organization": "Cloudflare",
-      "name": "How does a website get an SSL certificate?",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.cloudflare.com/learning/ssl/how-does-ssl-work/",
-      "source": "https://www.cloudflare.com/learning/ssl/how-does-ssl-work/",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "likely credential identity",
-      "organization": "Cloudflare",
-      "name": "How does Cloudflare eliminate SSL certificate errors?",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.cloudflare.com/learning/ssl/common-errors/",
-      "source": "https://www.cloudflare.com/learning/ssl/common-errors/",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "likely credential identity",
-      "organization": "Cloudflare",
-      "name": "Is it possible to get a free SSL certificate?",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.cloudflare.com/learning/ssl/how-does-ssl-work/",
-      "source": "https://www.cloudflare.com/learning/ssl/how-does-ssl-work/",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "likely credential identity",
-      "organization": "Cloudflare",
-      "name": "SSL certificate is not trusted",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.cloudflare.com/learning/ssl/common-errors/",
-      "source": "https://www.cloudflare.com/learning/ssl/common-errors/",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "likely credential identity",
-      "organization": "Cloudflare",
-      "name": "What is an SSL certificate?",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.cloudflare.com/learning/ssl/how-does-ssl-work/",
-      "source": "https://www.cloudflare.com/learning/ssl/how-does-ssl-work/",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "likely credential identity",
-      "organization": "Cloudflare",
-      "name": "What is an SSL certificate? What is HTTPS?",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.cloudflare.com/learning/ssl/connection-not-private-explained/",
-      "source": "https://www.cloudflare.com/learning/ssl/connection-not-private-explained/",
       "reasons": [
         "evidence=official-page-extraction",
         "method=heading",
@@ -4571,25 +4476,6 @@
       "triage": "likely credential identity",
       "organization": "ISC2",
       "name": "CSSLP – Certified Secure Software Lifecycle Professional",
-      "evidence": "official-page-extraction",
-      "method": "heading",
-      "url": "https://www.isc2.org/certifications",
-      "source": "https://www.isc2.org/certifications",
-      "reasons": [
-        "evidence=official-page-extraction",
-        "method=heading",
-        "official URL present",
-        "source page present",
-        "specific credential name",
-        "credential language in title"
-      ]
-    },
-    {
-      "score": 9,
-      "tier": "high-confidence review candidate",
-      "triage": "likely credential identity",
-      "organization": "ISC2",
-      "name": "Get 2X Exam Tries",
       "evidence": "official-page-extraction",
       "method": "heading",
       "url": "https://www.isc2.org/certifications",
@@ -7857,7 +7743,7 @@
       "tier": "high-confidence review candidate",
       "triage": "likely credential identity",
       "organization": "Python Institute",
-      "name": "PCEA™ – Certified Entry-Level Automation Specialist with Python",
+      "name": "PCEA™ – Certified Entry-Level Automation Engineer with Python",
       "evidence": "official-page-extraction",
       "method": "heading",
       "url": "https://pythoninstitute.org/",
@@ -7895,7 +7781,7 @@
       "tier": "high-confidence review candidate",
       "triage": "likely credential identity",
       "organization": "Python Institute",
-      "name": "PCEI™ – Certified Entry-Level AI Specialist with Python",
+      "name": "PCEI™ – Certified Entry-Level AI Engineer with Python",
       "evidence": "official-page-extraction",
       "method": "heading",
       "url": "https://pythoninstitute.org/",
@@ -7933,7 +7819,7 @@
       "tier": "high-confidence review candidate",
       "triage": "likely credential identity",
       "organization": "Python Institute",
-      "name": "PCES™ – Certified Entry-Level Security Specialist with Python",
+      "name": "PCES™ – Certified Entry-Level Security Engineer with Python",
       "evidence": "official-page-extraction",
       "method": "heading",
       "url": "https://pythoninstitute.org/",
@@ -7971,7 +7857,26 @@
       "tier": "high-confidence review candidate",
       "triage": "likely credential identity",
       "organization": "Python Institute",
-      "name": "PCPP1™ – Certified Professional Python Programmer 1",
+      "name": "PCPP1™ – Certified Professional Python Programmer: Software Development",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://pythoninstitute.org/",
+      "source": "https://pythoninstitute.org/",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 9,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Python Institute",
+      "name": "PCPP1™ – Certified Professional Python Programmer: Systems Engineering",
       "evidence": "official-page-extraction",
       "method": "heading",
       "url": "https://pythoninstitute.org/",
@@ -10476,6 +10381,96 @@
         "source page present",
         "specific credential name",
         "credential language in title"
+      ]
+    },
+    {
+      "score": 8,
+      "tier": "high-confidence review candidate",
+      "triage": "likely credential identity",
+      "organization": "Snowflake",
+      "name": "Certification NAS-C02 SnowProÂ® Specialty: Native Apps TheÂ SnowProÂ® Specialty: Native Apps Certification Exam wi... Learn More",
+      "evidence": "official-page-extraction",
+      "method": "anchor",
+      "url": "https://learn.snowflake.com/en/certifications/snowpro-nativeapps-c02/",
+      "source": "https://learn.snowflake.com/en/",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "official URL present",
+        "source page present",
+        "specific credential name",
+        "credential language in title"
+      ]
+    },
+    {
+      "score": 8,
+      "tier": "high-confidence review candidate",
+      "triage": "uncertain credential identity",
+      "organization": "Altium",
+      "name": "Altium Education Programs",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://www.altium.com/education",
+      "source": "https://www.altium.com/education",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name"
+      ]
+    },
+    {
+      "score": 8,
+      "tier": "high-confidence review candidate",
+      "triage": "uncertain credential identity",
+      "organization": "Altium",
+      "name": "See What Altium Education Programs Can Do for You",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://www.altium.com/education",
+      "source": "https://www.altium.com/education",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name"
+      ]
+    },
+    {
+      "score": 8,
+      "tier": "high-confidence review candidate",
+      "triage": "uncertain credential identity",
+      "organization": "Altium",
+      "name": "Thank you for enrolling in Altium’s Free Student License and Education Curriculum.",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://www.altium.com/education/students",
+      "source": "https://www.altium.com/education/students",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name"
+      ]
+    },
+    {
+      "score": 8,
+      "tier": "high-confidence review candidate",
+      "triage": "uncertain credential identity",
+      "organization": "Ansible",
+      "name": "Continue your education and discover best practices",
+      "evidence": "official-page-extraction",
+      "method": "heading",
+      "url": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
+      "source": "https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA",
+      "reasons": [
+        "evidence=official-page-extraction",
+        "method=heading",
+        "official URL present",
+        "source page present",
+        "specific credential name"
       ]
     }
   ]

@@ -1,9 +1,17 @@
 {
   "index_version": "1.1",
   "project": "OpenCertAtlas",
-  "generated_at_utc": "2026-11-09T11:43:52.079903+00:00",
-  "snapshot_count": 19,
+  "generated_at_utc": "2026-11-16T11:33:17.991744+00:00",
+  "snapshot_count": 20,
   "snapshots": [
+    {
+      "snapshot": "status/releases/20261116T113317Z-b8ed9f7228c0.json",
+      "generated_at_utc": "2026-11-16T11:33:17.922886+00:00",
+      "build_trigger_sha": "b8ed9f7228c0a17a24d09b454c5dd82421d612fe",
+      "catalog_records": 8793,
+      "verified_free_core": 0,
+      "candidates": 8712
+    },
     {
       "snapshot": "status/releases/20261109T114352Z-513d2e2987f5.json",
       "generated_at_utc": "2026-11-09T11:43:52.007125+00:00",

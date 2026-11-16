@@ -1,13 +1,13 @@
 # Promotion preview
 
-- candidate records reviewed: 9483
-- deterministic review candidates (score ≥ 6): 2801
-- high-confidence review candidates (score ≥ 8): 597
-- likely credential identities: 1496
-- learning-content signals: 6725
-- issuer/provider groups: 102 (top 100 shown)
+- candidate records reviewed: 8712
+- deterministic review candidates (score ≥ 6): 2783
+- high-confidence review candidates (score ≥ 8): 592
+- likely credential identities: 1469
+- learning-content signals: 5987
+- issuer/provider groups: 100 (top 100 shown)
 - rows shown: 500
-- catalog SHA-256: `5c8f7d0d9f222414f56e8925648cd4ebdbee48b98412aa2199c40221fbfe13ca`
+- catalog SHA-256: `45198185260ead167a47f9f06bc07a29a8ed79544a846e435706cd8293cc8428`
 
 This report is advisory only. It never changes catalog records, Evidence Status, or free status.
 Credential-language and learning-content heuristics affect triage only; they are not proof of credential identity.
@@ -26,38 +26,37 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | Atlassian | community.atlassian.com | 196 | 101 | 70 | 85 | 107 | 4 |
 | Jira Service Management | community.atlassian.com | 196 | 101 | 70 | 85 | 107 | 4 |
 | Oracle | www.oracle.com | 119 | 90 | 19 | 33 | 30 | 56 |
-| AWS | aws.amazon.com | 310 | 84 | 38 | 69 | 231 | 10 |
+| AWS | aws.amazon.com | 311 | 84 | 38 | 69 | 232 | 10 |
 | Cloud Native Computing Foundation | www.cncf.io | 312 | 78 | 1 | 111 | 200 | 1 |
 | CNCF | www.cncf.io | 312 | 78 | 1 | 111 | 200 | 1 |
-| PECB | pecb.com | 87 | 74 | 4 | 12 | 13 | 62 |
+| PECB | pecb.com | 88 | 75 | 4 | 12 | 14 | 62 |
 | edX | www.edx.org | 121 | 73 | 5 | 16 | 97 | 8 |
 | Scrum Alliance | www.scrumalliance.org | 90 | 67 | 0 | 21 | 36 | 33 |
 | Coursera | www.coursera.org | 100 | 65 | 19 | 50 | 46 | 4 |
 | EIT Health | eithealth.eu | 69 | 62 | 22 | 25 | 15 | 29 |
 | Splunk | www.splunk.com | 279 | 55 | 0 | 64 | 199 | 16 |
 | PTC | www.ptc.com | 51 | 51 | 9 | 3 | 0 | 48 |
-| Fortinet | www.fortinet.com | 329 | 51 | 2 | 23 | 279 | 27 |
+| Fortinet | www.fortinet.com | 326 | 51 | 2 | 23 | 276 | 27 |
 | ITU Academy | academy.itu.int | 124 | 51 | 0 | 0 | 73 | 51 |
 | Palo Alto Networks | www.paloaltonetworks.com | 59 | 50 | 5 | 7 | 17 | 35 |
 | Altium | www.altium.com | 91 | 44 | 4 | 2 | 49 | 40 |
+| Python Institute | pythoninstitute.org | 44 | 43 | 14 | 43 | 1 | 0 |
 | EC-Council | www.eccouncil.org | 47 | 43 | 7 | 32 | 5 | 10 |
-| ISACA | www.isaca.org | 81 | 41 | 2 | 28 | 49 | 4 |
-| NVIDIA | www.nvidia.com | 258 | 41 | 0 | 57 | 197 | 4 |
+| ISACA | www.isaca.org | 82 | 41 | 2 | 28 | 50 | 4 |
+| NVIDIA | www.nvidia.com | 257 | 41 | 0 | 57 | 196 | 4 |
 | ETSI | www.etsi.org | 57 | 41 | 0 | 2 | 16 | 39 |
 | Dassault Systèmes | www.3ds.com | 42 | 39 | 14 | 2 | 3 | 37 |
-| Class Central | www.classcentral.com | 112 | 33 | 13 | 4 | 82 | 26 |
-| PagerDuty | www.pagerduty.com | 47 | 32 | 14 | 8 | 19 | 20 |
-| Python Institute | pythoninstitute.org | 32 | 31 | 13 | 31 | 1 | 0 |
+| PagerDuty | www.pagerduty.com | 48 | 32 | 14 | 8 | 20 | 20 |
+| Class Central | www.classcentral.com | 109 | 31 | 13 | 4 | 80 | 25 |
 | Red Hat | www.redhat.com | 230 | 31 | 0 | 42 | 179 | 9 |
-| Snowflake | learn.snowflake.com | 209 | 30 | 14 | 19 | 189 | 1 |
+| Snowflake | learn.snowflake.com | 212 | 30 | 14 | 19 | 192 | 1 |
 | USGS | www.usgs.gov | 30 | 30 | 4 | 0 | 0 | 30 |
-| FutureLearn | www.futurelearn.com | 172 | 30 | 2 | 8 | 154 | 10 |
-| OpenAI Academy | academy.openai.com | 40 | 30 | 0 | 0 | 9 | 31 |
+| FutureLearn | www.futurelearn.com | 165 | 30 | 3 | 9 | 146 | 10 |
 | Kubernetes | kubernetes.io | 64 | 28 | 0 | 28 | 36 | 0 |
-| ISC2 | www.isc2.org | 27 | 27 | 16 | 26 | 0 | 1 |
+| ISC2 | www.isc2.org | 26 | 26 | 15 | 25 | 0 | 1 |
 | NI | www.ni.com | 39 | 26 | 2 | 4 | 19 | 16 |
 | JetBrains Academy | www.jetbrains.com | 30 | 24 | 4 | 0 | 13 | 17 |
-| Cloudflare | www.cloudflare.com | 22 | 22 | 7 | 22 | 0 | 0 |
+| OpenAI Academy | academy.openai.com | 34 | 24 | 0 | 0 | 10 | 24 |
 | Raspberry Pi Foundation | training-hub.raspberrypi.org | 104 | 22 | 0 | 23 | 81 | 0 |
 | MIT OpenCourseWare | ocw.mit.edu | 126 | 21 | 1 | 9 | 98 | 19 |
 | FAO eLearning Academy | elearning.fao.org | 80 | 19 | 4 | 8 | 70 | 2 |
@@ -65,14 +64,14 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | Linux Professional Institute | www.lpi.org | 18 | 16 | 4 | 13 | 2 | 3 |
 | Tableau | www.tableau.com | 50 | 16 | 1 | 13 | 35 | 2 |
 | Databricks | www.databricks.com | 78 | 15 | 2 | 19 | 59 | 0 |
-| WHO Academy | www.who.int | 22 | 14 | 0 | 0 | 14 | 8 |
-| JFrog | academy.jfrog.com | 31 | 13 | 0 | 3 | 17 | 11 |
-| JFrog Academy | academy.jfrog.com | 31 | 13 | 0 | 3 | 17 | 11 |
+| WHO Academy | www.who.int | 23 | 15 | 0 | 0 | 14 | 9 |
+| JFrog | academy.jfrog.com | 30 | 13 | 0 | 3 | 16 | 11 |
+| JFrog Academy | academy.jfrog.com | 30 | 13 | 0 | 3 | 16 | 11 |
 | BSI | www.bsigroup.com | 25 | 12 | 1 | 8 | 13 | 4 |
 | UN CC:Learn | unccelearn.org | 263 | 12 | 0 | 11 | 251 | 1 |
 | ISC2 Learning | www.isc2.org | 94 | 12 | 0 | 15 | 78 | 1 |
 | SANS Institute | www.sans.org | 38 | 11 | 1 | 0 | 35 | 3 |
-| Esri | www.esri.com | 88 | 11 | 0 | 15 | 72 | 1 |
+| Esri | www.esri.com | 96 | 11 | 0 | 15 | 80 | 1 |
 | Juniper Networks | learningportal.juniper.net | 13 | 10 | 6 | 7 | 3 | 3 |
 | EIT Manufacturing | www.eit.europa.eu | 9 | 9 | 3 | 0 | 0 | 9 |
 | EIT Climate-KIC | www.climate-kic.org | 11 | 8 | 0 | 0 | 4 | 7 |
@@ -91,12 +90,12 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | TryHackMe | tryhackme.com | 4 | 4 | 0 | 0 | 1 | 3 |
 | DigitalOcean | www.digitalocean.com | 5 | 3 | 2 | 2 | 3 | 0 |
 | HashiCorp | developer.hashicorp.com | 3 | 3 | 2 | 3 | 0 | 0 |
-| Neo4j | graphacademy.neo4j.com | 22 | 3 | 1 | 3 | 19 | 0 |
+| Neo4j | graphacademy.neo4j.com | 21 | 3 | 1 | 3 | 18 | 0 |
 | Microsoft | learn.microsoft.com | 13 | 3 | 1 | 3 | 10 | 0 |
+| PyTorch | pytorch.org | 3 | 3 | 0 | 1 | 2 | 0 |
 | Нетология | netology.ru | 3 | 3 | 0 | 0 | 0 | 3 |
-| Unity | learn.unity.com | 31 | 2 | 1 | 0 | 30 | 1 |
+| Unity | learn.unity.com | 51 | 2 | 2 | 0 | 49 | 2 |
 | Chainlink | docs.chain.link | 2 | 2 | 1 | 2 | 0 | 0 |
-| Cadence | www.cadence.com | 706 | 2 | 0 | 17 | 689 | 0 |
 | Linux Foundation | training.linuxfoundation.org | 298 | 2 | 0 | 13 | 285 | 0 |
 | Linux Foundation Training | training.linuxfoundation.org | 298 | 2 | 0 | 13 | 285 | 0 |
 | Looker / Google | docs.cloud.google.com | 140 | 2 | 0 | 2 | 138 | 0 |
@@ -104,14 +103,13 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | OpenTelemetry | opentelemetry.io | 9 | 2 | 0 | 2 | 6 | 1 |
 | FAO eLearning Academy | openknowledge.fao.org | 4 | 2 | 0 | 0 | 4 | 0 |
 | Qlik | learning.qlik.com | 3 | 2 | 0 | 2 | 1 | 0 |
-| PyTorch | pytorch.org | 2 | 2 | 0 | 1 | 1 | 0 |
 | Web3 Foundation | web3.foundation | 2 | 2 | 0 | 0 | 0 | 2 |
 | COMSOL | www.comsol.com | 320 | 1 | 0 | 0 | 319 | 1 |
 | OpenSSF | openssf.org | 13 | 1 | 0 | 0 | 13 | 0 |
 | Google Cloud | www.skills.google | 1 | 1 | 0 | 1 | 0 | 0 |
 | Lattice Semiconductor | www.latticesemi.com | 1 | 1 | 0 | 0 | 1 | 0 |
 | NASA | www.nasa.gov | 1 | 1 | 0 | 0 | 0 | 1 |
-| Открытое образование | openedu.ru | 268 | 0 | 0 | 0 | 268 | 0 |
+| Открытое образование | openedu.ru | 200 | 0 | 0 | 0 | 200 | 0 |
 | 1C | 1c.ru | 66 | 0 | 0 | 0 | 66 | 0 |
 | fast.ai | course.fast.ai | 56 | 0 | 0 | 0 | 56 | 0 |
 | Eclipse Foundation | www.eclipse.org | 39 | 0 | 0 | 0 | 39 | 0 |
@@ -119,6 +117,8 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | The Carpentries | carpentries.org | 4 | 0 | 0 | 0 | 4 | 0 |
 | Dassault Aviation | www.dassault-aviation.com | 1 | 0 | 0 | 0 | 1 | 0 |
 | OWASP | owasp.org | 1 | 0 | 0 | 0 | 1 | 0 |
+| OWASP Foundation | owasp.org | 1 | 0 | 0 | 0 | 1 | 0 |
+| Prometheus | prometheus.io | 1 | 0 | 0 | 0 | 1 | 0 |
 
 ## Candidate records
 
@@ -134,6 +134,7 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 10 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Certify your Skills with a CSA Digital Badge | official-page-extraction | heading | https://cloudsecurityalliance.org/education/digital-badges/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 10 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Gain the skills and credentials to audit cloud and AI systems against CSA STAR certification frameworks. | official-page-extraction | heading | https://cloudsecurityalliance.org/education/star-auditor-training/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 10 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Gain the skills and credentials to audit cloud and AI systems against CSA STAR certification frameworks. | official-page-extraction | heading | https://cloudsecurityalliance.org/education/star-auditor-training | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 10 | high-confidence review candidate | likely credential identity | FutureLearn | AWS AI Practitioner - Foundational, Professional Certificate | official-page-extraction | heading | https://www.futurelearn.com/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 10 | high-confidence review candidate | likely credential identity | HashiCorp | New! Terraform Professional certification exam | official-page-extraction | heading | https://developer.hashicorp.com/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 10 | high-confidence review candidate | likely credential identity | Juniper Networks | Certification Program Overview | official-page-extraction | jsonld | https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=14346 | evidence=official-page-extraction; method=jsonld; official URL present; source page present; specific credential name; credential language in title |
 | 10 | high-confidence review candidate | likely credential identity | PortSwigger | Do I need a user account to get a certification exam? | official-page-extraction | heading | https://portswigger.net/web-security/certification/frequently-asked-questions | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
@@ -228,6 +229,7 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 9 | high-confidence review candidate | likely credential identity | AWS | The latest in AWS Certification | official-page-extraction | heading | https://aws.amazon.com/certification/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | AWS | Why get AWS Certified? | official-page-extraction | heading | https://aws.amazon.com/certification/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Chainlink | Become a certified Chainlink developer | official-page-extraction | heading | https://docs.chain.link/certification | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Class Central | TESOL Certificate, Part 1: Teach English Now! | official-page-extraction | heading | https://www.classcentral.com/subject/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Certificate of Cloud Security Knowledge | official-page-extraction | heading | https://cloudsecurityalliance.org/education/schedule | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Certificate of Cloud Security Knowledge | official-page-extraction | heading | https://cloudsecurityalliance.org/education/partner | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Certificate of Cloud Security Knowledge (CCSK) | official-page-extraction | heading | https://cloudsecurityalliance.org/education/gsa-schedule/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
@@ -251,13 +253,6 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 9 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Winner of the Best Cloud Security Certification 2025 | official-page-extraction | heading | https://cloudsecurityalliance.org/education/ccsk | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Winner of the Best Professional Certification Program 2026 | official-page-extraction | heading | https://cloudsecurityalliance.org/education/taise | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Cloud Security Alliance | Winner of the Best Professional Certification Program 2026 | official-page-extraction | heading | https://cloudsecurityalliance.org/education/taise/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Cloudflare | Expired SSL certificate | official-page-extraction | heading | https://www.cloudflare.com/learning/ssl/common-errors/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Cloudflare | How does a website get an SSL certificate? | official-page-extraction | heading | https://www.cloudflare.com/learning/ssl/how-does-ssl-work/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Cloudflare | How does Cloudflare eliminate SSL certificate errors? | official-page-extraction | heading | https://www.cloudflare.com/learning/ssl/common-errors/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Cloudflare | Is it possible to get a free SSL certificate? | official-page-extraction | heading | https://www.cloudflare.com/learning/ssl/how-does-ssl-work/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Cloudflare | SSL certificate is not trusted | official-page-extraction | heading | https://www.cloudflare.com/learning/ssl/common-errors/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Cloudflare | What is an SSL certificate? | official-page-extraction | heading | https://www.cloudflare.com/learning/ssl/how-does-ssl-work/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Cloudflare | What is an SSL certificate? What is HTTPS? | official-page-extraction | heading | https://www.cloudflare.com/learning/ssl/connection-not-private-explained/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Confluent | Enhance your career, get a Certificate as a Data Streaming Engineer | official-page-extraction | heading | https://developer.confluent.io/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Coursera | CertNexus Certified Artificial Intelligence Practitioner Professional Certificate | official-page-extraction | anchor | https://www.coursera.org/professional-certificates/certified-artificial-intelligence-practitioner | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Dassault Systèmes | Take the plunge with our certification program | official-page-extraction | heading | https://www.3ds.com/edu/skills | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
@@ -312,7 +307,6 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 9 | high-confidence review candidate | likely credential identity | ISC2 | CGRC – Governance, Risk and Compliance Certification | official-page-extraction | heading | https://www.isc2.org/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | ISC2 | CISSP - Certified Information Systems Security Professional | official-page-extraction | heading | https://www.isc2.org/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | ISC2 | CSSLP – Certified Secure Software Lifecycle Professional | official-page-extraction | heading | https://www.isc2.org/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | ISC2 | Get 2X Exam Tries | official-page-extraction | heading | https://www.isc2.org/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | ISC2 | Global Median Salaries* by ISC2 Certification | official-page-extraction | heading | https://www.isc2.org/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | ISC2 | New AI Security Certification Under Development | official-page-extraction | heading | https://www.isc2.org/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | ISC2 | SSCP – Systems Security Certified Practitioner | official-page-extraction | heading | https://www.isc2.org/certifications | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
@@ -484,13 +478,14 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 9 | high-confidence review candidate | likely credential identity | Python Institute | PCAD™ – Certified Associate Data Analyst with Python | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Python Institute | PCAP™ – Certified Associate Python Programmer | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Python Institute | PCAT™ – Certified Associate Tester with Python | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Python Institute | PCEA™ – Certified Entry-Level Automation Specialist with Python | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Python Institute | PCEA™ – Certified Entry-Level Automation Engineer with Python | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Python Institute | PCED™ – Certified Entry-Level Data Analyst with Python | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Python Institute | PCEI™ – Certified Entry-Level AI Specialist with Python | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Python Institute | PCEI™ – Certified Entry-Level AI Engineer with Python | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Python Institute | PCEP™ – Certified Entry-Level Python Programmer | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Python Institute | PCES™ – Certified Entry-Level Security Specialist with Python | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Python Institute | PCES™ – Certified Entry-Level Security Engineer with Python | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Python Institute | PCET™ – Certified Entry-Level Tester with Python | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
-| 9 | high-confidence review candidate | likely credential identity | Python Institute | PCPP1™ – Certified Professional Python Programmer 1 | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Python Institute | PCPP1™ – Certified Professional Python Programmer: Software Development | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
+| 9 | high-confidence review candidate | likely credential identity | Python Institute | PCPP1™ – Certified Professional Python Programmer: Systems Engineering | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | Python Institute | Plan your certification pathway | official-page-extraction | heading | https://pythoninstitute.org/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | QGIS | Certification Process Â¶ | official-page-extraction | heading | https://www.qgis.org/community/certification/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
 | 9 | high-confidence review candidate | likely credential identity | QGIS | Certification Programme Â¶ | official-page-extraction | heading | https://www.qgis.org/community/certification/ | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name; credential language in title |
@@ -624,3 +619,8 @@ Manual review must confirm the issuer page, credential-bearing activity, current
 | 8 | high-confidence review candidate | likely credential identity | Power BI / Microsoft | Take the certification practice assessment | official-page-extraction | anchor | https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/practice/assessment?assessment-type=practice&assessmentId=48&practice-assessment-type=certification | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
 | 8 | high-confidence review candidate | likely credential identity | Snowflake | Certification DAA-C01 SnowProÂ® Advanced: Data Analyst (Retiring December 1, 2026) The SnowProÂ® Advanced: Data Analyst Certification Exam wi... Learn More | official-page-extraction | anchor | https://learn.snowflake.com/en/certifications/snowpro-advanced-dataanalyst/ | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
 | 8 | high-confidence review candidate | likely credential identity | Snowflake | Certification GES-C02 SnowProÂ® Specialty: Gen AI The SnowProÂ® Specialty: Gen AI Certification Exam will va... Learn More | official-page-extraction | anchor | https://learn.snowflake.com/en/certifications/snowpro-GenAI-C02/ | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
+| 8 | high-confidence review candidate | likely credential identity | Snowflake | Certification NAS-C02 SnowProÂ® Specialty: Native Apps TheÂ SnowProÂ® Specialty: Native Apps Certification Exam wi... Learn More | official-page-extraction | anchor | https://learn.snowflake.com/en/certifications/snowpro-nativeapps-c02/ | evidence=official-page-extraction; official URL present; source page present; specific credential name; credential language in title |
+| 8 | high-confidence review candidate | uncertain credential identity | Altium | Altium Education Programs | official-page-extraction | heading | https://www.altium.com/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
+| 8 | high-confidence review candidate | uncertain credential identity | Altium | See What Altium Education Programs Can Do for You | official-page-extraction | heading | https://www.altium.com/education | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
+| 8 | high-confidence review candidate | uncertain credential identity | Altium | Thank you for enrolling in Altium’s Free Student License and Education Curriculum. | official-page-extraction | heading | https://www.altium.com/education/students | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
+| 8 | high-confidence review candidate | uncertain credential identity | Ansible | Continue your education and discover best practices | official-page-extraction | heading | https://www.redhat.com/en/technologies/management/ansible/learn?sc_cid=7015Y000003szaeQAA | evidence=official-page-extraction; method=heading; official URL present; source page present; specific credential name |
